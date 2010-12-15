@@ -1,0 +1,270 @@
+TBankAccountGUI
+v7
+r0
+t306294872.811625
+cCheck dependencies
+cProcessInfoPlistFile "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/BankAccountGUI.app/Info.plist" BankAccountGUI-Info.plist
+cCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/MainWindow.xib"
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccountGUI_Prefix-eclqgnvtjnsoahfycoqtxjmnjlem/BankAccountGUI_Prefix.pch.gch BankAccountGUI_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/Objects-normal/i386/main.o "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/Objects-normal/i386/BankAccountGUIAppDelegate.o "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/Objects-normal/i386/Account.o "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B6361E000000000000000EE
+t1264804320
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/BankAccountGUI_Prefix.pch
+c000000004C915E2500000000000000C5
+t1284595237
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.h
+c000000004C91654A0000000000000172
+t1284597066
+s370
+i<Cocoa/Cocoa.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m
+c000000004C72BEAE0000000000000410
+t1282588334
+s1040
+i"Account.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.h
+c000000004C9165E1000000000000026A
+t1284597217
+s618
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m
+c000000004C9178D4000000000000065D
+t1284602068
+s1629
+i"BankAccountGUIAppDelegate.h"
+i"Account.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/MainWindow.xib
+c000000004C91665A00000000000063A6
+t1284597338
+s25510
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/Objects-normal/i386/Account.o
+t2
+s0
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/Objects-normal/i386/BankAccountGUI.LinkFileList
+c000000004C9178D700000000000001FB
+t1284602071
+s507
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/Objects-normal/i386/BankAccountGUIAppDelegate.o
+t2
+s0
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/Objects-normal/i386/main.o
+t1284602072
+s6008
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/BankAccountGUI.app
+t2
+s0
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/BankAccountGUI.app.dSYM
+t2
+s0
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/BankAccountGUI.app/BankAccountGUI
+t2
+s0
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/BankAccountGUI.app/Info.plist
+t1284602071
+s592
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/BankAccountGUI.app/MainWindow.nib
+t1284602071
+s4053
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/BankAccountGUI.app/PkgInfo
+t1284602071
+s8
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/main.m
+c000000004C915E25000000000000016E
+t1284595237
+s366
+i<UIKit/UIKit.h>
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccountGUI_Prefix-eclqgnvtjnsoahfycoqtxjmnjlem/BankAccountGUI_Prefix.pch.gch
+t1284602072
+s13034960
+
+NBankAccountGUI-Info.plist
+c000000004C915E25000000000000038D
+t1284595237
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306294871#306294871#0(0"0(0#1#0"9007637348679712#0"0#
+
+CCompileC build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/Objects-normal/i386/Account.o "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s306294872.765176
+e306294872.811032
+r0
+xCompileC
+xbuild/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/Objects-normal/i386/Account.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:9:20: error: Account.h: No such file or directory
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:14: warning: cannot find interface declaration for 'Account'
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m: In function '-[Account init]':
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:16: warning: 'Account' may not respond to '-init:'
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:16: warning: (Messages without a matching method signature
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:16: warning: will be assumed to return 'id' and accept
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:16: warning: '...' as arguments.)
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m: In function '-[Account init:]':
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:20: error: no super class declared in @interface for 'Account'
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:25: error: 'balance' undeclared (first use in this function)
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:25: error: (Each undeclared identifier is reported only once
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:25: error: for each function it appears in.)
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m: In function '-[Account deposit:]':
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:33: error: 'balance' undeclared (first use in this function)
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m: In function '-[Account withdraw:]':
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:36: error: 'balance' undeclared (first use in this function)
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m: In function '-[Account description]':
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:48: error: 'balance' undeclared (first use in this function)
+o{standard input}:66:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:66:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+lSLF07#2@89"Compile /Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m306294872#306294872#0(2674"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:9:20: error: Account.h: No such file or directory/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:14: warning: cannot find interface declaration for 'Account'/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m: In function '-[Account init]':/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:16: warning: 'Account' may not respond to '-init:'/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:16: warning: (Messages without a matching method signature/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:16: warning: will be assumed to return 'id' and accept/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:16: warning: '...' as arguments.)/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m: In function '-[Account init:]':/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:20: error: no super class declared in @interface for 'Account'/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:25: error: 'balance' undeclared (first use in this function)/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:25: error: (Each undeclared identifier is reported only once/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:25: error: for each function it appears in.)/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m: In function '-[Account deposit:]':/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:33: error: 'balance' undeclared (first use in this function)/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m: In function '-[Account withdraw:]':/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:36: error: 'balance' undeclared (first use in this function)/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m: In function '-[Account description]':/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m:48: error: 'balance' undeclared (first use in this function){standard input}:66:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:66:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_09(4@36"Account.h: No such file or directory306294872#0#132#0(6@81"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m304281134#9#0#9#0#28"*: No such file or directory0(22@47"Cannot find interface declaration for 'Account'306294872#132#143#0(6@81"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m304281134#14#0#14#0#0"0(22@37"'Account' may not respond to '-init:'306294872#389#133#0(6@81"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m304281134#16#0#16#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306294872#522#141#0(6@81"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m304281134#16#0#16#0#0"0(4@51"No super class declared in @interface for 'Account'306294872#1031#145#0(6@81"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m304281134#20#0#20#0#0"0(4@49"'balance' undeclared (first use in this function)306294872#1176#143#0(6@81"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m304281134#25#0#25#0#43"'*' undeclared (first use in this function)0(4@49"'balance' undeclared (first use in this function)306294872#1707#143#0(6@81"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m304281134#33#0#33#0#43"'*' undeclared (first use in this function)0(4@49"'balance' undeclared (first use in this function)306294872#1969#143#0(6@81"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m304281134#36#0#36#0#43"'*' undeclared (first use in this function)0(4@49"'balance' undeclared (first use in this function)306294872#2233#143#0(6@81"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m304281134#48#0#48#0#43"'*' undeclared (first use in this function)0(0#0#81"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m4300885448#2310"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/BankAccountGUI-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/BankAccountGUI-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/BankAccountGUI-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/BankAccountGUI-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccountGUI_Prefix-eclqgnvtjnsoahfycoqtxjmnjlem/BankAccountGUI_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/Account.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/Objects-normal/i386/Account.o"1#
+
+CCompileC build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/Objects-normal/i386/BankAccountGUIAppDelegate.o "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s306294872.696361
+e306294872.765076
+r0
+xCompileC
+xbuild/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/Objects-normal/i386/BankAccountGUIAppDelegate.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:9:
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.h:12: error: statically allocated instance of Objective-C class 'NSDecimalNumber'
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:10:20: error: Account.h: No such file or directory
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m: In function '-[BankAccountGUIAppDelegate init]':
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:21: warning: control reaches end of non-void function
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m: In function '-[BankAccountGUIAppDelegate withdrawl]':
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:24: error: incompatible types in initialization
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:25: warning: passing argument 1 of 'NSLog' from incompatible pointer type
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m: In function '-[BankAccountGUIAppDelegate deposit]':
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:29: error: incompatible types in initialization
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m: In function '-[BankAccountGUIAppDelegate applicationDidFinishLaunching:]':
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:40: error: 'Account' undeclared (first use in this function)
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:40: error: (Each undeclared identifier is reported only once
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:40: error: for each function it appears in.)
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:41: warning: invalid receiver type ''
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:42: warning: invalid receiver type ''
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:42: warning: no '-deposit:' method found
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:42: warning: (Messages without a matching method signature
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:42: warning: will be assumed to return 'id' and accept
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:42: warning: '...' as arguments.)
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:43: warning: invalid receiver type ''
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:44: warning: invalid receiver type ''
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:44: warning: no '-withdraw:' method found
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:45: warning: invalid receiver type ''
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:46: error: 'secondAcct' undeclared (first use in this function)
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:53: warning: 'return' with a value, in function returning void
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m: At top level:
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:65: warning: property 'balance' requires method '-balance' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:65: warning: property 'balance' requires the method 'setBalance:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:65: warning: property 'depositOrWithdrawlAmount' requires method '-depositOrWithdrawlAmount' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:65: warning: property 'depositOrWithdrawlAmount' requires the method 'setDepositOrWithdrawlAmount:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@107"Compile /Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294872#306294872#0(5070"In file included from /Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:9:/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.h:12: error: statically allocated instance of Objective-C class 'NSDecimalNumber'/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:10:20: error: Account.h: No such file or directory/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m: In function '-[BankAccountGUIAppDelegate init]':/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:21: warning: control reaches end of non-void function/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m: In function '-[BankAccountGUIAppDelegate withdrawl]':/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:24: error: incompatible types in initialization/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:25: warning: passing argument 1 of 'NSLog' from incompatible pointer type/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m: In function '-[BankAccountGUIAppDelegate deposit]':/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:29: error: incompatible types in initialization/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m: In function '-[BankAccountGUIAppDelegate applicationDidFinishLaunching:]':/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:40: error: 'Account' undeclared (first use in this function)/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:40: error: (Each undeclared identifier is reported only once/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:40: error: for each function it appears in.)/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:41: warning: invalid receiver type ''/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:42: warning: invalid receiver type ''/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:42: warning: no '-deposit:' method found/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:42: warning: (Messages without a matching method signature/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:42: warning: will be assumed to return 'id' and accept/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:42: warning: '...' as arguments.)/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:43: warning: invalid receiver type ''/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:44: warning: invalid receiver type ''/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:44: warning: no '-withdraw:' method found/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:45: warning: invalid receiver type ''/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:46: error: 'secondAcct' undeclared (first use in this function)/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:53: warning: 'return' with a value, in function returning void/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m: At top level:/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:65: warning: property 'balance' requires method '-balance' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:65: warning: property 'balance' requires the method 'setBalance:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:65: warning: property 'depositOrWithdrawlAmount' requires method '-depositOrWithdrawlAmount' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m:65: warning: property 'depositOrWithdrawlAmount' requires the method 'setDepositOrWithdrawlAmount:' to be defined - use @synthesize, @dynamic or provide a method implementation22(4@68"Statically allocated instance of Objective-C class 'NSDecimalNumber'306294872#125#180#2(7@121"In file included from /Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294872#18446744073709551615#0#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#9#0#9#0#0"0(13@171"Statically allocated instance of Objective-C class 'NSDecimalNumber' in /Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.h306294872#18446744073709551615#0#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.h306290017#12#0#12#0#0"0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.h306290017#12#0#12#0#0"0(4@36"Account.h: No such file or directory306294872#305#151#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#10#0#10#0#28"*: No such file or directory0(22@40"Control reaches end of non-void function306294872#606#154#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#21#0#21#0#40"control reaches end of non-void function0(4@36"Incompatible types in initialization306294872#915#148#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#24#0#24#0#0"0(22@60"Passing argument 1 of 'NSLog' from incompatible pointer type306294872#1063#174#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#25#0#25#0#56"passing argument * of '*' from incompatible pointer type0(4@36"Incompatible types in initialization306294872#1390#148#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#29#0#29#0#0"0(4@49"'Account' undeclared (first use in this function)306294872#1714#161#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#40#0#40#0#43"'*' undeclared (first use in this function)0(22@24"Invalid receiver type ''306294872#2181#138#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#41#0#41#0#0"0(22@24"Invalid receiver type ''306294872#2319#138#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#42#0#42#0#0"0(22@27"No '-deposit:' method found306294872#2457#141#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#42#0#42#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306294872#2598#159#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#42#0#42#0#0"0(22@24"Invalid receiver type ''306294872#3046#138#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#43#0#43#0#0"0(22@24"Invalid receiver type ''306294872#3184#138#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#44#0#44#0#0"0(22@28"No '-withdraw:' method found306294872#3322#142#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#44#0#44#0#19"no '*' method found0(22@24"Invalid receiver type ''306294872#3464#138#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#45#0#45#0#0"0(4@52"'secondAcct' undeclared (first use in this function)306294872#3602#164#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#46#0#46#0#43"'*' undeclared (first use in this function)0(22@49"'return' with a value, in function returning void306294872#3766#163#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#53#0#53#0#0"0(23@13"At top level:306294872#3929#115#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#0#0#0#0#0"0(22@122"Property 'balance' requires method '-balance' to be defined - use @synthesize, @dynamic or provide a method implementation306294872#4044#236#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#65#0#65#0#0"0(22@129"Property 'balance' requires the method 'setBalance:' to be defined - use @synthesize, @dynamic or provide a method implementation306294872#4280#243#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#65#0#65#0#0"0(22@156"Property 'depositOrWithdrawlAmount' requires method '-depositOrWithdrawlAmount' to be defined - use @synthesize, @dynamic or provide a method implementation306294872#4523#270#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#65#0#65#0#0"0(22@163"Property 'depositOrWithdrawlAmount' requires the method 'setDepositOrWithdrawlAmount:' to be defined - use @synthesize, @dynamic or provide a method implementation306294872#4793#277#0(6@99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m306294868#65#0#65#0#0"0(0#0#99"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m4300885448#2346"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/BankAccountGUI-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/BankAccountGUI-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/BankAccountGUI-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/BankAccountGUI-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccountGUI_Prefix-eclqgnvtjnsoahfycoqtxjmnjlem/BankAccountGUI_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/Classes/BankAccountGUIAppDelegate.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/Objects-normal/i386/BankAccountGUIAppDelegate.o"1#
+
+CCompileC build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/Objects-normal/i386/main.o "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s306294872.694790
+e306294872.766686
+r1
+xCompileC
+xbuild/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/main.m306294872#306294872#0(0"0(0#0#70"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/main.m4300885448#2296"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/BankAccountGUI-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/BankAccountGUI-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/BankAccountGUI-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/BankAccountGUI-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccountGUI_Prefix-eclqgnvtjnsoahfycoqtxjmnjlem/BankAccountGUI_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/main.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/MainWindow.xib"
+s306294871.562387
+e306294871.951327
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib306294871#306294871#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#78"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/MainWindow.xib4300885448#570"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/BankAccountGUI.app/MainWindow.nib" "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/BankAccountGUI.app.dSYM" "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/BankAccountGUI.app/BankAccountGUI"
+r0
+
+CLd "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/BankAccountGUI.app/BankAccountGUI" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/BankAccountGUI.app/Info.plist" BankAccountGUI-Info.plist
+s306294871.485441
+e306294871.562289
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/BankAccountGUI.app/Info.plist
+xBankAccountGUI-Info.plist
+lSLF07#2@33"Process BankAccountGUI-Info.plist306294871#306294871#0(0"0(0#0#89"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/BankAccountGUI-Info.plist8319395793566528512#581"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BankAccountGUI-Info.plist -genpkginfo "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/BankAccountGUI.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/BankAccountGUI.app/Info.plist"0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccountGUI_Prefix-eclqgnvtjnsoahfycoqtxjmnjlem/BankAccountGUI_Prefix.pch.gch BankAccountGUI_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306294871.951570
+e306294872.694661
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccountGUI_Prefix-eclqgnvtjnsoahfycoqtxjmnjlem/BankAccountGUI_Prefix.pch.gch
+xBankAccountGUI_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile BankAccountGUI_Prefix.pch306294871#306294872#0(0"0(0#0#89"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/BankAccountGUI_Prefix.pch4300885448#2154"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/BankAccountGUI-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/BankAccountGUI-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/BankAccountGUI-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/BankAccountGUI-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/BankAccountGUI.build/Debug-iphonesimulator/BankAccountGUI.build/DerivedSources" -c "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/BankAccountGUI_Prefix.pch" -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccountGUI_Prefix-eclqgnvtjnsoahfycoqtxjmnjlem/BankAccountGUI_Prefix.pch.gch0#
+
+CTouch "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/build/Debug-iphonesimulator/BankAccountGUI.app"
+r0
+

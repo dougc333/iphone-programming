@@ -1,0 +1,275 @@
+THeavyRotation
+v7
+r0
+t308337196.289510
+cCheck dependencies
+cProcessInfoPlistFile "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/Info.plist" HeavyRotation-Info.plist
+cCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/MainWindow.xib"
+cCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyViewController.xib"
+cCpResource build/Debug-iphonesimulator/HeavyRotation.app/neytiri.png neytiri.png
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HeavyRotation_Prefix-hizbnceminrtgadeclbfonskogcx/HeavyRotation_Prefix.pch.gch HeavyRotation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/main.o "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/HeavyRotationAppDelegate.o "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyRotationAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/HeavyViewController.o "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/HeavyRotation" normal i386
+cGenerateDSYMFile "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app.dSYM" "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/HeavyRotation"
+cTouch "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B6361E000000000000000EE
+t1264804320
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyRotationAppDelegate.h
+c000000004CB09A920000000000000157
+t1286642322
+s343
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyRotationAppDelegate.m
+c000000004CB0A1B60000000000000654
+t1286644150
+s1620
+i"HeavyRotationAppDelegate.h"
+i"HeavyViewController.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyViewController.h
+c000000004CB09E1400000000000000EE
+t1286643220
+s238
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyViewController.m
+c000000004CB0A2A90000000000000598
+t1286644393
+s1432
+i"HeavyViewController.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyViewController.xib
+c000000004CB0A15000000000000053A3
+t1286644048
+s21411
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/HeavyRotation_Prefix.pch
+c000000004CB09A9200000000000000C3
+t1286642322
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/MainWindow.xib
+c000000004CB09A920000000000001F71
+t1286642322
+s8049
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app
+t1286644396
+s272
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app.dSYM
+t1286644396
+s102
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/HeavyRotation
+t1286644396
+s20060
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/HeavyViewController.nib
+t1286644182
+s2973
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/Info.plist
+t1286642890
+s588
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/MainWindow.nib
+t1286642890
+s1351
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/PkgInfo
+t1286642890
+s8
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/neytiri.png
+t1286644182
+s66928
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/HeavyRotation.LinkFileList
+c000000004CB0A1D600000000000001FD
+t1286644182
+s509
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/HeavyRotationAppDelegate.o
+t1286644183
+s40780
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/HeavyViewController.o
+t1286644396
+s30452
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/main.o
+t1286642893
+s6004
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/main.m
+c000000004CB09A92000000000000016D
+t1286642322
+s365
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/neytiri.png
+c000000004CB09ECA0000000000010570
+t1286643402
+s66928
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HeavyRotation_Prefix-hizbnceminrtgadeclbfonskogcx/HeavyRotation_Prefix.pch.gch
+t1286642892
+s13034960
+
+NHeavyRotation-Info.plist
+c000000004CB09A92000000000000038D
+t1286642322
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308337196#308337196#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/HeavyRotationAppDelegate.o "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyRotationAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308336982.938897
+e308336983.164200
+r1
+xCompileC
+xbuild/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/HeavyRotationAppDelegate.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyRotationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyRotationAppDelegate.m308336982#308336983#0(0"0(0#0#97"/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyRotationAppDelegate.m4300885448#2313"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/HeavyRotation-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/HeavyRotation-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/HeavyRotation-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/HeavyRotation-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HeavyRotation_Prefix-hizbnceminrtgadeclbfonskogcx/HeavyRotation_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyRotationAppDelegate.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/HeavyRotationAppDelegate.o"0#
+
+CCompileC build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/HeavyViewController.o "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308337196.091828
+e308337196.241267
+r1
+xCompileC
+xbuild/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/HeavyViewController.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyViewController.m308337196#308337196#0(0"0(0#0#92"/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyViewController.m4300885448#2303"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/HeavyRotation-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/HeavyRotation-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/HeavyRotation-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/HeavyRotation-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HeavyRotation_Prefix-hizbnceminrtgadeclbfonskogcx/HeavyRotation_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyViewController.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/HeavyViewController.o"0#
+
+CCompileC build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/main.o "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308335692.817375
+e308335693.065491
+r1
+xCompileC
+xbuild/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/main.m308335692#308335693#0(0"0(0#0#69"/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/main.m4300885448#2265"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/HeavyRotation-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/HeavyRotation-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/HeavyRotation-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/HeavyRotation-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HeavyRotation_Prefix-hizbnceminrtgadeclbfonskogcx/HeavyRotation_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/main.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyViewController.xib"
+s308336982.475822
+e308336982.938581
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyViewController.xib
+lSLF07#2@42"CompileXIB Classes/HeavyViewController.xib308336982#308336982#0(0"0(0#0#94"/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyViewController.xib4300885448#592"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/HeavyViewController.nib" "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/Classes/HeavyViewController.xib"0#
+
+CCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/MainWindow.xib"
+s308335690.084569
+e308335690.811268
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308335690#308335690#0(0"0(0#0#77"/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/MainWindow.xib4300885448#566"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/MainWindow.nib" "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/MainWindow.xib"0#
+
+CCpResource build/Debug-iphonesimulator/HeavyRotation.app/neytiri.png neytiri.png
+s308336982.480517
+e308336982.547529
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HeavyRotation.app/neytiri.png
+xneytiri.png
+lSLF07#2@16"Copy neytiri.png308336982#308336982#0(0"0(0#0#74"/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/neytiri.png4300885448#539"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/neytiri.png" "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app"0#
+
+CGenerateDSYMFile "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app.dSYM" "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/HeavyRotation"
+s308337196.265222
+e308337196.286420
+r1
+xGenerateDSYMFile
+x/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app.dSYM
+x/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/HeavyRotation
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/HeavyRotation.app.dSYM build/Debug-iphonesimulator/HeavyRotation.app/HeavyRotation308337196#308337196#0(0"0(0#0#122"/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/HeavyRotation4300885448#479"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/HeavyRotation" -o "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app.dSYM"0#
+
+CLd "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/HeavyRotation" normal i386
+s308337196.241354
+e308337196.264491
+r1
+xLd
+x/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/HeavyRotation
+xnormal
+xi386
+lSLF07#2@127"Link /Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/HeavyRotation308337196#308337196#0(0"0(0#0#0"4300885448#1024"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator" "-F/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator" -filelist "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/Objects-normal/i386/HeavyRotation.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/HeavyRotation"0#
+
+CProcessInfoPlistFile "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/Info.plist" HeavyRotation-Info.plist
+s308335690.078619
+e308335690.084475
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/Info.plist
+xHeavyRotation-Info.plist
+lSLF07#2@32"Process HeavyRotation-Info.plist308335690#308335690#0(0"0(0#0#87"/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/HeavyRotation-Info.plist4300885448#575"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HeavyRotation-Info.plist -genpkginfo "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app/Info.plist"0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HeavyRotation_Prefix-hizbnceminrtgadeclbfonskogcx/HeavyRotation_Prefix.pch.gch HeavyRotation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308335690.811396
+e308335692.817188
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HeavyRotation_Prefix-hizbnceminrtgadeclbfonskogcx/HeavyRotation_Prefix.pch.gch
+xHeavyRotation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile HeavyRotation_Prefix.pch308335690#308335692#0(0"0(0#0#87"/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/HeavyRotation_Prefix.pch4300885448#2125"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/HeavyRotation-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/HeavyRotation-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/HeavyRotation-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/HeavyRotation-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/HeavyRotation.build/Debug-iphonesimulator/HeavyRotation.build/DerivedSources" -c "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/HeavyRotation_Prefix.pch" -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HeavyRotation_Prefix-hizbnceminrtgadeclbfonskogcx/HeavyRotation_Prefix.pch.gch0#
+
+CTouch "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app"
+s308337196.286516
+e308337196.289465
+r1
+xTouch
+x/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app
+lSLF07#2@114"Touch /Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app308337196#308337196#0(0"0(0#0#0"4300885448#336"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dougc333/Desktop/xcode experiments/cis312/HeavyRotation/build/Debug-iphonesimulator/HeavyRotation.app"0#
+

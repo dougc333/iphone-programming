@@ -1,0 +1,207 @@
+TStarWarsTest
+v7
+r0
+t304839666.557219
+cCheck dependencies
+cProcessInfoPlistFile "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/Info.plist" StarWarsTest-Info.plist
+cCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/MainWindow.xib"
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StarWarsTest_Prefix-ciapislomruxhrdvziugmoidarff/StarWarsTest_Prefix.pch.gch StarWarsTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/Objects-normal/i386/main.o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/Objects-normal/i386/StarWarsTestAppDelegate.o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/Classes/StarWarsTestAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/StarWarsTest" normal i386
+cGenerateDSYMFile "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app.dSYM" "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/StarWarsTest"
+cTouch "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B6361E000000000000000EE
+t1264804320
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/Classes/StarWarsTestAppDelegate.h
+c000000004C7B437100000000000001C4
+t1283146609
+s452
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/Classes/StarWarsTestAppDelegate.m
+c000000004C7B43D40000000000000284
+t1283146708
+s644
+i"StarWarsTestAppDelegate.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/MainWindow.xib
+c000000004C7B446D000000000000470A
+t1283146861
+s18186
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/StarWarsTest_Prefix.pch
+c000000004C7B434700000000000000C1
+t1283146567
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app
+t1283146866
+s204
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app.dSYM
+t1283146866
+s102
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/Info.plist
+t1283146865
+s584
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/MainWindow.nib
+t1283146865
+s1988
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/PkgInfo
+t1283146865
+s8
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/StarWarsTest
+t1283146866
+s19052
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/Objects-normal/i386/StarWarsTest.LinkFileList
+c000000004C7B44710000000000000149
+t1283146865
+s329
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/Objects-normal/i386/StarWarsTestAppDelegate.o
+t1283146866
+s23684
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/Objects-normal/i386/main.o
+t1283146866
+s6004
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/main.m
+c000000004C7B4347000000000000016C
+t1283146567
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StarWarsTest_Prefix-ciapislomruxhrdvziugmoidarff/StarWarsTest_Prefix.pch.gch
+t1283146866
+s13034960
+
+NStarWarsTest-Info.plist
+c000000004C7B4347000000000000038D
+t1283146567
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304839665#304839665#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/Objects-normal/i386/StarWarsTestAppDelegate.o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/Classes/StarWarsTestAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304839666.443228
+e304839666.517041
+r1
+xCompileC
+xbuild/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/Objects-normal/i386/StarWarsTestAppDelegate.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/Classes/StarWarsTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/Classes/StarWarsTestAppDelegate.m304839666#304839666#0(0"0(0#0#95"/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/Classes/StarWarsTestAppDelegate.m4300885448#2280"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/StarWarsTest-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/StarWarsTest-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/StarWarsTest-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/StarWarsTest-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StarWarsTest_Prefix-ciapislomruxhrdvziugmoidarff/StarWarsTest_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/Classes/StarWarsTestAppDelegate.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/Objects-normal/i386/StarWarsTestAppDelegate.o"0#
+
+CCompileC build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/Objects-normal/i386/main.o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304839666.441484
+e304839666.501517
+r1
+xCompileC
+xbuild/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/main.m304839666#304839666#0(0"0(0#0#68"/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/main.m4300885448#2234"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/StarWarsTest-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/StarWarsTest-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/StarWarsTest-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/StarWarsTest-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StarWarsTest_Prefix-ciapislomruxhrdvziugmoidarff/StarWarsTest_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/main.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/MainWindow.xib"
+s304839665.289828
+e304839665.595140
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib304839665#304839665#0(0"0(0#0#76"/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/MainWindow.xib4300885448#562"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/MainWindow.nib" "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app.dSYM" "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/StarWarsTest"
+s304839666.540656
+e304839666.554122
+r1
+xGenerateDSYMFile
+x/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app.dSYM
+x/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/StarWarsTest
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/StarWarsTest.app.dSYM build/Debug-iphonesimulator/StarWarsTest.app/StarWarsTest304839666#304839666#0(0"0(0#0#119"/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/StarWarsTest4300885448#473"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/StarWarsTest" -o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app.dSYM"0#
+
+CLd "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/StarWarsTest" normal i386
+s304839666.517138
+e304839666.540549
+r1
+xLd
+x/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/StarWarsTest
+xnormal
+xi386
+lSLF07#2@124"Link /Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/StarWarsTest304839666#304839666#0(0"0(0#0#0"4300885448#1014"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator" "-F/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator" -filelist "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/Objects-normal/i386/StarWarsTest.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/StarWarsTest"0#
+
+CProcessInfoPlistFile "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/Info.plist" StarWarsTest-Info.plist
+s304839665.285881
+e304839665.289750
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/Info.plist
+xStarWarsTest-Info.plist
+lSLF07#2@31"Process StarWarsTest-Info.plist304839665#304839665#0(0"0(0#0#85"/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/StarWarsTest-Info.plist4300885448#569"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility StarWarsTest-Info.plist -genpkginfo "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app/Info.plist"0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StarWarsTest_Prefix-ciapislomruxhrdvziugmoidarff/StarWarsTest_Prefix.pch.gch StarWarsTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304839665.595269
+e304839666.441341
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StarWarsTest_Prefix-ciapislomruxhrdvziugmoidarff/StarWarsTest_Prefix.pch.gch
+xStarWarsTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile StarWarsTest_Prefix.pch304839665#304839666#0(0"0(0#0#85"/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/StarWarsTest_Prefix.pch4300885448#2096"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/StarWarsTest-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/StarWarsTest-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/StarWarsTest-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/StarWarsTest-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/StarWarsTest.build/Debug-iphonesimulator/StarWarsTest.build/DerivedSources" -c "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/StarWarsTest_Prefix.pch" -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StarWarsTest_Prefix-ciapislomruxhrdvziugmoidarff/StarWarsTest_Prefix.pch.gch0#
+
+CTouch "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app"
+s304839666.554218
+e304839666.557166
+r1
+xTouch
+x/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app
+lSLF07#2@112"Touch /Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app304839666#304839666#0(0"0(0#0#0"4300885448#333"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dougc333/Desktop/xcode experiments/cis312/StarWarsTest/build/Debug-iphonesimulator/StarWarsTest.app"0#
+

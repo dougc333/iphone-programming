@@ -1,0 +1,216 @@
+TStarWars
+v7
+r0
+t304831870.697566
+cCheck dependencies
+cProcessInfoPlistFile "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/StarWars.app/Info.plist" StarWars-Info.plist
+cCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/MainWindow.xib"
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StarWars_Prefix-asqombpecjejfqefylxdpsreaeas/StarWars_Prefix.pch.gch StarWars_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/StarWars.build/Debug-iphonesimulator/StarWars.build/Objects-normal/i386/main.o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/StarWars.build/Debug-iphonesimulator/StarWars.build/Objects-normal/i386/StarWarsAppDelegate.o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B6361E000000000000000EE
+t1264804320
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.h
+c000000004C7B25E4000000000000030A
+t1283139044
+s778
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m
+c000000004C7B18BE00000000000001E3
+t1283135678
+s483
+i"StarWarsAppDelegate.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/MainWindow.xib
+c000000004C7B253100000000000063E1
+t1283138865
+s25569
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/StarWars.h
+c000000004C7B2203000000000000028E
+t1283138051
+s654
+i<Cocoa/Cocoa.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/StarWars.m
+c000000004C7B2538000000000000012D
+t1283138872
+s301
+i"StarWars.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/StarWars_Prefix.pch
+c000000004C7B18BE00000000000000B9
+t1283135678
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/StarWars.app
+t2
+s0
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/StarWars.app.dSYM
+t2
+s0
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/StarWars.app/Info.plist
+t1283139067
+s568
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/StarWars.app/MainWindow.nib
+t1283139068
+s4179
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/StarWars.app/PkgInfo
+t1283139067
+s8
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/StarWars.app/StarWars
+t2
+s0
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/Objects-normal/i386/StarWars.LinkFileList
+c000000004C7B25FB000000000000012D
+t1283139067
+s301
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/Objects-normal/i386/StarWars.o
+t2
+s0
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/Objects-normal/i386/StarWarsAppDelegate.o
+t2
+s0
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/Objects-normal/i386/main.o
+t1283139070
+s5996
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/main.m
+c000000004C7B18BE0000000000000168
+t1283135678
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StarWars_Prefix-asqombpecjejfqefylxdpsreaeas/StarWars_Prefix.pch.gch
+t1283139070
+s13034960
+
+NStarWars-Info.plist
+c000000004C7B18BE000000000000038D
+t1283135678
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304831867#304831867#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/StarWars.build/Debug-iphonesimulator/StarWars.build/Objects-normal/i386/StarWars.o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/StarWars.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/StarWars.build/Debug-iphonesimulator/StarWars.build/Objects-normal/i386/StarWarsAppDelegate.o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304831870.607353
+e304831870.692774
+r0
+xCompileC
+xbuild/StarWars.build/Debug-iphonesimulator/StarWars.build/Objects-normal/i386/StarWarsAppDelegate.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:9:
+o/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.h:19: error: variable or field 'generateStarWarsName' declared void
+o/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:29: warning: property 'lastName' requires method '-lastName' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:29: warning: property 'lastName' requires the method 'setLastName:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:29: warning: property 'firstName' requires method '-firstName' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:29: warning: property 'firstName' requires the method 'setFirstName:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:29: warning: property 'maidenName' requires method '-maidenName' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:29: warning: property 'maidenName' requires the method 'setMaidenName:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:29: warning: property 'City' requires method '-City' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:29: warning: property 'City' requires the method 'setCity:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@95"Compile /Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m304831870#304831870#0(2099"In file included from /Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:9:/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.h:19: error: variable or field 'generateStarWarsName' declared void/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:29: warning: property 'lastName' requires method '-lastName' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:29: warning: property 'lastName' requires the method 'setLastName:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:29: warning: property 'firstName' requires method '-firstName' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:29: warning: property 'firstName' requires the method 'setFirstName:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:29: warning: property 'maidenName' requires method '-maidenName' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:29: warning: property 'maidenName' requires the method 'setMaidenName:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:29: warning: property 'City' requires method '-City' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m:29: warning: property 'City' requires the method 'setCity:' to be defined - use @synthesize, @dynamic or provide a method implementation9(4@54"Variable or field 'generateStarWarsName' declared void304831870#113#154#2(7@109"In file included from /Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m304831870#18446744073709551615#0#0(6@87"/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m304828478#9#0#9#0#0"0(13@145"Variable or field 'generateStarWarsName' declared void in /Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.h304831870#18446744073709551615#0#0(6@87"/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.h304831844#19#0#19#0#0"0(6@87"/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.h304831844#19#0#19#0#0"0(22@124"Property 'lastName' requires method '-lastName' to be defined - use @synthesize, @dynamic or provide a method implementation304831870#267#226#0(6@87"/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m304828478#29#0#29#0#0"0(22@131"Property 'lastName' requires the method 'setLastName:' to be defined - use @synthesize, @dynamic or provide a method implementation304831870#493#233#0(6@87"/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m304828478#29#0#29#0#0"0(22@126"Property 'firstName' requires method '-firstName' to be defined - use @synthesize, @dynamic or provide a method implementation304831870#726#228#0(6@87"/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m304828478#29#0#29#0#0"0(22@133"Property 'firstName' requires the method 'setFirstName:' to be defined - use @synthesize, @dynamic or provide a method implementation304831870#954#235#0(6@87"/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m304828478#29#0#29#0#0"0(22@128"Property 'maidenName' requires method '-maidenName' to be defined - use @synthesize, @dynamic or provide a method implementation304831870#1189#230#0(6@87"/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m304828478#29#0#29#0#0"0(22@135"Property 'maidenName' requires the method 'setMaidenName:' to be defined - use @synthesize, @dynamic or provide a method implementation304831870#1419#237#0(6@87"/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m304828478#29#0#29#0#0"0(22@116"Property 'City' requires method '-City' to be defined - use @synthesize, @dynamic or provide a method implementation304831870#1656#218#0(6@87"/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m304828478#29#0#29#0#0"0(22@123"Property 'City' requires the method 'setCity:' to be defined - use @synthesize, @dynamic or provide a method implementation304831870#1874#225#0(6@87"/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m304828478#29#0#29#0#0"0(0#0#87"/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m4300885448#2148"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/StarWars-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/StarWars-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/StarWars-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/StarWars-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StarWars_Prefix-asqombpecjejfqefylxdpsreaeas/StarWars_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/Classes/StarWarsAppDelegate.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/Objects-normal/i386/StarWarsAppDelegate.o"1#
+
+CCompileC build/StarWars.build/Debug-iphonesimulator/StarWars.build/Objects-normal/i386/main.o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304831870.598642
+e304831870.697478
+r1
+xCompileC
+xbuild/StarWars.build/Debug-iphonesimulator/StarWars.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/dougc333/Desktop/xcode experiments/cis312/StarWars/main.m304831870#304831870#0(0"0(0#0#64"/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/main.m4300885448#2110"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/StarWars-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/StarWars-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/StarWars-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/StarWars-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StarWars_Prefix-asqombpecjejfqefylxdpsreaeas/StarWars_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/main.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/MainWindow.xib"
+s304831867.472048
+e304831869.043491
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib304831867#304831869#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#72"/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/MainWindow.xib4300885448#546"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/StarWars.app/MainWindow.nib" "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/StarWars.app.dSYM" "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/StarWars.app/StarWars"
+r0
+
+CLd "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/StarWars.app/StarWars" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/StarWars.app/Info.plist" StarWars-Info.plist
+s304831867.429032
+e304831867.471949
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/StarWars.app/Info.plist
+xStarWars-Info.plist
+lSLF07#2@27"Process StarWars-Info.plist304831867#304831867#0(0"0(0#0#77"/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/StarWars-Info.plist8319395793566528512#545"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility StarWars-Info.plist -genpkginfo "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/StarWars.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/StarWars.app/Info.plist"0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StarWars_Prefix-asqombpecjejfqefylxdpsreaeas/StarWars_Prefix.pch.gch StarWars_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304831869.043669
+e304831870.598418
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StarWars_Prefix-asqombpecjejfqefylxdpsreaeas/StarWars_Prefix.pch.gch
+xStarWars_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile StarWars_Prefix.pch304831869#304831870#0(0"0(0#0#77"/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/StarWars_Prefix.pch4300885448#1980"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/StarWars-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/StarWars-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/StarWars-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/StarWars-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/StarWars.build/Debug-iphonesimulator/StarWars.build/DerivedSources" -c "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/StarWars_Prefix.pch" -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StarWars_Prefix-asqombpecjejfqefylxdpsreaeas/StarWars_Prefix.pch.gch0#
+
+CTouch "/Users/dougc333/Desktop/xcode experiments/cis312/StarWars/build/Debug-iphonesimulator/StarWars.app"
+r0
+

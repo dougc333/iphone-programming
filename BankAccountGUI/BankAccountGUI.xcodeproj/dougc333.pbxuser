@@ -1,0 +1,217 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* BankAccountGUIAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {667, 565}}";
+			sepNavSelRange = "{512, 0}";
+			sepNavVisRange = "{0, 682}";
+			sepNavWindowFrame = "{{701, 138}, {1302, 736}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* BankAccountGUIAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {670, 1599}}";
+			sepNavSelRange = "{395, 0}";
+			sepNavVisRange = "{0, 1158}";
+			sepNavWindowFrame = "{{444, 114}, {1302, 736}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* BankAccountGUI */ = {
+		activeExec = 0;
+		executables = (
+			242778DF124195A500D8C6D1 /* BankAccountGUI */,
+		);
+	};
+	242778DF124195A500D8C6D1 /* BankAccountGUI */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BankAccountGUI;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	242778F3124195C600D8C6D1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	242778F4124195C600D8C6D1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	244A5CEB12B58C710089221D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BankAccountGUIAppDelegate.m */;
+		name = "BankAccountGUIAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 395;
+		rType = 0;
+		vrLen = 1158;
+		vrLoc = 0;
+	};
+	247F1F75126A19E70090C936 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* BankAccountGUIAppDelegate.h */;
+		name = "BankAccountGUIAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 512;
+		rType = 0;
+		vrLen = 682;
+		vrLoc = 0;
+	};
+	247F1F77126A19E70090C936 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BankAccountGUIAppDelegate.m */;
+		name = "BankAccountGUIAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 395;
+		rType = 0;
+		vrLen = 1170;
+		vrLoc = 0;
+	};
+	24B3EF2F1244A05D005DEC08 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	24F522011243160900E03E35 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* BankAccountGUI-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccountGUI/BankAccountGUI-Info.plist";
+		rLen = 0;
+		rLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 242778DF124195A500D8C6D1 /* BankAccountGUI */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BankAccountGUI */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* BankAccountGUI */,
+		);
+		codeSenseManager = 242778F4124195C600D8C6D1 /* Code sense */;
+		executables = (
+			242778DF124195A500D8C6D1 /* BankAccountGUI */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					376.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					489,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					449,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313887850;
+			PBXWorkspaceStateSaveDate = 313887850;
+		};
+		perUserProjectItems = {
+			244A5CEB12B58C710089221D /* PBXTextBookmark */ = 244A5CEB12B58C710089221D /* PBXTextBookmark */;
+			247F1F75126A19E70090C936 /* PBXTextBookmark */ = 247F1F75126A19E70090C936 /* PBXTextBookmark */;
+			247F1F77126A19E70090C936 /* PBXTextBookmark */ = 247F1F77126A19E70090C936 /* PBXTextBookmark */;
+			24B3EF2F1244A05D005DEC08 /* PBXTextBookmark */ = 24B3EF2F1244A05D005DEC08 /* PBXTextBookmark */;
+			24F522011243160900E03E35 /* PlistBookmark */ = 24F522011243160900E03E35 /* PlistBookmark */;
+		};
+		sourceControlManager = 242778F3124195C600D8C6D1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {667, 552}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 366}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* BankAccountGUI_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1243, 664}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 197}";
+		};
+	};
+}

@@ -1,0 +1,218 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* TestSketchViewAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 988}}";
+			sepNavSelRange = "{296, 0}";
+			sepNavVisRange = "{0, 1582}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TestSketchView */ = {
+		activeExec = 0;
+		executables = (
+			2470D3B812AC42BB009F1333 /* TestSketchView */,
+		);
+	};
+	24512C2212ACC6E2004D1136 /* Line.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {989, 590}}";
+			sepNavSelRange = "{333, 0}";
+			sepNavVisRange = "{0, 345}";
+		};
+	};
+	24512C2512ACD4F2004D1136 /* SketchView.m:10 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2470D3BF12AC42D1009F1333 /* SketchView.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 10;
+		modificationTime = 313316594.156611;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	24512C2812ACD4F8004D1136 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TestSketchView-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleDisplayName,
+		);
+		name = "/Users/dougc333/Desktop/xcodeexperiments/cis312/TestSketchView/TestSketchView-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	24512C2912ACD4F8004D1136 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TestSketchViewAppDelegate.m */;
+		name = "TestSketchViewAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 313;
+		vrLoc = 0;
+	};
+	24512C2A12ACD4F8004D1136 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24512C2212ACC6E2004D1136 /* Line.h */;
+		name = "Line.h: 18";
+		rLen = 0;
+		rLoc = 333;
+		rType = 0;
+		vrLen = 345;
+		vrLoc = 0;
+	};
+	24512C2B12ACD4F8004D1136 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2470D3BE12AC42D1009F1333 /* SketchView.h */;
+		name = "SketchView.h: 10";
+		rLen = 0;
+		rLoc = 183;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 0;
+	};
+	24512CF412ACF8FF004D1136 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2470D3BF12AC42D1009F1333 /* SketchView.m */;
+		name = "SketchView.m: 32";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 597;
+		vrLoc = 0;
+	};
+	24512CF512ACF8FF004D1136 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TestSketchViewAppDelegate.m */;
+		name = "TestSketchViewAppDelegate.m: 17";
+		rLen = 0;
+		rLoc = 296;
+		rType = 0;
+		vrLen = 1582;
+		vrLoc = 0;
+	};
+	2470D3B812AC42BB009F1333 /* TestSketchView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TestSketchView;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2470D3BE12AC42D1009F1333 /* SketchView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {989, 590}}";
+			sepNavSelRange = "{183, 0}";
+			sepNavVisRange = "{0, 325}";
+			sepNavWindowFrame = "{{15, 128}, {1301, 745}}";
+		};
+	};
+	2470D3BF12AC42D1009F1333 /* SketchView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {989, 590}}";
+			sepNavSelRange = "{546, 0}";
+			sepNavVisRange = "{0, 597}";
+		};
+	};
+	2470D3C112AC42D1009F1333 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2470D3C212AC42D1009F1333 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2470D3B812AC42BB009F1333 /* TestSketchView */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TestSketchView */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TestSketchView */,
+		);
+		breakpoints = (
+			24512C2512ACD4F2004D1136 /* SketchView.m:10 */,
+		);
+		codeSenseManager = 2470D3C212AC42D1009F1333 /* Code sense */;
+		executables = (
+			2470D3B812AC42BB009F1333 /* TestSketchView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					811,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313312883;
+			PBXWorkspaceStateSaveDate = 313312883;
+		};
+		perUserProjectItems = {
+			24512C2812ACD4F8004D1136 /* PlistBookmark */ = 24512C2812ACD4F8004D1136 /* PlistBookmark */;
+			24512C2912ACD4F8004D1136 /* PBXTextBookmark */ = 24512C2912ACD4F8004D1136 /* PBXTextBookmark */;
+			24512C2A12ACD4F8004D1136 /* PBXTextBookmark */ = 24512C2A12ACD4F8004D1136 /* PBXTextBookmark */;
+			24512C2B12ACD4F8004D1136 /* PBXTextBookmark */ = 24512C2B12ACD4F8004D1136 /* PBXTextBookmark */;
+			24512CF412ACF8FF004D1136 /* PBXTextBookmark */ = 24512CF412ACF8FF004D1136 /* PBXTextBookmark */;
+			24512CF512ACF8FF004D1136 /* PBXTextBookmark */ = 24512CF512ACF8FF004D1136 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2470D3C112AC42D1009F1333 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* TestSketchView-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{61, 86}, {1301, 745}}";
+		};
+	};
+}

@@ -1,0 +1,753 @@
+THomepwner
+v7
+r0
+t310421826.465430
+cCheck dependencies
+cCpResource build/Release-iphoneos/Homepwner.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/Info.plist Homepwner-Info.plist
+cCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/MainWindow.xib
+cCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.xib
+cCpResource build/Release-iphoneos/Homepwner.app/thumbnail-sample-framed.jpg thumbnail-sample-framed.jpg
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-gmghsxzejkkmalcnsinvukccsomu/Homepwner_Prefix.pch.gch Homepwner_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-btmlydoyywasiobzxaustsxnpbxd/Homepwner_Prefix.pch.gch Homepwner_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/HomepwnerAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/HomepwnerAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/ItemsViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ItemsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/Possessions.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/Possessions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/ItemDetailViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/ImageCache.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ImageCache.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/HomepwnerAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/HomepwnerAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/Homepwner normal armv6
+cCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/ItemsViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ItemsViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/Possessions.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/Possessions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/ItemDetailViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/ImageCache.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ImageCache.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/Homepwner normal armv7
+cCreateUniversalBinary /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/Homepwner normal "armv6 armv7"
+cGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/Homepwner
+cProcessProductPackaging "/Users/dougc333/Library/MobileDevice/Provisioning Profiles/DC25038E-11FE-4125-91CE-040B239CC17E.mobileprovision" /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/embedded.mobileprovision
+cTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner.xcent
+cCodeSign /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004CCB7D6A0000000000000110
+t1288404330
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+c000000004C06E99F00000000000001A7
+t1275521439
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004C06E99F00000000000001E5
+t1275521439
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C005A1C00000000003B4B70
+t1275091484
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C005A45000000000036A640
+t1275091525
+s3581504
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C005A310000000000001355
+t1275091505
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C00642C000000000000098F
+t1275094060
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0064A60000000002703220
+t1275094182
+s40907296
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004CCB7D6E0000000000000110
+t1288404334
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004C6C32410000000000099800
+t1282159169
+s628736
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ImageCache.h
+c000000004CCBB2BD000000000000019D
+t1288417981
+s413
+i<Foundation/Foundation.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ImageCache.m
+c000000004CCBB2B500000000000003AF
+t1288417973
+s943
+i"ImageCache.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ItemsViewController.h
+c000000004CC2A605000000000000015D
+t1287824901
+s349
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ItemsViewController.m
+c000000004CC778570000000000001B10
+t1288140887
+s6928
+i"ItemsViewController.h"
+i"Possessions.h"
+i"ItemDetailViewController.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/HomepwnerAppDelegate.h
+c000000004CB0DE0400000000000001B3
+t1286659588
+s435
+i<UIKit/UIKit.h>
+i"ItemsViewController.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/HomepwnerAppDelegate.m
+c000000004CC2985500000000000002C5
+t1287821397
+s709
+i"HomepwnerAppDelegate.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.h
+c000000004CCBB2840000000000000279
+t1288417924
+s633
+i<UIKit/UIKit.h>
+i"ImageCache.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.m
+c000000004CCBDE12000000000000113C
+t1288429074
+s4412
+i"ItemDetailViewController.h"
+i"Possessions.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.xib
+c000000004CCBA86300000000000074BC
+t1288415331
+s29884
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/Possessions.h
+c000000004CCBAF9A0000000000000323
+t1288417178
+s803
+i<Foundation/Foundation.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/Possessions.m
+c000000004CCBAFB80000000000000783
+t1288417208
+s1923
+i"Possessions.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Homepwner_Prefix.pch
+c000000004CB0D6B000000000000000BB
+t1286657712
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/ImageCache.h
+c000000004CCBB2BD000000000000019D
+t1288417981
+s413
+i<Foundation/Foundation.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/ItemsViewController.h
+c000000004CC2A605000000000000015D
+t1287824901
+s349
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/MainWindow.xib
+c000000004CB0D6B00000000000001F5D
+t1286657712
+s8029
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner.xcent
+t1288729026
+s428
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/Homepwner
+t1288729025
+s35488
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/Homepwner.LinkFileList
+c000000004CD071BE00000000000003A6
+t1288729022
+s934
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/HomepwnerAppDelegate.o
+t1288729024
+s47192
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/ImageCache.o
+t1288729025
+s11804
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/ItemDetailViewController.o
+t1288729025
+s52772
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/ItemsViewController.o
+t1288729025
+s47856
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/Possessions.o
+t1288729025
+s16520
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/main.o
+t1288729024
+s6492
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/Homepwner
+t1288729026
+s35440
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/Homepwner.LinkFileList
+c000000004CD071BE00000000000003A6
+t1288729022
+s934
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/HomepwnerAppDelegate.o
+t1288729025
+s47188
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/ImageCache.o
+t1288729025
+s11800
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/ItemDetailViewController.o
+t1288729025
+s52756
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/ItemsViewController.o
+t1288729025
+s47848
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/Possessions.o
+t1288729025
+s16504
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/main.o
+t1288729025
+s6472
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app
+t1288729026
+s408
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app.dSYM
+t1288729026
+s102
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/Homepwner
+t1288729026
+s76400
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/Info.plist
+t1288729022
+s736
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/ItemDetailViewController.nib
+t1288729023
+s4314
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/MainWindow.nib
+t1288729023
+s1502
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/PkgInfo
+t1288729022
+s8
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/ResourceRules.plist
+t1288729022
+s485
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/embedded.mobileprovision
+t1288729026
+s34115
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/thumbnail-sample-framed.jpg
+t1288729023
+s9315
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/main.m
+c000000004CB0D6B00000000000000169
+t1286657712
+s361
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/thumbnail-sample-framed.jpg
+c000000004CA6485C0000000000002463
+t1285965916
+s9315
+
+N/Users/dougc333/Library/MobileDevice/Provisioning Profiles/DC25038E-11FE-4125-91CE-040B239CC17E.mobileprovision
+c000000004CCE53600000000000008543
+t1288590176
+s34115
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-bfikjndqooufjtgwasciconesykr/Homepwner_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-bpkshkmpwmnjbjgcqglaetujoqhy/Homepwner_Prefix.pch.gch
+t1288592771
+s9233044
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-btmlydoyywasiobzxaustsxnpbxd/Homepwner_Prefix.pch.gch
+t1288729024
+s10094128
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-dteeafokpmesekgaqfeoqhfdumtc/Homepwner_Prefix.pch.gch
+t1288592771
+s8774292
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-efjicoriatiwzfdzdvghaectmgni/Homepwner_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-fyvxjrcejnwfeagnstestdycvomz/Homepwner_Prefix.pch.gch
+t1288672625
+s9233044
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-gmghsxzejkkmalcnsinvukccsomu/Homepwner_Prefix.pch.gch
+t1288729024
+s9639472
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-gnajjcxhjcfuqlfeayizvxqwnbyn/Homepwner_Prefix.pch.gch
+t1288672625
+s8774292
+
+NHomepwner-Info.plist
+c000000004CCE5D4C00000000000003E6
+t1288592716
+s998
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310421822#310421822#0(0"0(0#1#0"8599328544#0"0#
+
+CCodeSign /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app
+s310421826.264172
+e310421826.465386
+r1
+xCodeSign
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app
+lSLF07#2@45"CodeSign build/Release-iphoneos/Homepwner.app310421826#310421826#0(0"0(0#0#98"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app8604658784#754"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: doug chang (TB425T34FS)" --resource-rules=/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/ResourceRules.plist --entitlements /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner.xcent /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app0#
+
+CCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/HomepwnerAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/HomepwnerAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310421824.805967
+e310421824.956468
+r1
+xCompileC
+xbuild/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/HomepwnerAppDelegate.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/HomepwnerAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/HomepwnerAppDelegate.m310421824#310421824#0(0"0(0#0#92"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/HomepwnerAppDelegate.m8608985600#2092"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-gmghsxzejkkmalcnsinvukccsomu/Homepwner_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/HomepwnerAppDelegate.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/HomepwnerAppDelegate.o0#
+
+CCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/ImageCache.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ImageCache.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310421825.153791
+e310421825.232618
+r1
+xCompileC
+xbuild/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/ImageCache.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ImageCache.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ImageCache.m310421825#310421825#0(0"0(0#0#85"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ImageCache.m8605302624#2075"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-gmghsxzejkkmalcnsinvukccsomu/Homepwner_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ImageCache.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/ImageCache.o0#
+
+CCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/ItemDetailViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310421825.076977
+e310421825.331710
+r1
+xCompileC
+xbuild/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/ItemDetailViewController.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.m310421825#310421825#0(0"0(0#0#96"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.m8607916704#2100"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-gmghsxzejkkmalcnsinvukccsomu/Homepwner_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/ItemDetailViewController.o0#
+
+CCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/ItemsViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ItemsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310421824.947999
+e310421825.153694
+r1
+xCompileC
+xbuild/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/ItemsViewController.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ItemsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ItemsViewController.m310421824#310421825#0(0"0(0#0#94"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ItemsViewController.m8602805664#2093"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-gmghsxzejkkmalcnsinvukccsomu/Homepwner_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ItemsViewController.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/ItemsViewController.o0#
+
+CCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/Possessions.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/Possessions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310421824.956574
+e310421825.076883
+r1
+xCompileC
+xbuild/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/Possessions.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/Possessions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/Possessions.m310421824#310421825#0(0"0(0#0#83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/Possessions.m8608246784#2074"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-gmghsxzejkkmalcnsinvukccsomu/Homepwner_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/Possessions.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/Possessions.o0#
+
+CCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310421824.804835
+e310421824.947902
+r1
+xCompileC
+xbuild/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/main.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/main.m310421824#310421824#0(0"0(0#0#68"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/main.m8600271392#2052"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-gmghsxzejkkmalcnsinvukccsomu/Homepwner_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/main.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/HomepwnerAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/HomepwnerAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310421825.293033
+e310421825.384326
+r1
+xCompileC
+xbuild/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/HomepwnerAppDelegate.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/HomepwnerAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/HomepwnerAppDelegate.m310421825#310421825#0(0"0(0#0#92"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/HomepwnerAppDelegate.m8605534688#2092"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-btmlydoyywasiobzxaustsxnpbxd/Homepwner_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/HomepwnerAppDelegate.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/HomepwnerAppDelegate.o0#
+
+CCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/ImageCache.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ImageCache.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310421825.871786
+e310421825.946998
+r1
+xCompileC
+xbuild/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/ImageCache.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ImageCache.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ImageCache.m310421825#310421825#0(0"0(0#0#85"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ImageCache.m8608100960#2075"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-btmlydoyywasiobzxaustsxnpbxd/Homepwner_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ImageCache.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/ImageCache.o0#
+
+CCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/ItemDetailViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310421825.667870
+e310421825.871682
+r1
+xCompileC
+xbuild/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/ItemDetailViewController.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.m310421825#310421825#0(0"0(0#0#96"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.m8604308544#2100"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-btmlydoyywasiobzxaustsxnpbxd/Homepwner_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/ItemDetailViewController.o0#
+
+CCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/ItemsViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ItemsViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310421825.384431
+e310421825.554197
+r1
+xCompileC
+xbuild/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/ItemsViewController.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ItemsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ItemsViewController.m310421825#310421825#0(0"0(0#0#94"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ItemsViewController.m8600599360#2093"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-btmlydoyywasiobzxaustsxnpbxd/Homepwner_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/../ItemsViewController.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/ItemsViewController.o0#
+
+CCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/Possessions.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/Possessions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310421825.554301
+e310421825.667769
+r1
+xCompileC
+xbuild/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/Possessions.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/Possessions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/Possessions.m310421825#310421825#0(0"0(0#0#83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/Possessions.m8604835936#2074"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-btmlydoyywasiobzxaustsxnpbxd/Homepwner_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/Possessions.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/Possessions.o0#
+
+CCompileC build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310421825.232725
+e310421825.292930
+r1
+xCompileC
+xbuild/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/main.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/main.m310421825#310421825#0(0"0(0#0#68"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/main.m8608149344#2052"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-btmlydoyywasiobzxaustsxnpbxd/Homepwner_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/main.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.xib
+s310421822.985060
+e310421823.613557
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.xib
+lSLF07#2@47"CompileXIB Classes/ItemDetailViewController.xib310421822#310421823#0(0"0(0#0#98"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.xib8600051712#651"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/ItemDetailViewController.nib /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Classes/ItemDetailViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/MainWindow.xib
+s310421822.984268
+e310421823.456262
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib310421822#310421823#0(0"0(0#0#76"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/MainWindow.xib8602998976#615"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/MainWindow.nib /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCpResource build/Release-iphoneos/Homepwner.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+s310285569.632173
+e310285569.700093
+r1
+xCpResource
+xbuild/Release-iphoneos/Homepwner.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist310285569#310285569#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist8611224704#551"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app0#
+
+CCpResource build/Release-iphoneos/Homepwner.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s310421822.943699
+e310421822.984179
+r1
+xCpResource
+xbuild/Release-iphoneos/Homepwner.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist310421822#310421822#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist8604462784#551"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app0#
+
+CCpResource build/Release-iphoneos/Homepwner.app/thumbnail-sample-framed.jpg thumbnail-sample-framed.jpg
+s310421823.456355
+e310421823.489661
+r1
+xCpResource
+xbuild/Release-iphoneos/Homepwner.app/thumbnail-sample-framed.jpg
+xthumbnail-sample-framed.jpg
+lSLF07#2@32"Copy thumbnail-sample-framed.jpg310421823#310421823#0(0"0(0#0#89"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/thumbnail-sample-framed.jpg8608377088#551"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/thumbnail-sample-framed.jpg /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app0#
+
+CCreateUniversalBinary /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/Homepwner normal "armv6 armv7"
+s310421826.092101
+e310421826.136542
+r1
+xCreateUniversalBinary
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/Homepwner
+xnormal
+xarmv6 armv7
+lSLF07#2@89"CreateUniversalBinary build/Release-iphoneos/Homepwner.app/Homepwner normal "armv6 armv7"310421826#310421826#0(0"0(0#0#73"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/armv6 armv78607826624#632"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/Homepwner /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/Homepwner -output /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/Homepwner0#
+
+CGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/Homepwner
+s310421826.136666
+e310421826.233861
+r1
+xGenerateDSYMFile
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app.dSYM
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/Homepwner
+lSLF07#2@105"GenerateDSYMFile build/Release-iphoneos/Homepwner.app.dSYM build/Release-iphoneos/Homepwner.app/Homepwner310421826#310421826#0(0"0(0#0#108"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/Homepwner8605553120#441"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/Homepwner -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app.dSYM0#
+
+CLd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/Homepwner normal armv6
+s310421825.331796
+e310421825.911094
+r1
+xLd
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/Homepwner
+xnormal
+xarmv6
+lSLF07#2@152"Link /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/Homepwner310421825#310421825#0(0"0(0#0#0"8604819200#1009"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -filelist /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/Homepwner.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework iAd -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv6/Homepwner0#
+
+CLd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/Homepwner normal armv7
+s310421825.947090
+e310421826.091997
+r1
+xLd
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/Homepwner
+xnormal
+xarmv7
+lSLF07#2@152"Link /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/Homepwner310421825#310421826#0(0"0(0#0#0"8605167296#1009"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -filelist /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/Homepwner.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework iAd -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Objects-normal/armv7/Homepwner0#
+
+CProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/Info.plist Homepwner-Info.plist
+s310421822.944598
+e310421822.964173
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/Info.plist
+xHomepwner-Info.plist
+lSLF07#2@28"Process Homepwner-Info.plist310421822#310421822#0(0"0(0#0#82"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Homepwner-Info.plist8604322624#668"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Homepwner-Info.plist -genpkginfo /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/ResourceRules.plist -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/Info.plist0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-bfikjndqooufjtgwasciconesykr/Homepwner_Prefix.pch.gch Homepwner_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-bpkshkmpwmnjbjgcqglaetujoqhy/Homepwner_Prefix.pch.gch Homepwner_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310285570.365433
+e310285571.307636
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-bpkshkmpwmnjbjgcqglaetujoqhy/Homepwner_Prefix.pch.gch
+xHomepwner_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Homepwner_Prefix.pch310285570#310285571#0(0"0(0#0#82"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Homepwner_Prefix.pch8603385536#1923"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Homepwner_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-bpkshkmpwmnjbjgcqglaetujoqhy/Homepwner_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-btmlydoyywasiobzxaustsxnpbxd/Homepwner_Prefix.pch.gch Homepwner_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310421823.614827
+e310421824.643916
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-btmlydoyywasiobzxaustsxnpbxd/Homepwner_Prefix.pch.gch
+xHomepwner_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Homepwner_Prefix.pch310421823#310421824#0(0"0(0#0#82"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Homepwner_Prefix.pch8605589056#1923"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Homepwner_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-btmlydoyywasiobzxaustsxnpbxd/Homepwner_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-dteeafokpmesekgaqfeoqhfdumtc/Homepwner_Prefix.pch.gch Homepwner_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310285570.364345
+e310285571.137201
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-dteeafokpmesekgaqfeoqhfdumtc/Homepwner_Prefix.pch.gch
+xHomepwner_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Homepwner_Prefix.pch310285570#310285571#0(0"0(0#0#82"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Homepwner_Prefix.pch8605515008#1923"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Homepwner_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-dteeafokpmesekgaqfeoqhfdumtc/Homepwner_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-efjicoriatiwzfdzdvghaectmgni/Homepwner_Prefix.pch.gch Homepwner_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-fyvxjrcejnwfeagnstestdycvomz/Homepwner_Prefix.pch.gch Homepwner_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310365424.467201
+e310365425.594386
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-fyvxjrcejnwfeagnstestdycvomz/Homepwner_Prefix.pch.gch
+xHomepwner_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Homepwner_Prefix.pch310365424#310365425#0(0"0(0#0#82"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Homepwner_Prefix.pch8609798400#1925"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Homepwner_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-fyvxjrcejnwfeagnstestdycvomz/Homepwner_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-gmghsxzejkkmalcnsinvukccsomu/Homepwner_Prefix.pch.gch Homepwner_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310421823.613665
+e310421824.804734
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-gmghsxzejkkmalcnsinvukccsomu/Homepwner_Prefix.pch.gch
+xHomepwner_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Homepwner_Prefix.pch310421823#310421824#0(0"0(0#0#82"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Homepwner_Prefix.pch8608860672#1923"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Homepwner_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-gmghsxzejkkmalcnsinvukccsomu/Homepwner_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-gnajjcxhjcfuqlfeayizvxqwnbyn/Homepwner_Prefix.pch.gch Homepwner_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310365424.466071
+e310365425.454987
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-gnajjcxhjcfuqlfeayizvxqwnbyn/Homepwner_Prefix.pch.gch
+xHomepwner_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Homepwner_Prefix.pch310365424#310365425#0(0"0(0#0#82"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Homepwner_Prefix.pch8611323968#1925"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/Homepwner_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-gnajjcxhjcfuqlfeayizvxqwnbyn/Homepwner_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/dougc333/Library/MobileDevice/Provisioning Profiles/DC25038E-11FE-4125-91CE-040B239CC17E.mobileprovision" /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/embedded.mobileprovision
+s310421826.234037
+e310421826.236131
+r1
+xProcessProductPackaging
+x/Users/dougc333/Library/MobileDevice/Provisioning Profiles/DC25038E-11FE-4125-91CE-040B239CC17E.mobileprovision
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/embedded.mobileprovision
+lSLF07#2@199"ProcessProductPackaging "/Users/dougc333/Library/MobileDevice/Provisioning Profiles/DC25038E-11FE-4125-91CE-040B239CC17E.mobileprovision" build/Release-iphoneos/Homepwner.app/embedded.mobileprovision310421826#310421826#0(0"0(0#0#123"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/embedded.mobileprovision8603675264#476"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/dougc333/Library/MobileDevice/Provisioning Profiles/DC25038E-11FE-4125-91CE-040B239CC17E.mobileprovision" -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner.xcent
+s310365427.066927
+e310365427.111355
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner.xcent
+lSLF07#2@183"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner.xcent310365427#310365427#0(0"0(0#0#132"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner.xcent8613499392#486"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner.xcent0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner.xcent
+s310421826.241128
+e310421826.264066
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner.xcent
+lSLF07#2@183"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner.xcent310421826#310421826#0(0"0(0#0#132"/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner.xcent8604765600#486"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Homepwner.build/Release-iphoneos/Homepwner.build/Homepwner.xcent0#
+
+CTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app
+s310421826.236207
+e310421826.241034
+r1
+xTouch
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app
+lSLF07#2@104"Touch /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app310421826#310421826#0(0"0(0#0#0"8604966752#314"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch13/build/Release-iphoneos/Homepwner.app0#
+

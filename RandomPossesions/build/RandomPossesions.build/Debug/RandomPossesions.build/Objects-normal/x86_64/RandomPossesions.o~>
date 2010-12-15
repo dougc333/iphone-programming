@@ -1,0 +1,2 @@
+In file included from /Users/dougc333/Desktop/xcode experiments/cis312/RandomPossesions/RandomPossesions.m:2:
+/Users/dougc333/Desktop/xcode experiments/cis312/RandomPossesions/Possessions.h:28: error: property 'valueInDollars' with 'retain' attribute must be of object type

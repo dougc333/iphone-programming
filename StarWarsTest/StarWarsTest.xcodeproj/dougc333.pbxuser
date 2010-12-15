@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* StarWarsTestAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1243, 608}}";
+			sepNavSelRange = "{179, 0}";
+			sepNavVisRange = "{0, 448}";
+			sepNavWindowFrame = "{{240, 46}, {1302, 736}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* StarWarsTestAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1243, 585}}";
+			sepNavSelRange = "{262, 0}";
+			sepNavVisRange = "{0, 814}";
+			sepNavWindowFrame = "{{458, 142}, {1302, 736}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* StarWarsTest */ = {
+		activeExec = 0;
+		executables = (
+			249521A9122B7AC70053DA54 /* StarWarsTest */,
+		);
+	};
+	249521A9122B7AC70053DA54 /* StarWarsTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = StarWarsTest;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	249521B9122B7ACB0053DA54 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623240D0F684500981E51 /* StarWarsTestAppDelegate.h */;
+	};
+	249521BA122B7AE60053DA54 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	249521BB122B7AE60053DA54 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	24952268122B885B0053DA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StarWarsTestAppDelegate.m */;
+		name = "StarWarsTestAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 507;
+		rType = 0;
+		vrLen = 470;
+		vrLoc = 53;
+	};
+	24952269122B885B0053DA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* StarWarsTestAppDelegate.h */;
+		name = "StarWarsTestAppDelegate.h: 19";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 418;
+		vrLoc = 33;
+	};
+	2495226A122B885B0053DA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* StarWarsTestAppDelegate.h */;
+		name = "StarWarsTestAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 319;
+		rType = 0;
+		vrLen = 415;
+		vrLoc = 33;
+	};
+	24952270122B885B0053DA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* StarWarsTestAppDelegate.h */;
+		name = "StarWarsTestAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 179;
+		rType = 0;
+		vrLen = 448;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 249521A9122B7AC70053DA54 /* StarWarsTest */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* StarWarsTest */;
+		codeSenseManager = 249521BB122B7AE60053DA54 /* Code sense */;
+		executables = (
+			249521A9122B7AC70053DA54 /* StarWarsTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 304839367;
+			PBXWorkspaceStateSaveDate = 304839367;
+		};
+		perUserProjectItems = {
+			249521B9122B7ACB0053DA54 /* PBXBookmark */ = 249521B9122B7ACB0053DA54 /* PBXBookmark */;
+			24952268122B885B0053DA54 /* PBXTextBookmark */ = 24952268122B885B0053DA54 /* PBXTextBookmark */;
+			24952269122B885B0053DA54 /* PBXTextBookmark */ = 24952269122B885B0053DA54 /* PBXTextBookmark */;
+			2495226A122B885B0053DA54 /* PBXTextBookmark */ = 2495226A122B885B0053DA54 /* PBXTextBookmark */;
+			24952270122B885B0053DA54 /* PBXTextBookmark */ = 24952270122B885B0053DA54 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 249521BA122B7AE60053DA54 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

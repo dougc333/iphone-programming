@@ -1,0 +1,143 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* StarWarsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {898, 403}}";
+			sepNavSelRange = "{772, 0}";
+			sepNavVisRange = "{29, 785}";
+			sepNavWindowFrame = "{{138, 137}, {1302, 736}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* StarWarsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 858}}";
+			sepNavSelRange = "{1553, 0}";
+			sepNavVisRange = "{0, 727}";
+			sepNavWindowFrame = "{{138, 69}, {1302, 736}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* StarWars */ = {
+		activeExec = 0;
+		executables = (
+			24148FC0122B503E00FF8A46 /* StarWars */,
+		);
+	};
+	24148FC0122B503E00FF8A46 /* StarWars */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = StarWars;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	24148FD0122B504900FF8A46 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	24148FD1122B504900FF8A46 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	24952282122B88C40053DA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* StarWarsAppDelegate.h */;
+		name = "StarWarsAppDelegate.h: 25";
+		rLen = 0;
+		rLoc = 772;
+		rType = 0;
+		vrLen = 785;
+		vrLoc = 29;
+	};
+	24952283122B88C40053DA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StarWarsAppDelegate.m */;
+		name = "StarWarsAppDelegate.m: 41";
+		rLen = 0;
+		rLoc = 1114;
+		rType = 0;
+		vrLen = 982;
+		vrLoc = 949;
+	};
+	249522A2122B8A550053DA54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StarWarsAppDelegate.m */;
+		name = "StarWarsAppDelegate.m: 46";
+		rLen = 0;
+		rLoc = 1553;
+		rType = 0;
+		vrLen = 727;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 24148FC0122B503E00FF8A46 /* StarWars */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* StarWars */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* StarWars */,
+		);
+		codeSenseManager = 24148FD1122B504900FF8A46 /* Code sense */;
+		executables = (
+			24148FC0122B503E00FF8A46 /* StarWars */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					720,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 304841322;
+			PBXWorkspaceStateSaveDate = 304841322;
+		};
+		perUserProjectItems = {
+			24952282122B88C40053DA54 /* PBXTextBookmark */ = 24952282122B88C40053DA54 /* PBXTextBookmark */;
+			24952283122B88C40053DA54 /* PBXTextBookmark */ = 24952283122B88C40053DA54 /* PBXTextBookmark */;
+			249522A2122B8A550053DA54 /* PBXTextBookmark */ = 249522A2122B8A550053DA54 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 24148FD0122B504900FF8A46 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

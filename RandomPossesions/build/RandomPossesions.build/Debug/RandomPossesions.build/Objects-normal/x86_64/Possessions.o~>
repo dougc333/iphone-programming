@@ -1,0 +1,5 @@
+In file included from /Users/dougc333/Desktop/xcode experiments/cis312/RandomPossesions/Possessions.m:9:
+/Users/dougc333/Desktop/xcode experiments/cis312/RandomPossesions/Possessions.h:28: error: property 'valueInDollars' with 'retain' attribute must be of object type
+/Users/dougc333/Desktop/xcode experiments/cis312/RandomPossesions/Possessions.m: In function '+[Possessions RandomPossession]':
+/Users/dougc333/Desktop/xcode experiments/cis312/RandomPossesions/Possessions.m:48: error: expected ':' before ']' token
+/Users/dougc333/Desktop/xcode experiments/cis312/RandomPossesions/Possessions.m:48: confused by earlier errors, bailing out

@@ -1,0 +1,216 @@
+TNayshunz
+v7
+r0
+t310759738.900597
+cCheck dependencies
+cProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/Nayshunz.app/Info.plist Nayshunz-Info.plist
+cCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/MainWindow.xib
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nayshunz_Prefix-ftpsqnfnpjyvdqbohiovtivuahuv/Nayshunz_Prefix.pch.gch Nayshunz_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Objects-normal/i386/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Objects-normal/i386/NayshunzAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004CCB7D9F0000000000000110
+t1288404383
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libsqlite3.0.dylib
+c000000004C5A495F00000000000836C0
+t1280985439
+s538304
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.h
+c000000004CD5904500000000000001FA
+t1289064517
+s506
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m
+c000000004CD599B000000000000013F4
+t1289066928
+s5108
+i"NayshunzAppDelegate.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/MainWindow.xib
+c000000004CD591CD0000000000005A6E
+t1289064909
+s23150
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Nayshunz_Prefix.pch
+c000000004CD58FCD00000000000000B9
+t1289064397
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/Nayshunz.app
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/Nayshunz.app.dSYM
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/Nayshunz.app/Info.plist
+t1289066932
+s595
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/Nayshunz.app/MainWindow.nib
+t1289066935
+s2381
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/Nayshunz.app/Nayshunz
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/Nayshunz.app/PkgInfo
+t1289066932
+s8
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Objects-normal/i386/Nayshunz.LinkFileList
+c000000004CD599B4000000000000012B
+t1289066932
+s299
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Objects-normal/i386/NayshunzAppDelegate.o
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Objects-normal/i386/main.o
+t1289066938
+s6340
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/main.m
+c000000004CD58FCD0000000000000168
+t1289064397
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nayshunz_Prefix-ftpsqnfnpjyvdqbohiovtivuahuv/Nayshunz_Prefix.pch.gch
+t1289066938
+s15211536
+
+NNayshunz-Info.plist
+c000000004CD58FCD000000000000038D
+t1289064397
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310759732#310759732#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Objects-normal/i386/NayshunzAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310759738.475517
+e310759738.877535
+r0
+xCompileC
+xbuild/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Objects-normal/i386/NayshunzAppDelegate.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:9:
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.h:17: error: expected specifier-qualifier-list before 'sqlite3'
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.h:18: error: expected specifier-qualifier-list before 'sqlite3_stmt'
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m: In function '-[NayshunzAppDelegate init]':
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:39: warning: implicit declaration of function 'sqlite3_open'
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:39: error: 'database' undeclared (first use in this function)
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:39: error: (Each undeclared identifier is reported only once
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:39: error: for each function it appears in.)
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:39: error: 'SQLITE_OK' undeclared (first use in this function)
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:40: error: called object 'NSLog((struct NSString *)&<U8b40>,  fullPath)' is not a function
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m: In function '-[NayshunzAppDelegate searchBar:textDidChange:]':
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:47: error: 'statement' undeclared (first use in this function)
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:49: warning: implicit declaration of function 'sqlite3_prepare_v2'
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:49: error: 'database' undeclared (first use in this function)
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:49: error: 'SQLITE_OK' undeclared (first use in this function)
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:53: warning: assignment from incompatible pointer type
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:56: warning: implicit declaration of function 'sqlite3_bind_text'
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:56: error: 'SQLITE_TRANSIENT' undeclared (first use in this function)
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:57: warning: implicit declaration of function 'sqlite3_step'
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:57: error: 'SQLITE_ROW' undeclared (first use in this function)
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:58: warning: implicit declaration of function 'sqlite3_column_text'
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:66: warning: implicit declaration of function 'sqlite3_reset'
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m: In function '-[NayshunzAppDelegate applicationWillTerminate:]':
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:127: warning: implicit declaration of function 'sqlite3_close'
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:127: error: 'database' undeclared (first use in this function)
+lSLF07#2@94"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759738#310759738#0(3712"In file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:9:/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.h:17: error: expected specifier-qualifier-list before 'sqlite3'/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.h:18: error: expected specifier-qualifier-list before 'sqlite3_stmt'/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m: In function '-[NayshunzAppDelegate init]':/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:39: warning: implicit declaration of function 'sqlite3_open'/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:39: error: 'database' undeclared (first use in this function)/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:39: error: (Each undeclared identifier is reported only once/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:39: error: for each function it appears in.)/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:39: error: 'SQLITE_OK' undeclared (first use in this function)/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:40: error: called object 'NSLog((struct NSString *)&<U8b40>,  fullPath)' is not a function/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m: In function '-[NayshunzAppDelegate searchBar:textDidChange:]':/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:47: error: 'statement' undeclared (first use in this function)/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:49: warning: implicit declaration of function 'sqlite3_prepare_v2'/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:49: error: 'database' undeclared (first use in this function)/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:49: error: 'SQLITE_OK' undeclared (first use in this function)/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:53: warning: assignment from incompatible pointer type/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:56: warning: implicit declaration of function 'sqlite3_bind_text'/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:56: error: 'SQLITE_TRANSIENT' undeclared (first use in this function)/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:57: warning: implicit declaration of function 'sqlite3_step'/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:57: error: 'SQLITE_ROW' undeclared (first use in this function)/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:58: warning: implicit declaration of function 'sqlite3_column_text'/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:66: warning: implicit declaration of function 'sqlite3_reset'/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m: In function '-[NayshunzAppDelegate applicationWillTerminate:]':/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:127: warning: implicit declaration of function 'sqlite3_close'/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m:127: error: 'database' undeclared (first use in this function)19(4@50"Expected specifier-qualifier-list before 'sqlite3'310759738#112#149#2(7@108"In file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759738#18446744073709551615#0#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#9#0#9#0#0"0(13@140"Expected specifier-qualifier-list before 'sqlite3' in /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.h310759738#18446744073709551615#0#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.h310757317#17#0#17#0#0"0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.h310757317#17#0#17#0#19"expected * before *0(4@55"Expected specifier-qualifier-list before 'sqlite3_stmt'310759738#261#154#2(7@108"In file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759738#18446744073709551615#0#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#9#0#9#0#0"0(13@145"Expected specifier-qualifier-list before 'sqlite3_stmt' in /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.h310759738#18446744073709551615#0#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.h310757317#18#0#18#0#0"0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.h310757317#18#0#18#0#19"expected * before *0(22@47"Implicit declaration of function 'sqlite3_open'310759738#546#148#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#39#0#39#0#36"implicit declaration of function '*'0(4@50"'database' undeclared (first use in this function)310759738#694#149#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#39#0#39#0#43"'*' undeclared (first use in this function)0(4@51"'SQLITE_OK' undeclared (first use in this function)310759738#1123#150#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#39#0#39#0#43"'*' undeclared (first use in this function)0(4@79"Called object 'NSLog((struct NSString *)&<U8b40>,  fullPath)' is not a function310759738#1273#178#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#40#0#40#0#35"called object '*' is not a function0(4@51"'statement' undeclared (first use in this function)310759738#1602#150#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#47#0#47#0#43"'*' undeclared (first use in this function)0(22@53"Implicit declaration of function 'sqlite3_prepare_v2'310759738#1752#154#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#49#0#49#0#36"implicit declaration of function '*'0(4@50"'database' undeclared (first use in this function)310759738#1906#149#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#49#0#49#0#43"'*' undeclared (first use in this function)0(4@51"'SQLITE_OK' undeclared (first use in this function)310759738#2055#150#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#49#0#49#0#43"'*' undeclared (first use in this function)0(22@41"Assignment from incompatible pointer type310759738#2205#142#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#53#0#53#0#41"assignment from incompatible pointer type0(22@52"Implicit declaration of function 'sqlite3_bind_text'310759738#2347#153#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#56#0#56#0#36"implicit declaration of function '*'0(4@58"'SQLITE_TRANSIENT' undeclared (first use in this function)310759738#2500#157#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#56#0#56#0#43"'*' undeclared (first use in this function)0(22@47"Implicit declaration of function 'sqlite3_step'310759738#2657#148#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#57#0#57#0#36"implicit declaration of function '*'0(4@52"'SQLITE_ROW' undeclared (first use in this function)310759738#2805#151#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#57#0#57#0#43"'*' undeclared (first use in this function)0(22@54"Implicit declaration of function 'sqlite3_column_text'310759738#2956#155#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#58#0#58#0#36"implicit declaration of function '*'0(22@48"Implicit declaration of function 'sqlite3_reset'310759738#3111#149#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#66#0#66#0#36"implicit declaration of function '*'0(22@48"Implicit declaration of function 'sqlite3_close'310759738#3412#150#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#127#0#127#0#36"implicit declaration of function '*'0(4@50"'database' undeclared (first use in this function)310759738#3562#150#0(6@86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m310759728#127#0#127#0#43"'*' undeclared (first use in this function)0(0#0#86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m8612815232#2170"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Nayshunz-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Nayshunz-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Nayshunz-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Nayshunz-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nayshunz_Prefix-ftpsqnfnpjyvdqbohiovtivuahuv/Nayshunz_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Classes/NayshunzAppDelegate.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Objects-normal/i386/NayshunzAppDelegate.o1#
+
+CCompileC build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Objects-normal/i386/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310759738.473784
+e310759738.900511
+r1
+xCompileC
+xbuild/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/main.m310759738#310759738#0(0"0(0#0#63"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/main.m8614665696#2132"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Nayshunz-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Nayshunz-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Nayshunz-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Nayshunz-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nayshunz_Prefix-ftpsqnfnpjyvdqbohiovtivuahuv/Nayshunz_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/main.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/MainWindow.xib
+s310759732.605402
+e310759735.656896
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib310759732#310759735#0(0"0(0#0#71"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/MainWindow.xib8618378784#625"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/Nayshunz.app/MainWindow.nib /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/Nayshunz.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/Nayshunz.app/Nayshunz
+r0
+
+CLd /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/Nayshunz.app/Nayshunz normal i386
+r0
+
+CProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/Nayshunz.app/Info.plist Nayshunz-Info.plist
+s310759732.486615
+e310759732.605313
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/Nayshunz.app/Info.plist
+xNayshunz-Info.plist
+lSLF07#2@27"Process Nayshunz-Info.plist310759732#310759732#0(0"0(0#0#76"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Nayshunz-Info.plist27303407751463024#536"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Nayshunz-Info.plist -genpkginfo /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/Nayshunz.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/Nayshunz.app/Info.plist0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nayshunz_Prefix-ftpsqnfnpjyvdqbohiovtivuahuv/Nayshunz_Prefix.pch.gch Nayshunz_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310759735.657146
+e310759738.473446
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nayshunz_Prefix-ftpsqnfnpjyvdqbohiovtivuahuv/Nayshunz_Prefix.pch.gch
+xNayshunz_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Nayshunz_Prefix.pch310759735#310759738#0(0"0(0#0#76"/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Nayshunz_Prefix.pch8614517088#2005"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Nayshunz-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Nayshunz-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Nayshunz-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/Nayshunz-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Nayshunz.build/Debug-iphonesimulator/Nayshunz.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/Nayshunz_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nayshunz_Prefix-ftpsqnfnpjyvdqbohiovtivuahuv/Nayshunz_Prefix.pch.gch0#
+
+CTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/Nayshunz/build/Debug-iphonesimulator/Nayshunz.app
+r0
+

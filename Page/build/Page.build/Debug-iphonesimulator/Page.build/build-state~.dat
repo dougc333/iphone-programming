@@ -1,0 +1,298 @@
+TPage
+v7
+r0
+t310723032.625610
+cCheck dependencies
+cProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app/Info.plist Page-Info.plist
+cCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/MainWindow.xib
+cCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageViewController.xib
+cCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/WebViewController.xib
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Page_Prefix-fscsniqmnvraixesmdzgahlrlrij/Page_Prefix.pch.gch Page_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/PageAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/PageViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/WebViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004CCB7D9F0000000000000110
+t1288404383
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m
+c000000004CD50A47000000000000060F
+t1289030215
+s1551
+i"WebViewController.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageAppDelegate.h
+c000000004CD4E15C00000000000001C7
+t1289019740
+s455
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageAppDelegate.m
+c000000004CD4E1A900000000000009E7
+t1289019817
+s2535
+i"PageAppDelegate.h"
+i"PageViewController.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageViewController.h
+c000000004CD50A470000000000000100
+t1289030215
+s256
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageViewController.m
+c000000004CD4E21500000000000005D8
+t1289019925
+s1496
+i"PageViewController.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageViewController.xib
+c000000004CD4E27E000000000000465A
+t1289020030
+s18010
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/MainWindow.xib
+c000000004CD4E30D000000000000503A
+t1289020173
+s20538
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Page_Prefix.pch
+c000000004CD4E12000000000000000B1
+t1289019680
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/WebViewController.h
+c000000004CD4E7240000000000000280
+t1289021220
+s640
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/WebViewController.xib
+c000000004CD4E6730000000000004E94
+t1289021043
+s20116
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app.dSYM
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app/Info.plist
+t1289030230
+s579
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app/MainWindow.nib
+t1289030231
+s1657
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app/Page
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app/PageViewController.nib
+t1289030231
+s2239
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app/PkgInfo
+t1289030230
+s8
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app/WebViewController.nib
+t1289030231
+s2085
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/Page.LinkFileList
+c000000004CD50A56000000000000022E
+t1289030230
+s558
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/PageAppDelegate.o
+t1289030232
+s47644
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/PageViewController.o
+t1289030232
+s35276
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/WebViewController.o
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/main.o
+t1289030232
+s6332
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/main.m
+c000000004CD4E1200000000000000164
+t1289019680
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Page_Prefix-fscsniqmnvraixesmdzgahlrlrij/Page_Prefix.pch.gch
+t1289030232
+s15211536
+
+NPage-Info.plist
+c000000004CD4E120000000000000038D
+t1289019680
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310723030#310723030#0(0"0(0#1#0"8624154496#0"0#
+
+CCompileC build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/PageAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310723032.475292
+e310723032.564722
+r1
+xCompileC
+xbuild/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/PageAppDelegate.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageAppDelegate.m310723032#310723032#0(0"0(0#0#78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageAppDelegate.m8623545632#2038"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Page    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Page_Prefix-fscsniqmnvraixesmdzgahlrlrij/Page_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageAppDelegate.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/PageAppDelegate.o0#
+
+CCompileC build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/PageViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310723032.534798
+e310723032.606514
+r1
+xCompileC
+xbuild/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/PageViewController.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageViewController.m310723032#310723032#0(0"0(0#0#81"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageViewController.m8623032704#2044"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Page    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Page_Prefix-fscsniqmnvraixesmdzgahlrlrij/Page_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageViewController.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/PageViewController.o0#
+
+CCompileC build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/WebViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310723032.564828
+e310723032.625514
+r0
+xCompileC
+xbuild/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/WebViewController.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m: In function '-[WebViewController initWithURL:]':
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:43: warning: control reaches end of non-void function
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m: At top level:
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:45: error: expected '{' before '-' token
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: property 'theURL' requires method '-theURL' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: property 'theURL' requires the method 'setTheURL:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: property 'theTitle' requires method '-theTitle' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: property 'theTitle' requires the method 'setTheTitle:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: property 'webView' requires method '-webView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: property 'webView' requires the method 'setWebView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: property 'webTitle' requires method '-webTitle' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: property 'webTitle' requires the method 'setWebTitle:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: incomplete implementation of class 'WebViewController'
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: method definition for '-done' not found
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: method definition for '-initWithURL:andTitle:' not found
+lSLF07#2@91"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m310723032#310723032#0(2731"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m: In function '-[WebViewController initWithURL:]':/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:43: warning: control reaches end of non-void function/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m: At top level:/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:45: error: expected '{' before '-' token/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: property 'theURL' requires method '-theURL' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: property 'theURL' requires the method 'setTheURL:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: property 'theTitle' requires method '-theTitle' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: property 'theTitle' requires the method 'setTheTitle:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: property 'webView' requires method '-webView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: property 'webView' requires the method 'setWebView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: property 'webTitle' requires method '-webTitle' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: property 'webTitle' requires the method 'setWebTitle:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: incomplete implementation of class 'WebViewController'/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: method definition for '-done' not found/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m:67: warning: method definition for '-initWithURL:andTitle:' not found14(22@40"Control reaches end of non-void function310723032#134#138#0(6@83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m310723015#43#0#43#0#40"control reaches end of non-void function0(23@13"At top level:310723032#272#99#0(6@83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m310723015#0#0#0#0#0"0(4@29"Expected '{' before '-' token310723032#371#125#0(6@83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m310723015#45#0#45#0#19"expected * before *0(22@120"Property 'theURL' requires method '-theURL' to be defined - use @synthesize, @dynamic or provide a method implementation310723032#496#218#0(6@83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m310723015#67#0#67#0#0"0(22@127"Property 'theURL' requires the method 'setTheURL:' to be defined - use @synthesize, @dynamic or provide a method implementation310723032#714#225#0(6@83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m310723015#67#0#67#0#0"0(22@124"Property 'theTitle' requires method '-theTitle' to be defined - use @synthesize, @dynamic or provide a method implementation310723032#939#222#0(6@83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m310723015#67#0#67#0#0"0(22@131"Property 'theTitle' requires the method 'setTheTitle:' to be defined - use @synthesize, @dynamic or provide a method implementation310723032#1161#229#0(6@83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m310723015#67#0#67#0#0"0(22@122"Property 'webView' requires method '-webView' to be defined - use @synthesize, @dynamic or provide a method implementation310723032#1390#220#0(6@83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m310723015#67#0#67#0#0"0(22@129"Property 'webView' requires the method 'setWebView:' to be defined - use @synthesize, @dynamic or provide a method implementation310723032#1610#227#0(6@83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m310723015#67#0#67#0#0"0(22@124"Property 'webTitle' requires method '-webTitle' to be defined - use @synthesize, @dynamic or provide a method implementation310723032#1837#222#0(6@83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m310723015#67#0#67#0#0"0(22@131"Property 'webTitle' requires the method 'setWebTitle:' to be defined - use @synthesize, @dynamic or provide a method implementation310723032#2059#229#0(6@83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m310723015#67#0#67#0#0"0(22@54"Incomplete implementation of class 'WebViewController'310723032#2288#152#0(6@83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m310723015#67#0#67#0#38"incomplete implementation of class '*'0(22@39"Method definition for '-done' not found310723032#2440#137#0(6@83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m310723015#67#0#67#0#35"method definition for '*' not found0(22@56"Method definition for '-initWithURL:andTitle:' not found310723032#2577#154#0(6@83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m310723015#67#0#67#0#35"method definition for '*' not found0(0#0#83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m8622830112#2045"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Page    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Page_Prefix-fscsniqmnvraixesmdzgahlrlrij/Page_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/../WebViewController.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/WebViewController.o1#
+
+CCompileC build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310723032.473601
+e310723032.534691
+r1
+xCompileC
+xbuild/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/main.m310723032#310723032#0(0"0(0#0#59"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/main.m8624221696#2008"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Page    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Page_Prefix-fscsniqmnvraixesmdzgahlrlrij/Page_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/main.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageViewController.xib
+s310723030.744777
+e310723031.192545
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageViewController.xib
+lSLF07#2@41"CompileXIB Classes/PageViewController.xib310723030#310723031#0(0"0(0#0#83"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageViewController.xib8609090496#633"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Page    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app/PageViewController.nib /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Classes/PageViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/MainWindow.xib
+s310723030.743914
+e310723031.187661
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib310723030#310723031#0(0"0(0#0#67"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/MainWindow.xib8612770144#609"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Page    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app/MainWindow.nib /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/WebViewController.xib
+s310723031.187750
+e310723031.670582
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/WebViewController.xib
+lSLF07#2@32"CompileXIB WebViewController.xib310723031#310723031#0(0"0(0#0#74"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/WebViewController.xib8622623296#623"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Page    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app/WebViewController.nib /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/WebViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app/Page
+r0
+
+CLd /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app/Page normal i386
+r0
+
+CProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app/Info.plist Page-Info.plist
+s310723030.739067
+e310723030.743827
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app/Info.plist
+xPage-Info.plist
+lSLF07#2@23"Process Page-Info.plist310723030#310723030#0(0"0(0#0#68"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Page-Info.plist8621288416#512"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Page    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Page-Info.plist -genpkginfo /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app/Info.plist0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Page_Prefix-fscsniqmnvraixesmdzgahlrlrij/Page_Prefix.pch.gch Page_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310723031.670704
+e310723032.473341
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Page_Prefix-fscsniqmnvraixesmdzgahlrlrij/Page_Prefix.pch.gch
+xPage_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Page_Prefix.pch310723031#310723032#0(0"0(0#0#68"/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Page_Prefix.pch8621791648#1889"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Page    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/Page-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Page.build/Debug-iphonesimulator/Page.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/Page_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Page_Prefix-fscsniqmnvraixesmdzgahlrlrij/Page_Prefix.pch.gch0#
+
+CTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/Page/build/Debug-iphonesimulator/Page.app
+r0
+

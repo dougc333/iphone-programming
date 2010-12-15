@@ -1,0 +1,202 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* StarWarsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1243, 608}}";
+			sepNavSelRange = "{144, 0}";
+			sepNavVisRange = "{0, 1161}";
+			sepNavWindowFrame = "{{138, 142}, {1302, 736}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* StarWarsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1300, 2665}}";
+			sepNavSelRange = "{2485, 0}";
+			sepNavVisRange = "{145, 1568}";
+			sepNavWindowFrame = "{{19, 142}, {1302, 736}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* StarWars */ = {
+		activeExec = 0;
+		executables = (
+			24148FC0122B503E00FF8A46 /* StarWars */,
+		);
+	};
+	24148FC0122B503E00FF8A46 /* StarWars */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = StarWars;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	24148FD0122B504900FF8A46 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	24148FD1122B504900FF8A46 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	24B3EECB124484A5005DEC08 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 360;
+		vrLoc = 0;
+	};
+	24B3EECC124484A5005DEC08 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StarWarsAppDelegate.m */;
+		name = "StarWarsAppDelegate.m: 162";
+		rLen = 0;
+		rLoc = 5051;
+		rType = 0;
+		vrLen = 910;
+		vrLoc = 4129;
+	};
+	24B3EED512448986005DEC08 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* StarWarsAppDelegate.h */;
+		name = "StarWarsAppDelegate.h: 17";
+		rLen = 0;
+		rLoc = 399;
+		rType = 0;
+		vrLen = 1161;
+		vrLoc = 0;
+	};
+	24B3EED612448986005DEC08 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StarWarsAppDelegate.m */;
+		name = "StarWarsAppDelegate.m: 84";
+		rLen = 0;
+		rLoc = 2485;
+		rType = 0;
+		vrLen = 1568;
+		vrLoc = 145;
+	};
+	24B3EED712448986005DEC08 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* StarWarsAppDelegate.h */;
+		name = "StarWarsAppDelegate.h: 7";
+		rLen = 0;
+		rLoc = 144;
+		rType = 0;
+		vrLen = 1161;
+		vrLoc = 0;
+	};
+	24F51FA51241B8CB00E03E35 /* QuizAppDelegate.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = QuizAppDelegate.m;
+		path = "/Users/dougc333/Desktop/xcode experiments/cis312/Quiz/Classes/QuizAppDelegate.m";
+		sourceTree = "<absolute>";
+	};
+	24F521931242F2D200E03E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24F51FA51241B8CB00E03E35 /* QuizAppDelegate.m */;
+		name = "QuizAppDelegate.m: 67";
+		rLen = 0;
+		rLoc = 1464;
+		rType = 0;
+		vrLen = 376;
+		vrLoc = 1088;
+	};
+	24F521981242F2D200E03E35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* StarWarsAppDelegate.h */;
+		name = "StarWarsAppDelegate.h: 7";
+		rLen = 0;
+		rLoc = 144;
+		rType = 0;
+		vrLen = 1161;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 24148FC0122B503E00FF8A46 /* StarWars */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* StarWars */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* StarWars */,
+		);
+		codeSenseManager = 24148FD1122B504900FF8A46 /* Code sense */;
+		executables = (
+			24148FC0122B503E00FF8A46 /* StarWars */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					735,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306480279;
+			PBXWorkspaceStateSaveDate = 306480279;
+		};
+		perUserProjectItems = {
+			24B3EECB124484A5005DEC08 /* PBXTextBookmark */ = 24B3EECB124484A5005DEC08 /* PBXTextBookmark */;
+			24B3EECC124484A5005DEC08 /* PBXTextBookmark */ = 24B3EECC124484A5005DEC08 /* PBXTextBookmark */;
+			24B3EED512448986005DEC08 /* PBXTextBookmark */ = 24B3EED512448986005DEC08 /* PBXTextBookmark */;
+			24B3EED612448986005DEC08 /* PBXTextBookmark */ = 24B3EED612448986005DEC08 /* PBXTextBookmark */;
+			24B3EED712448986005DEC08 /* PBXTextBookmark */ = 24B3EED712448986005DEC08 /* PBXTextBookmark */;
+			24F521931242F2D200E03E35 /* PBXTextBookmark */ = 24F521931242F2D200E03E35 /* PBXTextBookmark */;
+			24F521981242F2D200E03E35 /* PBXTextBookmark */ = 24F521981242F2D200E03E35 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 24148FD0122B504900FF8A46 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {829, 235}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 360}";
+			sepNavWindowFrame = "{{15, 137}, {1302, 736}}";
+		};
+	};
+}

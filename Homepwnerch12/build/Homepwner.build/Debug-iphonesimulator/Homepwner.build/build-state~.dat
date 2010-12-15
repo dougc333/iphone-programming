@@ -1,0 +1,253 @@
+THomepwner
+v7
+r0
+t309514181.155157
+cCheck dependencies
+cProcessInfoPlistFile "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/Homepwner.app/Info.plist" Homepwner-Info.plist
+cCompileXIB "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/MainWindow.xib"
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-affpnrkxmdpxqmguxufrwkywgncl/Homepwner_Prefix.pch.gch Homepwner_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/main.o "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/HomepwnerAppDelegate.o "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/ItemsViewController.o "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/../ItemsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/Possessions.o "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/Possessions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B6361E000000000000000EE
+t1264804320
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/../ItemsViewController.m
+c000000004CC2982600000000000009BB
+t1287821350
+s2491
+i"ItemsViewController.h"
+i"Possessions.h"
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.h
+c000000004CB0DE0400000000000001B3
+t1286659588
+s435
+i<UIKit/UIKit.h>
+i"ItemsViewController.h"
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m
+c000000004CC2976000000000000002C5
+t1287821152
+s709
+i"HomepwnerAppDelegate.h"
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/Possessions.h
+c000000004C94362D00000000000002DF
+t1284781613
+s735
+i<Foundation/Foundation.h>
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/Possessions.m
+c000000004C9437730000000000000764
+t1284781939
+s1892
+i"Possessions.h"
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Homepwner_Prefix.pch
+c000000004CB0D6B000000000000000BB
+t1286657712
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/ItemsViewController.h
+c000000004CB0E124000000000000010C
+t1286660388
+s268
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/MainWindow.xib
+c000000004CB0D6B00000000000001F5D
+t1286657712
+s8029
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/Homepwner.app
+t2
+s0
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/Homepwner.app.dSYM
+t2
+s0
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/Homepwner.app/Homepwner
+t2
+s0
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/Homepwner.app/Info.plist
+t1287821378
+s572
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/Homepwner.app/MainWindow.nib
+t1287821378
+s1347
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/Homepwner.app/PkgInfo
+t1287821378
+s8
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/Homepwner.LinkFileList
+c000000004CC298420000000000000262
+t1287821378
+s610
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/HomepwnerAppDelegate.o
+t2
+s0
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/ItemsViewController.o
+t1287821381
+s34352
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/Possessions.o
+t1287821381
+s15256
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/main.o
+t1287821381
+s5992
+
+N/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/main.m
+c000000004CB0D6B00000000000000169
+t1286657712
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-affpnrkxmdpxqmguxufrwkywgncl/Homepwner_Prefix.pch.gch
+t1287821380
+s13034960
+
+NHomepwner-Info.plist
+c000000004CB0D6B0000000000000038D
+t1286657712
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309514178#309514178#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/HomepwnerAppDelegate.o "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309514180.942287
+e309514181.044511
+r0
+xCompileC
+xbuild/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/HomepwnerAppDelegate.o
+x/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m: In function '-[HomepwnerAppDelegate applicationDidFinishLaunching:]':
+o/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m:20: error: 'navController' undeclared (first use in this function)
+o/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m:20: error: (Each undeclared identifier is reported only once
+o/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m:20: error: for each function it appears in.)
+o/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m:19: warning: unused variable 'navComtroller'
+lSLF07#2@94"Compile /Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m309514180#309514181#0(724"/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m: In function '-[HomepwnerAppDelegate applicationDidFinishLaunching:]':/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m:20: error: 'navController' undeclared (first use in this function)/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m:20: error: (Each undeclared identifier is reported only once/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m:20: error: for each function it appears in.)/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m:19: warning: unused variable 'navComtroller'2(4@55"'navController' undeclared (first use in this function)309514180#158#154#0(6@86"/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m309513952#20#0#20#0#43"'*' undeclared (first use in this function)0(22@31"Unused variable 'navComtroller'309514180#592#132#0(6@86"/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m309513952#19#0#19#0#19"unused variable '*'0(0#0#86"/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m4300885448#2148"    cd "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-affpnrkxmdpxqmguxufrwkywgncl/Homepwner_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/HomepwnerAppDelegate.m" -o "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/HomepwnerAppDelegate.o"1#
+
+CCompileC build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/ItemsViewController.o "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/../ItemsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309514181.044612
+e309514181.155092
+r1
+xCompileC
+xbuild/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/ItemsViewController.o
+x/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/../ItemsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/../ItemsViewController.m309514181#309514181#0(0"0(0#0#88"/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/../ItemsViewController.m4300885448#2149"    cd "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-affpnrkxmdpxqmguxufrwkywgncl/Homepwner_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/../ItemsViewController.m" -o "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/ItemsViewController.o"0#
+
+CCompileC build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/Possessions.o "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/Possessions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309514181.057193
+e309514181.154775
+r1
+xCompileC
+xbuild/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/Possessions.o
+x/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/Possessions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/Possessions.m309514181#309514181#0(0"0(0#0#77"/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/Possessions.m4300885448#2130"    cd "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-affpnrkxmdpxqmguxufrwkywgncl/Homepwner_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Classes/Possessions.m" -o "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/Possessions.o"0#
+
+CCompileC build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/main.o "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309514180.940587
+e309514181.057098
+r1
+xCompileC
+xbuild/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/dougc333/Desktop/xcode experiments/Homepwnerch12/main.m309514180#309514181#0(0"0(0#0#62"/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/main.m4300885448#2108"    cd "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-affpnrkxmdpxqmguxufrwkywgncl/Homepwner_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/main.m" -o "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/MainWindow.xib"
+s309514178.159036
+e309514179.010285
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib309514178#309514179#0(0"0(0#0#70"/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/MainWindow.xib4300885448#541"    cd "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/Homepwner.app/MainWindow.nib" "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/Homepwner.app.dSYM" "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/Homepwner.app/Homepwner"
+r0
+
+CLd "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/Homepwner.app/Homepwner" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/Homepwner.app/Info.plist" Homepwner-Info.plist
+s309514178.154589
+e309514178.158927
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/Homepwner.app/Info.plist
+xHomepwner-Info.plist
+lSLF07#2@28"Process Homepwner-Info.plist309514178#309514178#0(0"0(0#0#76"/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Homepwner-Info.plist4300885448#542"    cd "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Homepwner-Info.plist -genpkginfo "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/Homepwner.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/Homepwner.app/Info.plist"0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-affpnrkxmdpxqmguxufrwkywgncl/Homepwner_Prefix.pch.gch Homepwner_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309514179.010414
+e309514180.940306
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-affpnrkxmdpxqmguxufrwkywgncl/Homepwner_Prefix.pch.gch
+xHomepwner_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Homepwner_Prefix.pch309514179#309514180#0(0"0(0#0#76"/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Homepwner_Prefix.pch4300885448#1979"    cd "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/Homepwner-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Homepwner.build/Debug-iphonesimulator/Homepwner.build/DerivedSources" -c "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/Homepwner_Prefix.pch" -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Homepwner_Prefix-affpnrkxmdpxqmguxufrwkywgncl/Homepwner_Prefix.pch.gch0#
+
+CTouch "/Users/dougc333/Desktop/xcode experiments/Homepwnerch12/build/Debug-iphonesimulator/Homepwner.app"
+r0
+

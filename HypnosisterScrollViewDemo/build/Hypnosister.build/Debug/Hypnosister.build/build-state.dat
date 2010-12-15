@@ -1,0 +1,39 @@
+THypnosister
+v7
+r1
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Hypnosister/MainWindow.xib
+c000000004C9E45AE0000000000001F67
+t1285440942
+s8039
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Hypnosister/build/Debug/Hypnosister.app
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Hypnosister/build/Debug/Hypnosister.app/Contents/Info.plist
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Hypnosister/build/Debug/Hypnosister.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Hypnosister/build/Debug/Hypnosister.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NHypnosister-Info.plist
+c000000004C9E45AE000000000000038D
+t1285440942
+s909
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Hypnosister/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Hypnosister/build/Debug/Hypnosister.app/Contents/Info.plist Hypnosister-Info.plist
+r0
+
+CTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/Hypnosister/build/Debug/Hypnosister.app
+r0
+

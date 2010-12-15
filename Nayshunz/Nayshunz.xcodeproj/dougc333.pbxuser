@@ -1,0 +1,144 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* NayshunzAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {928, 459}}";
+			sepNavSelRange = "{144, 1}";
+			sepNavVisRange = "{0, 526}";
+			sepNavWindowFrame = "{{15, 121}, {1027, 752}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* NayshunzAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {928, 5772}}";
+			sepNavSelRange = "{13787, 0}";
+			sepNavVisRange = "{0, 758}";
+			sepNavWindowFrame = "{{266, 106}, {1027, 752}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Nayshunz */ = {
+		activeExec = 0;
+		executables = (
+			24C27F581285C74E00DF10EF /* Nayshunz */,
+		);
+	};
+	2494003112866CE300F3ECA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NayshunzAppDelegate.m */;
+		name = "NayshunzAppDelegate.m: 421";
+		rLen = 0;
+		rLoc = 13787;
+		rType = 0;
+		vrLen = 758;
+		vrLoc = 0;
+	};
+	2494FFBB1285FF2400F3ECA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NayshunzAppDelegate.m */;
+		name = "NayshunzAppDelegate.m: 184";
+		rLen = 0;
+		rLoc = 13787;
+		rType = 0;
+		vrLen = 1092;
+		vrLoc = 4255;
+	};
+	24C27F581285C74E00DF10EF /* Nayshunz */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Nayshunz;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	24C27F631285C76D00DF10EF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	24C27F641285C76D00DF10EF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	24C27FA41285D57C00DF10EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NayshunzAppDelegate.h */;
+		name = "NayshunzAppDelegate.h: 7";
+		rLen = 1;
+		rLoc = 144;
+		rType = 0;
+		vrLen = 526;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 24C27F581285C74E00DF10EF /* Nayshunz */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Nayshunz */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Nayshunz */,
+		);
+		codeSenseManager = 24C27F641285C76D00DF10EF /* Code sense */;
+		executables = (
+			24C27F581285C74E00DF10EF /* Nayshunz */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					750,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 310771607;
+			PBXWorkspaceStateSaveDate = 310771607;
+		};
+		perUserProjectItems = {
+			2494003112866CE300F3ECA5 /* PBXTextBookmark */ = 2494003112866CE300F3ECA5 /* PBXTextBookmark */;
+			2494FFBB1285FF2400F3ECA5 /* PBXTextBookmark */ = 2494FFBB1285FF2400F3ECA5 /* PBXTextBookmark */;
+			24C27FA41285D57C00DF10EF /* PBXTextBookmark */ = 24C27FA41285D57C00DF10EF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 24C27F631285C76D00DF10EF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

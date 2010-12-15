@@ -1,0 +1,6 @@
+/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/Classes/PickerTestAppDelegate.m:23: error: expected identifier or '(' before 'CGFloat'
+/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/Classes/PickerTestAppDelegate.m: In function '-[PickerTestAppDelegate pickerView:didSelectRow:inComponent:]':
+/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/Classes/PickerTestAppDelegate.m:35: warning: unused variable 'optionForRow'
+/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/Classes/PickerTestAppDelegate.m: At top level:
+/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/Classes/PickerTestAppDelegate.m:48: error: redefinition of '-[PickerTestAppDelegate pickerView:titleForRow:forComponent:]'
+/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/Classes/PickerTestAppDelegate.m:29: error: previous definition of '-[PickerTestAppDelegate pickerView:titleForRow:forComponent:]' was here

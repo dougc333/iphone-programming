@@ -1,0 +1,378 @@
+TMapExample
+v7
+r0
+t313820488.982560
+cCheck dependencies
+cProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/Info.plist MapExample-Info.plist
+cCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MainWindow.xib
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhqujmarrazybycaneyohpjyluon/MapExample_Prefix.pch.gch MapExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/MapExampleAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/MapPoint.o /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapPoint.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/MapExample normal i386
+cGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/MapExample
+cTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FF1000000000006B7E0
+t1282158577
+s440288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FEA00000000000001D0
+t1282158570
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C301100000000000002FE
+t1282158609
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C303B000000000016DD50
+t1282158651
+s1498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.h
+c000000004CF592A3000000000000028B
+t1291162275
+s651
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m
+c000000004CF5F6BD0000000000001595
+t1291187901
+s5525
+i"MapExampleAppDelegate.h"
+i"MapPoint.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapPoint.h
+c000000004CF5F0F80000000000000213
+t1291186424
+s531
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapPoint.m
+c000000004CF591CA00000000000001A2
+t1291162058
+s418
+i"MapPoint.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MainWindow.xib
+c000000004CF5EED20000000000006280
+t1291185874
+s25216
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch
+c000000004CF57E4900000000000000BD
+t1291157065
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app
+t1292127688
+s204
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app.dSYM
+t1292127688
+s102
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/Info.plist
+t1291178964
+s605
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/MainWindow.nib
+t1291185890
+s3580
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/MapExample
+t1292127688
+s23388
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/PkgInfo
+t1291178964
+s8
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/MapExample.LinkFileList
+c000000004CF5D25200000000000001D1
+t1291178578
+s465
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/MapExampleAppDelegate.o
+t1292127688
+s60004
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/MapPoint.o
+t1292127688
+s12032
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/main.o
+t1292127688
+s6344
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/StaticAnalyzer/normal/i386/MapExampleAppDelegate.plist
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/main.m
+c000000004CF57E49000000000000016B
+t1291157065
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhqujmarrazybycaneyohpjyluon/MapExample_Prefix.pch.gch
+t1292127688
+s15211536
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhrjrbzogbslnwhequgfqcsykgmu/MapExample_Prefix.pch.pth
+t2
+s0
+
+NMapExample-Info.plist
+c000000004CF5D2E4000000000000038F
+t1291178724
+s911
+
+CAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m
+s312850861.859265
+e312850862.091812
+r1
+xAnalyze
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhrjrbzogbslnwhequgfqcsykgmu/MapExample_Prefix.pch' file not found
+o #include "/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhrjrbzogbslnwhequgfqcsykgmu/MapExample_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@98"Analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m312850861#312850862#0(466"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhrjrbzogbslnwhequgfqcsykgmu/MapExample_Prefix.pch' file not found #include "/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhrjrbzogbslnwhequgfqcsykgmu/MapExample_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors312850861#18446744073709551615#0#1(25@183"'/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhrjrbzogbslnwhequgfqcsykgmu/MapExample_Prefix.pch' file not found312850861#18446744073709551615#0#0(6@14"<command line>312850861#1#0#1#0#0"0(6@14"<command line>312850861#0#0#0#0#0"0(0#0#90"/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m8630107232#2191"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhrjrbzogbslnwhequgfqcsykgmu/MapExample_Prefix.pch --analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/StaticAnalyzer/normal/i386/MapExampleAppDelegate.plist0#
+
+CAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/main.m
+s312850861.857895
+e312850862.087373
+r1
+xAnalyze
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/main.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhrjrbzogbslnwhequgfqcsykgmu/MapExample_Prefix.pch' file not found
+o #include "/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhrjrbzogbslnwhequgfqcsykgmu/MapExample_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@73"Analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/main.m312850861#312850862#0(466"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhrjrbzogbslnwhequgfqcsykgmu/MapExample_Prefix.pch' file not found #include "/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhrjrbzogbslnwhequgfqcsykgmu/MapExample_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors312850861#18446744073709551615#0#1(25@183"'/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhrjrbzogbslnwhequgfqcsykgmu/MapExample_Prefix.pch' file not found312850861#18446744073709551615#0#0(6@14"<command line>312850861#1#0#1#0#0"0(6@14"<command line>312850861#0#0#0#0#0"0(0#0#65"/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/main.m8632002016#2149"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhrjrbzogbslnwhequgfqcsykgmu/MapExample_Prefix.pch --analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/main.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313820487#313820487#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/MapExampleAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313820488.744429
+e313820488.862286
+r1
+xCompileC
+xbuild/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/MapExampleAppDelegate.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m: In function '-[MapExampleAppDelegate mapView:didAddAnnotationViews:]':
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m:23: warning: local declaration of 'mapView' hides instance variable
+lSLF07#2@98"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m313820488#313820488#0(322"/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m: In function '-[MapExampleAppDelegate mapView:didAddAnnotationViews:]':/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m:23: warning: local declaration of 'mapView' hides instance variable1(22@54"Local declaration of 'mapView' hides instance variable313820488#163#159#0(6@90"/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m312880701#23#0#23#0#0"0(0#0#90"/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m8602115136#2236"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhqujmarrazybycaneyohpjyluon/MapExample_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapExampleAppDelegate.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/MapExampleAppDelegate.o0#
+
+CCompileC build/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/MapPoint.o /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapPoint.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313820488.805330
+e313820488.911942
+r1
+xCompileC
+xbuild/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/MapPoint.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapPoint.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapPoint.m313820488#313820488#0(0"0(0#0#77"/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapPoint.m8603769536#2210"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhqujmarrazybycaneyohpjyluon/MapExample_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/Classes/MapPoint.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/MapPoint.o0#
+
+CCompileC build/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313820488.742869
+e313820488.805234
+r1
+xCompileC
+xbuild/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/main.m313820488#313820488#0(0"0(0#0#65"/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/main.m8599521216#2194"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhqujmarrazybycaneyohpjyluon/MapExample_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/main.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MainWindow.xib
+s312878690.231088
+e312878690.756823
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib312878690#312878690#0(0"0(0#0#73"/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MainWindow.xib30118316435898436#633"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/MainWindow.nib /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/MapExample
+s313820488.940701
+e313820488.979008
+r1
+xGenerateDSYMFile
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app.dSYM
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/MapExample
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/MapExample.app.dSYM build/Debug-iphonesimulator/MapExample.app/MapExample313820488#313820488#0(0"0(0#0#112"/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/MapExample8605858912#452"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/MapExample -o /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app.dSYM0#
+
+CLd /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/MapExample normal i386
+s313820488.912032
+e313820488.940599
+r1
+xLd
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/MapExample
+xnormal
+xi386
+lSLF07#2@117"Link /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/MapExample313820488#313820488#0(0"0(0#0#0"8606482976#1057"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator -F/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator -filelist /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/Objects-normal/i386/MapExample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/MapExample0#
+
+CProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/Info.plist MapExample-Info.plist
+s312871764.014277
+e312871764.056704
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/Info.plist
+xMapExample-Info.plist
+lSLF07#2@29"Process MapExample-Info.plist312871764#312871764#0(0"0(0#0#80"/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample-Info.plist8626065632#548"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MapExample-Info.plist -genpkginfo /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app/Info.plist0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhqujmarrazybycaneyohpjyluon/MapExample_Prefix.pch.gch MapExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313820487.969064
+e313820488.742725
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhqujmarrazybycaneyohpjyluon/MapExample_Prefix.pch.gch
+xMapExample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile MapExample_Prefix.pch313820487#313820488#0(0"0(0#0#80"/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch7308339910404490240#2063"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhqujmarrazybycaneyohpjyluon/MapExample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhrjrbzogbslnwhequgfqcsykgmu/MapExample_Prefix.pch.pth MapExample_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s312850861.495704
+e312850861.856853
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhrjrbzogbslnwhequgfqcsykgmu/MapExample_Prefix.pch.pth
+xMapExample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+oIn file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator
+o   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);
+o                       ^
+oIn file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from:
+o # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING
+o                                ^
+o<scratch space>:82:1: note: instantiated from:
+o __AVAILABILITY_INTERNAL__MAC_10_7
+o ^
+oIn file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type
+o + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                           ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type
+o + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                      ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type
+o + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview
+o                                                                                                                  ^
+oIn file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState'
+o @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                               ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type
+o - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o    ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type
+o - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                            ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type
+o - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o                                             ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type
+o - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o    ^
+oIn file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+oIn file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+o11 errors generated.
+lSLF07#2@32"Precompile MapExample_Prefix.pch312850861#312850861#0(8249"In file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);                       ^In file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from: # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING                                ^<scratch space>:82:1: note: instantiated from: __AVAILABILITY_INTERNAL__MAC_10_7 ^In file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                           ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                      ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview                                                                                                                  ^In file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState' @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                               ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);    ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                            ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);                                             ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);    ^In file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^In file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^11 errors generated.1(25@46"Analyzer skipped this file due to parse errors312850861#18446744073709551615#0#11(25@48"expected function body after function declarator312850861#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#0#60#0#0"0(25@15"expected a type312850861#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#0#250#0#0"0(25@15"expected a type312850861#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#0#256#0#0"0(25@15"expected a type312850861#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#0#258#0#0"0(25@38"unknown type name 'UIApplicationState'312850861#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#187#0#187#0#0"0(25@15"expected a type312850861#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#190#0#190#0#0"0(25@15"expected a type312850861#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#191#0#191#0#0"0(25@15"expected a type312850861#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#202#0#202#0#0"0(25@15"expected a type312850861#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#206#0#206#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'312850861#18446744073709551615#0#0(6@146"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#0#82#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'312850861#18446744073709551615#0#0(6@145"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h303200623#54#0#54#0#0"0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#0#0#0#0#0"0(0#0#80"/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch8627443744#2000"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/MapExample-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/MapExample.build/Debug-iphonesimulator/MapExample.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/MapExample_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapExample_Prefix-fhrjrbzogbslnwhequgfqcsykgmu/MapExample_Prefix.pch.pth0#
+
+CTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app
+s313820488.979117
+e313820488.982502
+r1
+xTouch
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app
+lSLF07#2@107"Touch /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app313820488#313820488#0(0"0(0#0#0"8605777952#321"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/MapExample/build/Debug-iphonesimulator/MapExample.app0#
+

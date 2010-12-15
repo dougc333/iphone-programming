@@ -1,0 +1,535 @@
+TPistolGunVCTemplate
+v7
+r0
+t314070271.955309
+cCheck dependencies
+cCpResource build/Debug-iphoneos/PistolGunVCTemplate.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/Info.plist PistolGunVCTemplate-Info.plist
+cCompileXIB /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/MainWindow.xib
+cCompileXIB /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/PistolGunVCTemplateViewController.xib
+cCpResource build/Debug-iphoneos/PistolGunVCTemplate.app/gun.jpg gun.jpg
+cCpResource build/Debug-iphoneos/PistolGunVCTemplate.app/gunshot.mp3 gunshot.mp3
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-djikcndqjtrvdqbwspdgpatklbbr/PistolGunVCTemplate_Prefix.pch.gch PistolGunVCTemplate_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-diwptapapmzsbxeptemsrkhdcoet/PistolGunVCTemplate_Prefix.pch.gch PistolGunVCTemplate_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/main.o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplateAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplateViewController.o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolView.o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/main.o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplateAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplate normal armv6
+cCompileC build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplateViewController.o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolView.o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplate normal armv7
+cCreateUniversalBinary /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/PistolGunVCTemplate normal "armv6 armv7"
+cGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/PistolGunVCTemplate
+cProcessProductPackaging "/Users/dougc333/Library/MobileDevice/Provisioning Profiles/721EC480-5FD3-47FB-9BB6-75221AAB881D.mobileprovision" /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/embedded.mobileprovision
+cTouch /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate.xcent
+cCodeSign /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C68BB8400000000001D26C0
+t1281932164
+s1910464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004C68BB790000000000000703
+t1281932153
+s1795
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c000000004C5A49EB0000000000004180
+t1280985579
+s16768
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateAppDelegate.h
+c000000004D06F34E0000000000000226
+t1292301134
+s550
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateAppDelegate.m
+c000000004D06F34E0000000000000AC6
+t1292301134
+s2758
+i"PistolGunVCTemplateAppDelegate.h"
+i"PistolGunVCTemplateViewController.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateViewController.h
+c000000004D081D7E0000000000000203
+t1292377470
+s515
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateViewController.m
+c000000004D081D640000000000001179
+t1292377444
+s4473
+i"PistolGunVCTemplateViewController.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.h
+c000000004D04502400000000000001ED
+t1292128292
+s493
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m
+c000000004D0450CB00000000000006C7
+t1292128459
+s1735
+i"PistolView.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/MainWindow.xib
+c000000004D06F34E0000000000004EB9
+t1292301134
+s20153
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/PistolGunVCTemplateViewController.xib
+c000000004D06F9AE000000000000487E
+t1292302766
+s18558
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/PistolGunVCTemplate_Prefix.pch
+c000000004D06F34E00000000000000CF
+t1292301134
+s207
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app
+t1292377471
+s442
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app.dSYM
+t1292377471
+s102
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/Info.plist
+t1292330740
+s782
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/MainWindow.nib
+t1292330740
+s1705
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/PistolGunVCTemplate
+t1292377471
+s59152
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/PistolGunVCTemplateViewController.nib
+t1292330740
+s1865
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/PkgInfo
+t1292330740
+s8
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/ResourceRules.plist
+t1292330740
+s485
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/embedded.mobileprovision
+t1292330745
+s34235
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/gun.jpg
+t1292330740
+s34567
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/gunshot.mp3
+t1292330740
+s5584
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplate
+t1292377471
+s26712
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplate.LinkFileList
+c000000004D0766F300000000000002E1
+t1292330739
+s737
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplateAppDelegate.o
+t1292377471
+s48124
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplateViewController.o
+t1292377471
+s47028
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolView.o
+t1292330744
+s46728
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/main.o
+t1292330744
+s6504
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplate
+t1292377471
+s26384
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplate.LinkFileList
+c000000004D0766F300000000000002E1
+t1292330739
+s737
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplateAppDelegate.o
+t1292377471
+s48040
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplateViewController.o
+t1292377471
+s45844
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolView.o
+t1292330744
+s46584
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/main.o
+t1292330744
+s6488
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate.xcent
+t1292330745
+s448
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/gun.jpg
+c000000004CE821770000000000008707
+t1290281335
+s34567
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/gunshot.mp3
+c000000003F9489BE00000000000015D0
+t1066699198
+s5584
+
+N/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/main.m
+c000000004D06F34E0000000000000174
+t1292301134
+s372
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Library/MobileDevice/Provisioning Profiles/721EC480-5FD3-47FB-9BB6-75221AAB881D.mobileprovision
+c000000004CFA96E300000000000085BB
+t1291491043
+s34235
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-diwptapapmzsbxeptemsrkhdcoet/PistolGunVCTemplate_Prefix.pch.gch
+t1292330743
+s10294832
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-djikcndqjtrvdqbwspdgpatklbbr/PistolGunVCTemplate_Prefix.pch.gch
+t1292330743
+s9831984
+
+NPistolGunVCTemplate-Info.plist
+c000000004D0766F3000000000000038F
+t1292330739
+s911
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314070271#314070271#0(0"0(0#1#0"8627802752#0"0#
+
+CCodeSign /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app
+s314070271.728226
+e314070271.955275
+r1
+xCodeSign
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app
+lSLF07#2@53"CodeSign build/Debug-iphoneos/PistolGunVCTemplate.app314070271#314070271#0(0"0(0#0#112"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app8640004064#822"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: doug chang (TB425T34FS)" --resource-rules=/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/ResourceRules.plist --entitlements /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate.xcent /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app0#
+
+CCompileC build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplateAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314070271.204687
+e314070271.389366
+r1
+xCompileC
+xbuild/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplateAppDelegate.o
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateAppDelegate.m314070271#314070271#0(0"0(0#0#108"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateAppDelegate.m8636061440#2343"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-djikcndqjtrvdqbwspdgpatklbbr/PistolGunVCTemplate_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateAppDelegate.m -o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplateAppDelegate.o0#
+
+CCompileC build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplateViewController.o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314070271.228205
+e314070271.394136
+r1
+xCompileC
+xbuild/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplateViewController.o
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateViewController.m314070271#314070271#0(0"0(0#0#111"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateViewController.m8644743872#2349"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-djikcndqjtrvdqbwspdgpatklbbr/PistolGunVCTemplate_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateViewController.m -o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplateViewController.o0#
+
+CCompileC build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolView.o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314023544.167677
+e314023544.427153
+r1
+xCompileC
+xbuild/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolView.o
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m: In function '-[PistolView touchesBegan:withEvent:]':
+o/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m:48: warning: unused variable 't'
+lSLF07#2@96"Compile /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m314023544#314023544#0(265"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m: In function '-[PistolView touchesBegan:withEvent:]':/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m:48: warning: unused variable 't'1(22@19"Unused variable 't'314023544#143#122#0(6@88"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m313821259#48#0#48#0#19"unused variable '*'0(0#0#88"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m8619449248#2303"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-djikcndqjtrvdqbwspdgpatklbbr/PistolGunVCTemplate_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m -o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolView.o0#
+
+CCompileC build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/main.o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314023544.004644
+e314023544.165346
+r1
+xCompileC
+xbuild/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/main.o
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/main.m314023544#314023544#0(0"0(0#0#74"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/main.m8615069184#2283"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-djikcndqjtrvdqbwspdgpatklbbr/PistolGunVCTemplate_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/main.m -o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplateAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314070271.389695
+e314070271.480730
+r1
+xCompileC
+xbuild/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplateAppDelegate.o
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateAppDelegate.m314070271#314070271#0(0"0(0#0#108"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateAppDelegate.m8641785632#2343"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-diwptapapmzsbxeptemsrkhdcoet/PistolGunVCTemplate_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateAppDelegate.m -o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplateAppDelegate.o0#
+
+CCompileC build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplateViewController.o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314070271.480882
+e314070271.583911
+r1
+xCompileC
+xbuild/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplateViewController.o
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateViewController.m314070271#314070271#0(0"0(0#0#111"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateViewController.m8639090176#2349"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-diwptapapmzsbxeptemsrkhdcoet/PistolGunVCTemplate_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolGunVCTemplateViewController.m -o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplateViewController.o0#
+
+CCompileC build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolView.o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314023544.614449
+e314023544.809705
+r1
+xCompileC
+xbuild/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolView.o
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m: In function '-[PistolView touchesBegan:withEvent:]':
+o/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m:48: warning: unused variable 't'
+lSLF07#2@96"Compile /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m314023544#314023544#0(265"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m: In function '-[PistolView touchesBegan:withEvent:]':/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m:48: warning: unused variable 't'1(22@19"Unused variable 't'314023544#143#122#0(6@88"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m313821259#48#0#48#0#19"unused variable '*'0(0#0#88"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m8618893184#2303"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-diwptapapmzsbxeptemsrkhdcoet/PistolGunVCTemplate_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/Classes/PistolView.m -o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolView.o0#
+
+CCompileC build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/main.o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314023544.255578
+e314023544.371338
+r1
+xCompileC
+xbuild/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/main.o
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/main.m314023544#314023544#0(0"0(0#0#74"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/main.m8624064608#2283"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-diwptapapmzsbxeptemsrkhdcoet/PistolGunVCTemplate_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/main.m -o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/MainWindow.xib
+s314023540.099505
+e314023540.876480
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib314023540#314023540#0(0"0(0#0#82"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/MainWindow.xib8624808896#641"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/MainWindow.nib /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/PistolGunVCTemplateViewController.xib
+s314023540.100460
+e314023540.998288
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/PistolGunVCTemplateViewController.xib
+lSLF07#2@48"CompileXIB PistolGunVCTemplateViewController.xib314023540#314023540#0(0"0(0#0#105"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/PistolGunVCTemplateViewController.xib8624497856#687"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/PistolGunVCTemplateViewController.nib /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/PistolGunVCTemplateViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCpResource build/Debug-iphoneos/PistolGunVCTemplate.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s314023539.970376
+e314023540.099423
+r1
+xCpResource
+xbuild/Debug-iphoneos/PistolGunVCTemplate.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist314023539#314023540#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist8619003616#550"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app0#
+
+CCpResource build/Debug-iphoneos/PistolGunVCTemplate.app/gun.jpg gun.jpg
+s314023540.876655
+e314023540.955222
+r1
+xCpResource
+xbuild/Debug-iphoneos/PistolGunVCTemplate.app/gun.jpg
+xgun.jpg
+lSLF07#2@12"Copy gun.jpg314023540#314023540#0(0"0(0#0#75"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/gun.jpg8619753216#536"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/gun.jpg /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app0#
+
+CCpResource build/Debug-iphoneos/PistolGunVCTemplate.app/gunshot.mp3 gunshot.mp3
+s314023540.878465
+e314023540.929484
+r1
+xCpResource
+xbuild/Debug-iphoneos/PistolGunVCTemplate.app/gunshot.mp3
+xgunshot.mp3
+lSLF07#2@16"Copy gunshot.mp3314023540#314023540#0(0"0(0#0#79"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/gunshot.mp38618971424#540"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/gunshot.mp3 /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app0#
+
+CCreateUniversalBinary /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/PistolGunVCTemplate normal "armv6 armv7"
+s314070271.639178
+e314070271.682539
+r1
+xCreateUniversalBinary
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/PistolGunVCTemplate
+xnormal
+xarmv6 armv7
+lSLF07#2@107"CreateUniversalBinary build/Debug-iphoneos/PistolGunVCTemplate.app/PistolGunVCTemplate normal "armv6 armv7"314070271#314070271#0(0"0(0#0#79"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/armv6 armv78642033184#730"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplate /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplate -output /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/PistolGunVCTemplate0#
+
+CGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/PistolGunVCTemplate
+s314070271.682675
+e314070271.725030
+r1
+xGenerateDSYMFile
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app.dSYM
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/PistolGunVCTemplate
+lSLF07#2@131"GenerateDSYMFile build/Debug-iphoneos/PistolGunVCTemplate.app.dSYM build/Debug-iphoneos/PistolGunVCTemplate.app/PistolGunVCTemplate314070271#314070271#0(0"0(0#0#132"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/PistolGunVCTemplate8641503840#485"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/PistolGunVCTemplate -o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app.dSYM0#
+
+CLd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplate normal armv6
+s314070271.394226
+e314070271.514104
+r1
+xLd
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplate
+xnormal
+xarmv6
+lSLF07#2@186"Link /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplate314070271#314070271#0(0"0(0#0#0"8640238880#1122"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos -F/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos -filelist /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplate.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -framework Accelerate -o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv6/PistolGunVCTemplate0#
+
+CLd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplate normal armv7
+s314070271.584010
+e314070271.639048
+r1
+xLd
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplate
+xnormal
+xarmv7
+lSLF07#2@186"Link /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplate314070271#314070271#0(0"0(0#0#0"8643037280#1122"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos -F/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos -filelist /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplate.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -framework Accelerate -o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/Objects-normal/armv7/PistolGunVCTemplate0#
+
+CProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/Info.plist PistolGunVCTemplate-Info.plist
+s314023539.972511
+e314023540.077334
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/Info.plist
+xPistolGunVCTemplate-Info.plist
+lSLF07#2@38"Process PistolGunVCTemplate-Info.plist314023539#314023540#0(0"0(0#0#98"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/PistolGunVCTemplate-Info.plist8627635264#726"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PistolGunVCTemplate-Info.plist -genpkginfo /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/ResourceRules.plist -o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/Info.plist0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-diwptapapmzsbxeptemsrkhdcoet/PistolGunVCTemplate_Prefix.pch.gch PistolGunVCTemplate_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314023540.999695
+e314023544.004540
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-diwptapapmzsbxeptemsrkhdcoet/PistolGunVCTemplate_Prefix.pch.gch
+xPistolGunVCTemplate_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile PistolGunVCTemplate_Prefix.pch314023541#314023544#0(0"0(0#0#98"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/PistolGunVCTemplate_Prefix.pch8624361024#2140"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/PistolGunVCTemplate_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-diwptapapmzsbxeptemsrkhdcoet/PistolGunVCTemplate_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-djikcndqjtrvdqbwspdgpatklbbr/PistolGunVCTemplate_Prefix.pch.gch PistolGunVCTemplate_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314023540.998562
+e314023543.926384
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-djikcndqjtrvdqbwspdgpatklbbr/PistolGunVCTemplate_Prefix.pch.gch
+xPistolGunVCTemplate_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile PistolGunVCTemplate_Prefix.pch314023540#314023543#0(0"0(0#0#98"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/PistolGunVCTemplate_Prefix.pch8625260032#2140"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/PistolGunVCTemplate_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PistolGunVCTemplate_Prefix-djikcndqjtrvdqbwspdgpatklbbr/PistolGunVCTemplate_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/dougc333/Library/MobileDevice/Provisioning Profiles/721EC480-5FD3-47FB-9BB6-75221AAB881D.mobileprovision" /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/embedded.mobileprovision
+s314023545.583491
+e314023545.591646
+r1
+xProcessProductPackaging
+x/Users/dougc333/Library/MobileDevice/Provisioning Profiles/721EC480-5FD3-47FB-9BB6-75221AAB881D.mobileprovision
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/dougc333/Library/MobileDevice/Provisioning Profiles/721EC480-5FD3-47FB-9BB6-75221AAB881D.mobileprovision" build/Debug-iphoneos/PistolGunVCTemplate.app/embedded.mobileprovision314023545#314023545#0(0"0(0#0#137"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/embedded.mobileprovision8624318048#496"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/dougc333/Library/MobileDevice/Provisioning Profiles/721EC480-5FD3-47FB-9BB6-75221AAB881D.mobileprovision" -o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate.xcent
+s314023545.595242
+e314023545.622709
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate.xcent
+lSLF07#2@211"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate.xcent314023545#314023545#0(0"0(0#0#166"/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate.xcent8623459872#526"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/PistolGunVCTemplate.build/Debug-iphoneos/PistolGunVCTemplate.build/PistolGunVCTemplate.xcent0#
+
+CTouch /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app
+s314070271.725223
+e314070271.728058
+r1
+xTouch
+x/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app
+lSLF07#2@118"Touch /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app314070271#314070271#0(0"0(0#0#0"8640182720#334"    cd /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/build/Debug-iphoneos/PistolGunVCTemplate.app0#
+

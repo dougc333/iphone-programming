@@ -1,0 +1,224 @@
+TBankAccount
+v7
+r0
+t313198534.500462
+cCheck dependencies
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccount_Prefix-gqhemnjecaaqipdhtvlcuijlhekq/BankAccount_Prefix.pch.gch BankAccount_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/BankAccount.o /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/BankAccount.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/Account.o /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/Account.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/Debug/BankAccount normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CCB7DD200000000000000EE
+t1288404434
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD605D10000000000B3E910
+t1289094609
+s11790608
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/Account.h
+c000000004C9454DB00000000000001A3
+t1284789467
+s419
+i<Cocoa/Cocoa.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/Account.m
+c000000004C9454E3000000000000050F
+t1284789475
+s1295
+i"Account.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/BankAccount.m
+c000000004C72BF5C0000000000000387
+t1282588508
+s903
+i<Foundation/Foundation.h>
+i"Account.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/BankAccount_Prefix.pch
+c000000004C72368800000000000000A4
+t1282553480
+s164
+i<Foundation/Foundation.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/Account.o
+t1284789477
+s11172
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/BankAccount.LinkFileList
+c000000004C723C5A000000000000011E
+t1282554970
+s286
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/BankAccount.o
+t1284789477
+s8916
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/Debug/BankAccount
+t1284789478
+s15040
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/Account.h
+c000000004C9454DB00000000000001A3
+t1284789467
+s419
+i<Cocoa/Cocoa.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/Account.m
+c000000004C9454E3000000000000050F
+t1284789475
+s1295
+i"Account.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/BankAccount.m
+c000000004C72BF5C0000000000000387
+t1282588508
+s903
+i<Foundation/Foundation.h>
+i"Account.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/BankAccount_Prefix.pch
+c000000004C72368800000000000000A4
+t1282553480
+s164
+i<Foundation/Foundation.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/Account.o
+t1291505734
+s11164
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/BankAccount.LinkFileList
+c000000004CFAD036000000000000011C
+t1291505718
+s284
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/BankAccount.o
+t1291505734
+s8900
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/Debug/BankAccount
+t1291505734
+s15040
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccount_Prefix-cdgnchseajygxvaawbypqyjeboxz/BankAccount_Prefix.pch.gch
+t1284789398
+s41405200
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccount_Prefix-gqhemnjecaaqipdhtvlcuijlhekq/BankAccount_Prefix.pch.gch
+t1291505731
+s41401104
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313198518#313198518#0(0"0(0#1#0"8621221248#0"0#
+
+CCompileC build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/Account.o "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/Account.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306482277.544128
+e306482277.952142
+r1
+xCompileC
+xbuild/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/Account.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/Account.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/Account.m306482277#306482277#0(0"0(0#0#70"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/Account.m4300885448#1800"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/Debug" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/Debug/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/DerivedSources/x86_64" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccount_Prefix-cdgnchseajygxvaawbypqyjeboxz/BankAccount_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/Account.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/Account.o"0#
+
+CCompileC build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/Account.o /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/Account.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313198531.552838
+e313198534.106641
+r1
+xCompileC
+xbuild/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/Account.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/Account.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/Account.m313198531#313198534#0(0"0(0#0#69"/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/Account.m8624857824#1767"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/Debug -I/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/Debug/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/DerivedSources/x86_64 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccount_Prefix-gqhemnjecaaqipdhtvlcuijlhekq/BankAccount_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/Account.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/Account.o0#
+
+CCompileC build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/BankAccount.o "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/BankAccount.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306482277.543107
+e306482277.947023
+r1
+xCompileC
+xbuild/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/BankAccount.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/BankAccount.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/BankAccount.m306482277#306482277#0(0"0(0#0#74"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/BankAccount.m4300885448#1808"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/Debug" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/Debug/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/DerivedSources/x86_64" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccount_Prefix-cdgnchseajygxvaawbypqyjeboxz/BankAccount_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/BankAccount.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/BankAccount.o"0#
+
+CCompileC build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/BankAccount.o /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/BankAccount.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313198531.550995
+e313198534.115630
+r1
+xCompileC
+xbuild/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/BankAccount.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/BankAccount.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/BankAccount.m313198531#313198534#0(0"0(0#0#73"/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/BankAccount.m8599809824#1775"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/Debug -I/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/Debug/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/DerivedSources/x86_64 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccount_Prefix-gqhemnjecaaqipdhtvlcuijlhekq/BankAccount_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/BankAccount.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/BankAccount.o0#
+
+CLd "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/Debug/BankAccount" normal x86_64
+s306482277.952229
+e306482278.064126
+r1
+xLd
+x/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/Debug/BankAccount
+xnormal
+xx86_64
+lSLF07#2@89"Link /Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/Debug/BankAccount306482277#306482278#0(0"0(0#0#0"4300885448#656"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/Debug" "-F/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/Debug" -filelist "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/BankAccount.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/Debug/BankAccount"0#
+
+CLd /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/Debug/BankAccount normal x86_64
+s313198534.115723
+e313198534.500417
+r1
+xLd
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/Debug/BankAccount
+xnormal
+xx86_64
+lSLF07#2@88"Link /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/Debug/BankAccount313198534#313198534#0(0"0(0#0#0"8632194464#641"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/Debug -F/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/Debug -filelist /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/Objects-normal/x86_64/BankAccount.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/Debug/BankAccount0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccount_Prefix-cdgnchseajygxvaawbypqyjeboxz/BankAccount_Prefix.pch.gch BankAccount_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306482191.733372
+e306482198.465743
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccount_Prefix-cdgnchseajygxvaawbypqyjeboxz/BankAccount_Prefix.pch.gch
+xBankAccount_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile BankAccount_Prefix.pch306482191#306482198#0(0"0(0#0#83"/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/BankAccount_Prefix.pch4300885448#1672"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/Debug" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/Debug/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/DerivedSources/x86_64" "-I/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/DerivedSources" -c "/Users/dougc333/Desktop/xcode experiments/cis312/BankAccount/BankAccount_Prefix.pch" -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccount_Prefix-cdgnchseajygxvaawbypqyjeboxz/BankAccount_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccount_Prefix-gqhemnjecaaqipdhtvlcuijlhekq/BankAccount_Prefix.pch.gch BankAccount_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313198518.874557
+e313198531.550792
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccount_Prefix-gqhemnjecaaqipdhtvlcuijlhekq/BankAccount_Prefix.pch.gch
+xBankAccount_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile BankAccount_Prefix.pch313198518#313198531#0(0"0(0#0#82"/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/BankAccount_Prefix.pch8621142240#1642"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/BankAccount-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/Debug -I/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/Debug/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/DerivedSources/x86_64 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/build/BankAccount.build/Debug/BankAccount.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/BankAccount/BankAccount_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BankAccount_Prefix-gqhemnjecaaqipdhtvlcuijlhekq/BankAccount_Prefix.pch.gch0#
+

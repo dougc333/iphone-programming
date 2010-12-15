@@ -1,0 +1,275 @@
+TTestNavController
+v7
+r0
+t313365764.771528
+cCheck dependencies
+cProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/Info.plist TestNavController-Info.plist
+cCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/MainWindow.xib
+cCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/ViewController.xib
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavController_Prefix-fxafupaogvzqpqfeqxikkmrgkfid/TestNavController_Prefix.pch.gch TestNavController_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/../main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/TestNavControllerAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/TestNavControllerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/ViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/TestNavController normal i386
+cGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/TestNavController
+cTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/../main.m
+c000000004CFCAF100000000000000171
+t1291628304
+s369
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/TestNavControllerAppDelegate.h
+c000000004CFD5CD50000000000000270
+t1291672789
+s624
+i<UIKit/UIKit.h>
+i"ViewController.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/TestNavControllerAppDelegate.m
+c000000004CFD5DB70000000000000CA1
+t1291673015
+s3233
+i"TestNavControllerAppDelegate.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/ViewController.h
+c000000004CFD5AE800000000000000E8
+t1291672296
+s232
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/ViewController.m
+c000000004CFD5AE800000000000005A8
+t1291672296
+s1448
+i"ViewController.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/ViewController.xib
+c000000004CFD5AE80000000000001865
+t1291672296
+s6245
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/MainWindow.xib
+c000000004CFCAF10000000000000213A
+t1291628304
+s8506
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/TestNavController_Prefix.pch
+c000000004CFCAF1000000000000000CB
+t1291628304
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app
+t1291672964
+s238
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app.dSYM
+t1291672964
+s102
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/Info.plist
+t1291630342
+s639
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/MainWindow.nib
+t1291630342
+s994
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/PkgInfo
+t1291630342
+s8
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/TestNavController
+t1291672964
+s18976
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/ViewController.nib
+t1291672324
+s764
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/TestNavController.LinkFileList
+c000000004CFD5B04000000000000021D
+t1291672324
+s541
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/TestNavControllerAppDelegate.o
+t1291672964
+s58836
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/ViewController.o
+t1291672324
+s37608
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/main.o
+t1291633285
+s6380
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/main.m
+c000000004CFCAF100000000000000171
+t1291628304
+s369
+i<UIKit/UIKit.h>
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavController_Prefix-fxafupaogvzqpqfeqxikkmrgkfid/TestNavController_Prefix.pch.gch
+t1291630343
+s15453392
+
+NTestNavController-Info.plist
+c000000004CFCB6D8000000000000038F
+t1291630296
+s911
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313365764#313365764#0(0"0(0#1#0"8619455424#0"0#
+
+CCompileC build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/TestNavControllerAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/TestNavControllerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313365764.643063
+e313365764.726101
+r1
+xCompileC
+xbuild/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/TestNavControllerAppDelegate.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/TestNavControllerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/TestNavControllerAppDelegate.m313365764#313365764#0(0"0(0#0#104"/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/TestNavControllerAppDelegate.m8618470016#2467"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavController_Prefix-fxafupaogvzqpqfeqxikkmrgkfid/TestNavController_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/TestNavControllerAppDelegate.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/TestNavControllerAppDelegate.o0#
+
+CCompileC build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/ViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313365124.754977
+e313365124.825411
+r1
+xCompileC
+xbuild/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/ViewController.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/ViewController.m313365124#313365124#0(0"0(0#0#90"/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/ViewController.m8613789088#2439"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavController_Prefix-fxafupaogvzqpqfeqxikkmrgkfid/TestNavController_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/ViewController.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/ViewController.o0#
+
+CCompileC build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/../main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313326085.361844
+e313326085.437926
+r1
+xCompileC
+xbuild/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/../main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/../main.m313326085#313326085#0(0"0(0#0#83"/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/../main.m8625734368#2422"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavController_Prefix-fxafupaogvzqpqfeqxikkmrgkfid/TestNavController_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/../main.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/main.o0#
+
+CCompileC build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313323143.971336
+e313323144.166754
+r1
+xCompileC
+xbuild/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/main.m313323143#313323144#0(0"0(0#0#72"/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/main.m8639928384#2411"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavController_Prefix-fxafupaogvzqpqfeqxikkmrgkfid/TestNavController_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/main.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/ViewController.xib
+s313365124.405970
+e313365124.753499
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/ViewController.xib
+lSLF07#2@37"CompileXIB Classes/ViewController.xib313365124#313365124#0(0"0(0#0#92"/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/ViewController.xib8610153248#677"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/ViewController.nib /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/Classes/ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/MainWindow.xib
+s313323142.407292
+e313323142.993966
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib313323142#313323142#0(0"0(0#0#80"/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/MainWindow.xib8643827008#661"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/MainWindow.nib /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/TestNavController
+s313365764.750989
+e313365764.768327
+r1
+xGenerateDSYMFile
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app.dSYM
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/TestNavController
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/TestNavController.app.dSYM build/Debug-iphonesimulator/TestNavController.app/TestNavController313365764#313365764#0(0"0(0#0#133"/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/TestNavController8618955168#494"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/TestNavController -o /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app.dSYM0#
+
+CLd /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/TestNavController normal i386
+s313365764.726190
+e313365764.750883
+r1
+xLd
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/TestNavController
+xnormal
+xi386
+lSLF07#2@138"Link /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/TestNavController313365764#313365764#0(0"0(0#0#0"8618787200#1085"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator -F/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator -filelist /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/Objects-normal/i386/TestNavController.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/TestNavController0#
+
+CProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/Info.plist TestNavController-Info.plist
+s313323142.387962
+e313323142.407198
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/Info.plist
+xTestNavController-Info.plist
+lSLF07#2@36"Process TestNavController-Info.plist313323142#313323142#0(0"0(0#0#94"/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/TestNavController-Info.plist8644759488#590"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TestNavController-Info.plist -genpkginfo /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app/Info.plist0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavController_Prefix-fxafupaogvzqpqfeqxikkmrgkfid/TestNavController_Prefix.pch.gch TestNavController_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313323142.994192
+e313323143.971125
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavController_Prefix-fxafupaogvzqpqfeqxikkmrgkfid/TestNavController_Prefix.pch.gch
+xTestNavController_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile TestNavController_Prefix.pch313323142#313323143#0(0"0(0#0#94"/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/TestNavController_Prefix.pch8645422432#2266"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/TestNavController-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/TestNavController.build/Debug-iphonesimulator/TestNavController.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/TestNavController_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavController_Prefix-fxafupaogvzqpqfeqxikkmrgkfid/TestNavController_Prefix.pch.gch0#
+
+CTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app
+s313365764.768407
+e313365764.771488
+r1
+xTouch
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app
+lSLF07#2@121"Touch /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app313365764#313365764#0(0"0(0#0#0"8618838208#342"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/TestNavController/build/Debug-iphonesimulator/TestNavController.app0#
+

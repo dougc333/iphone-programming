@@ -1,0 +1,355 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* PistolGunVCTemplate */ = {
+		activeExec = 0;
+		executables = (
+			24EFB32812B72ACE008D1C5E /* PistolGunVCTemplate */,
+		);
+	};
+	24EFB32812B72ACE008D1C5E /* PistolGunVCTemplate */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PistolGunVCTemplate;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	24EFB33112B72AD4008D1C5E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	24EFB33212B72AD4008D1C5E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	24EFB37B12B72F6F008D1C5E /* PistolView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {474, 417}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 493}";
+		};
+	};
+	24EFB37C12B72F6F008D1C5E /* PistolView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {642, 1040}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 662}";
+		};
+	};
+	24EFB3A112B780F2008D1C5E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24EFB37C12B72F6F008D1C5E /* PistolView.m */;
+		name = "PistolView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 662;
+		vrLoc = 0;
+	};
+	24EFB3E412B79C94008D1C5E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24EFB37B12B72F6F008D1C5E /* PistolView.h */;
+		name = "PistolView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 493;
+		vrLoc = 0;
+	};
+	24EFB3EA12B79D76008D1C5E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24EFB3EB12B79D76008D1C5E /* HypnosisView.h */;
+		name = "HypnosisView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 329;
+		vrLoc = 0;
+	};
+	24EFB3EB12B79D76008D1C5E /* HypnosisView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = HypnosisView.h;
+		path = /Users/dougc333/Desktop/HypnoTimeAccelerometer/HypnosisView.h;
+		sourceTree = "<absolute>";
+	};
+	24EFB3EC12B79D76008D1C5E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24EFB3ED12B79D76008D1C5E /* CurrentTimeViewController.h */;
+		name = "CurrentTimeViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 331;
+		vrLoc = 0;
+	};
+	24EFB3ED12B79D76008D1C5E /* CurrentTimeViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CurrentTimeViewController.h;
+		path = /Users/dougc333/Desktop/HypnoTimeAccelerometer/Classes/CurrentTimeViewController.h;
+		sourceTree = "<absolute>";
+	};
+	24EFB3EE12B79D76008D1C5E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24EFB3EF12B79D76008D1C5E /* CurrentTimeViewController.m */;
+		name = "CurrentTimeViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 763;
+		vrLoc = 0;
+	};
+	24EFB3EF12B79D76008D1C5E /* CurrentTimeViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CurrentTimeViewController.m;
+		path = /Users/dougc333/Desktop/HypnoTimeAccelerometer/Classes/CurrentTimeViewController.m;
+		sourceTree = "<absolute>";
+	};
+	24EFB3F012B79D76008D1C5E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24EFB3F112B79D76008D1C5E /* HypnosisViewController.h */;
+		name = "HypnosisViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 241;
+		vrLoc = 0;
+	};
+	24EFB3F112B79D76008D1C5E /* HypnosisViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = HypnosisViewController.h;
+		path = /Users/dougc333/Desktop/HypnoTimeAccelerometer/Classes/HypnosisViewController.h;
+		sourceTree = "<absolute>";
+	};
+	24EFB40512B79E7D008D1C5E /* HypnosisViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = HypnosisViewController.m;
+		path = /Users/dougc333/Desktop/HypnoTimeAccelerometer/Classes/HypnosisViewController.m;
+		sourceTree = "<absolute>";
+	};
+	24EFB45F12B834FB008D1C5E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24EFB40512B79E7D008D1C5E /* HypnosisViewController.m */;
+		name = "HypnosisViewController.m: 69";
+		rLen = 610;
+		rLoc = 1627;
+		rType = 0;
+		vrLen = 745;
+		vrLoc = 1537;
+	};
+	24EFB46012B834FB008D1C5E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* PistolGunVCTemplate-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/dougc333/Desktop/xcodeexperiments/iPhone/PistolGunVCTemplate/PistolGunVCTemplate-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	24EFB4C412B847A6008D1C5E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PistolGunVCTemplateViewController.m */;
+		name = "PistolGunVCTemplateViewController.m: 101";
+		rLen = 0;
+		rLoc = 3268;
+		rType = 0;
+		vrLen = 1186;
+		vrLoc = 1944;
+	};
+	24EFB4C512B847A6008D1C5E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PistolGunVCTemplateViewController.h */;
+		name = "PistolGunVCTemplateViewController.h: 21";
+		rLen = 0;
+		rLoc = 460;
+		rType = 0;
+		vrLen = 465;
+		vrLoc = 0;
+	};
+	24EFB4C612B847A6008D1C5E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PistolGunVCTemplateViewController.h */;
+		name = "PistolGunVCTemplateViewController.h: 21";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 466;
+		vrLoc = 0;
+	};
+	24EFB51A12B84EE0008D1C5E /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'reset' undeclared (first use in this function)";
+		fRef = 28D7ACF70DDB3853001CB0EB /* PistolGunVCTemplateViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 51;
+		rType = 1;
+	};
+	24EFB51B12B84EE0008D1C5E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PistolGunVCTemplateViewController.m */;
+		name = "PistolGunVCTemplateViewController.m: 52";
+		rLen = 0;
+		rLoc = 1522;
+		rType = 0;
+		vrLen = 276;
+		vrLoc = 1261;
+	};
+	24EFB52612B89F72008D1C5E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PistolGunVCTemplateViewController.m */;
+		name = "PistolGunVCTemplateViewController.m: 52";
+		rLen = 0;
+		rLoc = 1522;
+		rType = 0;
+		vrLen = 175;
+		vrLoc = 1261;
+	};
+	24EFB52712B89F75008D1C5E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PistolGunVCTemplateViewController.m */;
+		name = "PistolGunVCTemplateViewController.m: 13";
+		rLen = 0;
+		rLoc = 288;
+		rType = 0;
+		vrLen = 1381;
+		vrLoc = 0;
+	};
+	24EFB52812B89F75008D1C5E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PistolGunVCTemplateViewController.h */;
+		name = "PistolGunVCTemplateViewController.h: 23";
+		rLen = 0;
+		rLoc = 508;
+		rType = 0;
+		vrLen = 513;
+		vrLoc = 0;
+	};
+	24EFB52912B89F75008D1C5E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PistolGunVCTemplateViewController.h */;
+		name = "PistolGunVCTemplateViewController.h: 9";
+		rLen = 0;
+		rLoc = 195;
+		rType = 0;
+		vrLen = 515;
+		vrLoc = 0;
+	};
+	28D7ACF60DDB3853001CB0EB /* PistolGunVCTemplateViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 578}}";
+			sepNavSelRange = "{195, 0}";
+			sepNavVisRange = "{0, 515}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PistolGunVCTemplateViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 2197}}";
+			sepNavSelRange = "{1522, 0}";
+			sepNavVisRange = "{1261, 175}";
+			sepNavWindowFrame = "{{159, 124}, {1301, 745}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 24EFB32812B72ACE008D1C5E /* PistolGunVCTemplate */;
+		activeSDKPreference = iphoneos4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PistolGunVCTemplate */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PistolGunVCTemplate */,
+		);
+		codeSenseManager = 24EFB33212B72AD4008D1C5E /* Code sense */;
+		executables = (
+			24EFB32812B72ACE008D1C5E /* PistolGunVCTemplate */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					705,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314066880;
+			PBXWorkspaceStateSaveDate = 314066880;
+		};
+		perUserProjectItems = {
+			24EFB3A112B780F2008D1C5E = 24EFB3A112B780F2008D1C5E /* PBXTextBookmark */;
+			24EFB3E412B79C94008D1C5E = 24EFB3E412B79C94008D1C5E /* PBXTextBookmark */;
+			24EFB3EA12B79D76008D1C5E = 24EFB3EA12B79D76008D1C5E /* PBXTextBookmark */;
+			24EFB3EC12B79D76008D1C5E = 24EFB3EC12B79D76008D1C5E /* PBXTextBookmark */;
+			24EFB3EE12B79D76008D1C5E = 24EFB3EE12B79D76008D1C5E /* PBXTextBookmark */;
+			24EFB3F012B79D76008D1C5E = 24EFB3F012B79D76008D1C5E /* PBXTextBookmark */;
+			24EFB45F12B834FB008D1C5E = 24EFB45F12B834FB008D1C5E /* PBXTextBookmark */;
+			24EFB46012B834FB008D1C5E = 24EFB46012B834FB008D1C5E /* PlistBookmark */;
+			24EFB4C412B847A6008D1C5E = 24EFB4C412B847A6008D1C5E /* PBXTextBookmark */;
+			24EFB4C512B847A6008D1C5E = 24EFB4C512B847A6008D1C5E /* PBXTextBookmark */;
+			24EFB4C612B847A6008D1C5E = 24EFB4C612B847A6008D1C5E /* PBXTextBookmark */;
+			24EFB51A12B84EE0008D1C5E /* XCBuildMessageTextBookmark */ = 24EFB51A12B84EE0008D1C5E /* XCBuildMessageTextBookmark */;
+			24EFB51B12B84EE0008D1C5E /* PBXTextBookmark */ = 24EFB51B12B84EE0008D1C5E /* PBXTextBookmark */;
+			24EFB52612B89F72008D1C5E /* PBXTextBookmark */ = 24EFB52612B89F72008D1C5E /* PBXTextBookmark */;
+			24EFB52712B89F75008D1C5E /* PBXTextBookmark */ = 24EFB52712B89F75008D1C5E /* PBXTextBookmark */;
+			24EFB52812B89F75008D1C5E /* PBXTextBookmark */ = 24EFB52812B89F75008D1C5E /* PBXTextBookmark */;
+			24EFB52912B89F75008D1C5E /* PBXTextBookmark */ = 24EFB52912B89F75008D1C5E /* PBXTextBookmark */;
+		};
+		sourceControlManager = 24EFB33112B72AD4008D1C5E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* PistolGunVCTemplate-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{139, 64}, {1301, 745}}";
+		};
+	};
+}

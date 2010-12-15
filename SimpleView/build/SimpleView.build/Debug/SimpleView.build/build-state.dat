@@ -1,0 +1,44 @@
+TSimpleView
+v7
+r1
+cCheck dependencies
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/SimpleView/MainWindow.xib
+c000000004C9E44A6000000000000449D
+t1285440678
+s17565
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/SimpleView/build/Debug/SimpleView.app
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/SimpleView/build/Debug/SimpleView.app/Contents/Info.plist
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/SimpleView/build/Debug/SimpleView.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/SimpleView/build/Debug/SimpleView.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NSimpleView-Info.plist
+c000000004C9E41BE000000000000038D
+t1285439934
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313823643#313823643#0(68"[BEROR]error: There is no SDK with the name or path 'iphoneos3.1.2'1(4@60"error: There is no SDK with the name or path 'iphoneos3.1.2'313823643#18446744073709551615#0#0(1@0"0(0#1#0"8620839040#0"0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/SimpleView/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/SimpleView/build/Debug/SimpleView.app/Contents/Info.plist SimpleView-Info.plist
+r0
+
+CTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/SimpleView/build/Debug/SimpleView.app
+r0
+

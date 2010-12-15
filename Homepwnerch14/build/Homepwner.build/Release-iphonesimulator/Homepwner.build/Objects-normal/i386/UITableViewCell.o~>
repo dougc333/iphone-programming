@@ -1,0 +1,65 @@
+In file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:9:
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.h:12: error: duplicate interface declaration for class 'UITableViewCell'
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.h:16: error: redefinition of 'struct UITableViewCell'
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m: In function '-[UITableViewCell initWithStyle:reuseIdentifier:]':
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:15: warning: 'UIView' may not respond to '-initWithStyle:reuseIdentifier:'
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:15: warning: (Messages without a matching method signature
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:15: warning: will be assumed to return 'id' and accept
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:15: warning: '...' as arguments.)
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:16: error: 'valueLabel' undeclared (first use in this function)
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:16: error: (Each undeclared identifier is reported only once
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:16: error: for each function it appears in.)
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:19: error: 'nameLabel' undeclared (first use in this function)
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:22: error: 'imageView' undeclared (first use in this function)
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m: In function '-[UITableViewCell layoutSubviews]':
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:37: error: expected ',' or ';' before 'CGRect'
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:38: error: 'imageView' undeclared (first use in this function)
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:38: error: 'innerFrame' undeclared (first use in this function)
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:41: error: 'nameLabel' undeclared (first use in this function)
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:44: warning: invalid receiver type 'float'
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:44: error: cannot convert to a pointer type
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m: In function '-[UITableViewCell setSelected:animated:]':
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:50: warning: 'UIView' may not respond to '-setSelected:animated:'
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m: At top level:
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'imageView' requires method '-imageView' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'textLabel' requires method '-textLabel' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'detailTextLabel' requires method '-detailTextLabel' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'contentView' requires method '-contentView' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'backgroundView' requires method '-backgroundView' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'backgroundView' requires the method 'setBackgroundView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'selectedBackgroundView' requires method '-selectedBackgroundView' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'selectedBackgroundView' requires the method 'setSelectedBackgroundView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'reuseIdentifier' requires method '-reuseIdentifier' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'selectionStyle' requires method '-selectionStyle' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'selectionStyle' requires the method 'setSelectionStyle:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'selected' requires the method 'setSelected:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'highlighted' requires the method 'setHighlighted:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'editingStyle' requires method '-editingStyle' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'showsReorderControl' requires method '-showsReorderControl' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'showsReorderControl' requires the method 'setShowsReorderControl:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'shouldIndentWhileEditing' requires method '-shouldIndentWhileEditing' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'shouldIndentWhileEditing' requires the method 'setShouldIndentWhileEditing:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'accessoryType' requires method '-accessoryType' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'accessoryType' requires the method 'setAccessoryType:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'accessoryView' requires method '-accessoryView' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'accessoryView' requires the method 'setAccessoryView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'editingAccessoryType' requires method '-editingAccessoryType' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'editingAccessoryType' requires the method 'setEditingAccessoryType:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'editingAccessoryView' requires method '-editingAccessoryView' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'editingAccessoryView' requires the method 'setEditingAccessoryView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'indentationLevel' requires method '-indentationLevel' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'indentationLevel' requires the method 'setIndentationLevel:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'indentationWidth' requires method '-indentationWidth' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'indentationWidth' requires the method 'setIndentationWidth:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'editing' requires the method 'setEditing:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: property 'showingDeleteConfirmation' requires method '-showingDeleteConfirmation' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: incomplete implementation of class 'UITableViewCell'
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: method definition for '-didTransitionToState:' not found
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: method definition for '-willTransitionToState:' not found
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: method definition for '-setEditing:animated:' not found
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: method definition for '-setHighlighted:animated:' not found
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: method definition for '-prepareForReuse' not found
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: incomplete implementation of class 'UITableViewCell'
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: method definition for '-initWithCoder:' not found
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: method definition for '-encodeWithCoder:' not found
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/UITableViewCell.m:61: warning: class 'UITableViewCell' does not fully implement the 'NSCoding' protocol

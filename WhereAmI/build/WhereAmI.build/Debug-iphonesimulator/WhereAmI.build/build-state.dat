@@ -1,0 +1,476 @@
+TWhereAmI
+v7
+r0
+t312849723.942090
+cCheck dependencies
+cProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/Info.plist WhereAmI-Info.plist
+cCompileXIB /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/MainWindow.xib
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-hheqxibggdwfbdcyusvumexytdpf/WhereAmI_Prefix.pch.gch WhereAmI_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/main.o /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/WhereAmIAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/Classes/WhereAmIAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI normal i386
+cGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI
+cTouch /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B6361E000000000000000EE
+t1264804320
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004ABDEE58000000000004AFE0
+t1253961304
+s307168
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004ABDEE5400000000000001AF
+t1253961300
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004ABDEF74000000000000017D
+t1253961588
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004ABDEF82000000000010EB60
+t1253961602
+s1108832
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004CCB7D9F0000000000000110
+t1288404383
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FF1000000000006B7E0
+t1282158577
+s440288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FEA00000000000001D0
+t1282158570
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C301100000000000002FE
+t1282158609
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C303B000000000016DD50
+t1282158651
+s1498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/Classes/WhereAmIAppDelegate.h
+c000000004C9E41570000000000000258
+t1285439831
+s600
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/Classes/WhereAmIAppDelegate.m
+c000000004C9E3FFF0000000000000845
+t1285439487
+s2117
+i"WhereAmIAppDelegate.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/MainWindow.xib
+c000000004C9E44250000000000005537
+t1285440549
+s21815
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/WhereAmI_Prefix.pch
+c000000004C96502100000000000000B9
+t1284919329
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app
+t1285439310
+s204
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app.dSYM
+t1285438989
+s102
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/Info.plist
+t1284920833
+s568
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/MainWindow.nib
+t1285439310
+s3204
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/PkgInfo
+t1284920833
+s8
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI
+t1285438989
+s19392
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/WhereAmI.LinkFileList
+c000000004C965601000000000000012D
+t1284920833
+s301
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/WhereAmIAppDelegate.o
+t1285438989
+s28784
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/main.o
+t1284920835
+s5996
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/StaticAnalyzer/normal/i386/WhereAmIAppDelegate.plist
+t1284930298
+s275
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/StaticAnalyzer/normal/i386/main.plist
+t1284930099
+s275
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/main.m
+c000000004C9650220000000000000168
+t1284919330
+s360
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/Classes/WhereAmIAppDelegate.h
+c000000004CF57D420000000000000234
+t1291156802
+s564
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/Classes/WhereAmIAppDelegate.m
+c000000004CF57D5E00000000000008A0
+t1291156830
+s2208
+i"WhereAmIAppDelegate.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/MainWindow.xib
+c000000004CF57DB60000000000004393
+t1291156918
+s17299
+
+N/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/WhereAmI_Prefix.pch
+c000000004C96502100000000000000B9
+t1284919329
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app
+t1291156923
+s204
+
+N/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app.dSYM
+t1291156832
+s102
+
+N/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/Info.plist
+t1291155816
+s597
+
+N/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/MainWindow.nib
+t1291156923
+s1456
+
+N/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/PkgInfo
+t1291155816
+s8
+
+N/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI
+t1291156832
+s14960
+
+N/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/WhereAmI.LinkFileList
+c000000004CF57968000000000000014F
+t1291155816
+s335
+
+N/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/WhereAmIAppDelegate.o
+t1291156832
+s44608
+
+N/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/main.o
+t1291155818
+s6376
+
+N/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/main.m
+c000000004C9650220000000000000168
+t1284919330
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-bcqcmmdzruyfwsbunjvxhshblvhy/WhereAmI_Prefix.pch.pth
+t1284930099
+s1729108
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-eqbrazgfygteeqbdhjgswxcqexrw/WhereAmI_Prefix.pch.gch
+t1284920834
+s13034960
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-hheqxibggdwfbdcyusvumexytdpf/WhereAmI_Prefix.pch.gch
+t1291155818
+s15211536
+
+NWhereAmI-Info.plist
+c000000004CF44F6A000000000000038F
+t1291079530
+s911
+
+CAnalyze "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/Classes/WhereAmIAppDelegate.m"
+s306623098.936093
+e306623098.973793
+r1
+xAnalyze
+x/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/Classes/WhereAmIAppDelegate.m
+lSLF07#2@95"Analyze /Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/Classes/WhereAmIAppDelegate.m306623098#306623098#0(0"0(0#0#87"/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/Classes/WhereAmIAppDelegate.m4300885448#2157"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-bcqcmmdzruyfwsbunjvxhshblvhy/WhereAmI_Prefix.pch --analyze "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/Classes/WhereAmIAppDelegate.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/StaticAnalyzer/normal/i386/WhereAmIAppDelegate.plist"0#
+
+CAnalyze "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/main.m"
+s306622899.752551
+e306622899.815334
+r1
+xAnalyze
+x/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/main.m
+lSLF07#2@72"Analyze /Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/main.m306622899#306622899#0(0"0(0#0#64"/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/main.m4300885448#2119"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-bcqcmmdzruyfwsbunjvxhshblvhy/WhereAmI_Prefix.pch --analyze "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/main.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/StaticAnalyzer/normal/i386/main.plist"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312849723#312849723#0(0"0(0#1#0"8627023456#0"0#
+
+CCompileC build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/WhereAmIAppDelegate.o "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/Classes/WhereAmIAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307131789.005187
+e307131789.139663
+r1
+xCompileC
+xbuild/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/WhereAmIAppDelegate.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/Classes/WhereAmIAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/Classes/WhereAmIAppDelegate.m307131789#307131789#0(0"0(0#0#87"/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/Classes/WhereAmIAppDelegate.m4300885448#2148"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-eqbrazgfygteeqbdhjgswxcqexrw/WhereAmI_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/Classes/WhereAmIAppDelegate.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/WhereAmIAppDelegate.o"0#
+
+CCompileC build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/WhereAmIAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/Classes/WhereAmIAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312849632.458456
+e312849632.602139
+r1
+xCompileC
+xbuild/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/WhereAmIAppDelegate.o
+x/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/Classes/WhereAmIAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/Classes/WhereAmIAppDelegate.m312849632#312849632#0(0"0(0#0#104"/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/Classes/WhereAmIAppDelegate.m8626745568#2368"    cd /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-hheqxibggdwfbdcyusvumexytdpf/WhereAmI_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/Classes/WhereAmIAppDelegate.m -o /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/WhereAmIAppDelegate.o0#
+
+CCompileC build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/main.o "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s306613635.052345
+e306613635.221425
+r1
+xCompileC
+xbuild/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/main.m306613635#306613635#0(0"0(0#0#64"/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/main.m4300885448#2110"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-eqbrazgfygteeqbdhjgswxcqexrw/WhereAmI_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/main.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/main.o /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312848618.598059
+e312848618.763646
+r1
+xCompileC
+xbuild/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/main.m312848618#312848618#0(0"0(0#0#81"/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/main.m8626913600#2330"    cd /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-hheqxibggdwfbdcyusvumexytdpf/WhereAmI_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/main.m -o /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/MainWindow.xib"
+s307132110.396877
+e307132110.728297
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib307132110#307132110#0(0"0(0#0#72"/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/MainWindow.xib4300885448#546"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/MainWindow.nib" "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/MainWindow.xib"0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/MainWindow.xib
+s312849723.468811
+e312849723.900973
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib312849723#312849723#0(0"0(0#0#89"/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/MainWindow.xib8619631488#679"    cd /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/MainWindow.nib /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app.dSYM" "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI"
+s307131789.162983
+e307131789.182365
+r1
+xGenerateDSYMFile
+x/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app.dSYM
+x/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/WhereAmI.app.dSYM build/Debug-iphonesimulator/WhereAmI.app/WhereAmI307131789#307131789#0(0"0(0#0#107"/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI4300885448#449"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI" -o "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app.dSYM"0#
+
+CGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI
+s312849632.632427
+e312849632.650317
+r1
+xGenerateDSYMFile
+x/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app.dSYM
+x/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/WhereAmI.app.dSYM build/Debug-iphonesimulator/WhereAmI.app/WhereAmI312849632#312849632#0(0"0(0#0#124"/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI8629895424#494"    cd /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI -o /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app.dSYM0#
+
+CLd "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI" normal i386
+s307131789.139756
+e307131789.162888
+r1
+xLd
+x/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI
+xnormal
+xi386
+lSLF07#2@112"Link /Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI307131789#307131789#0(0"0(0#0#0"4300885448#1016"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator" "-F/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator" -filelist "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/WhereAmI.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI"0#
+
+CLd /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI normal i386
+s312849632.602256
+e312849632.632326
+r1
+xLd
+x/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI
+xnormal
+xi386
+lSLF07#2@129"Link /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI312849632#312849632#0(0"0(0#0#0"8631772928#1127"    cd /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator -F/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator -filelist /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/Objects-normal/i386/WhereAmI.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/WhereAmI0#
+
+CProcessInfoPlistFile "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/Info.plist" WhereAmI-Info.plist
+s306613633.356568
+e306613633.362412
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/Info.plist
+xWhereAmI-Info.plist
+lSLF07#2@27"Process WhereAmI-Info.plist306613633#306613633#0(0"0(0#0#77"/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/WhereAmI-Info.plist4300885448#545"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WhereAmI-Info.plist -genpkginfo "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/Info.plist"0#
+
+CProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/Info.plist WhereAmI-Info.plist
+s312848616.566139
+e312848616.571896
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/Info.plist
+xWhereAmI-Info.plist
+lSLF07#2@27"Process WhereAmI-Info.plist312848616#312848616#0(0"0(0#0#94"/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/WhereAmI-Info.plist8626774112#590"    cd /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WhereAmI-Info.plist -genpkginfo /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app/Info.plist0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-bcqcmmdzruyfwsbunjvxhshblvhy/WhereAmI_Prefix.pch.pth WhereAmI_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s306622899.225622
+e306622899.702841
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-bcqcmmdzruyfwsbunjvxhshblvhy/WhereAmI_Prefix.pch.pth
+xWhereAmI_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@30"Precompile WhereAmI_Prefix.pch306622899#306622899#0(0"0(0#0#77"/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/WhereAmI_Prefix.pch4300885448#1971"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources" -c "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/WhereAmI_Prefix.pch" -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-bcqcmmdzruyfwsbunjvxhshblvhy/WhereAmI_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-eqbrazgfygteeqbdhjgswxcqexrw/WhereAmI_Prefix.pch.gch WhereAmI_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306613633.733717
+e306613635.051990
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-eqbrazgfygteeqbdhjgswxcqexrw/WhereAmI_Prefix.pch.gch
+xWhereAmI_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile WhereAmI_Prefix.pch306613633#306613635#0(0"0(0#0#77"/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/WhereAmI_Prefix.pch4300885448#1980"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources" -c "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/WhereAmI_Prefix.pch" -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-eqbrazgfygteeqbdhjgswxcqexrw/WhereAmI_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-hheqxibggdwfbdcyusvumexytdpf/WhereAmI_Prefix.pch.gch WhereAmI_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s312848617.100243
+e312848618.597810
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-hheqxibggdwfbdcyusvumexytdpf/WhereAmI_Prefix.pch.gch
+xWhereAmI_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile WhereAmI_Prefix.pch312848617#312848618#0(0"0(0#0#94"/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/WhereAmI_Prefix.pch8630552864#2185"    cd /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/WhereAmI-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/WhereAmI.build/Debug-iphonesimulator/WhereAmI.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/WhereAmI_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhereAmI_Prefix-hheqxibggdwfbdcyusvumexytdpf/WhereAmI_Prefix.pch.gch0#
+
+CTouch "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app"
+s307132110.728860
+e307132110.736079
+r1
+xTouch
+x/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app
+lSLF07#2@104"Touch /Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app307132110#307132110#0(0"0(0#0#0"4300885448#321"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dougc333/Desktop/xcode experiments/cis312/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app"0#
+
+CTouch /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app
+s312849723.901470
+e312849723.942036
+r1
+xTouch
+x/Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app
+lSLF07#2@121"Touch /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app312849723#312849723#0(0"0(0#0#0"8630211520#351"    cd /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dougc333/Desktop/xcodeexperiments/documentedIPHONEExamples/WhereAmI/build/Debug-iphonesimulator/WhereAmI.app0#
+

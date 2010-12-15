@@ -1,0 +1,2 @@
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/ItemDetailViewController.m:149: warning: property 'possessions' requires method '-possessions' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch14/Classes/ItemDetailViewController.m:149: warning: property 'possessions' requires the method 'setPossessions:' to be defined - use @synthesize, @dynamic or provide a method implementation

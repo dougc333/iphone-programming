@@ -1,0 +1,44 @@
+TSketch
+v7
+r1
+cCheck dependencies
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/MainWindow.xib
+c000000004CAB67FC0000000000004209
+t1286301692
+s16905
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug/Sketch.app
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug/Sketch.app/Contents/Info.plist
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug/Sketch.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug/Sketch.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NSketch-Info.plist
+c000000004CA8376F000000000000038D
+t1286092655
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311977420#311977420#0(68"[BEROR]error: There is no SDK with the name or path 'iphoneos3.1.2'1(4@60"error: There is no SDK with the name or path 'iphoneos3.1.2'311977420#18446744073709551615#0#0(1@0"0(0#1#0"8623165120#0"0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug/Sketch.app/Contents/Info.plist Sketch-Info.plist
+r0
+
+CTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug/Sketch.app
+r0
+

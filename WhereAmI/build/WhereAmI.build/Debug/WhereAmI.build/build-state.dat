@@ -1,0 +1,39 @@
+TWhereAmI
+v7
+r1
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/WhereAmI/MainWindow.xib
+c000000004C9E44250000000000005537
+t1285440549
+s21815
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/WhereAmI/build/Debug/WhereAmI.app
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/WhereAmI/build/Debug/WhereAmI.app/Contents/Info.plist
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/WhereAmI/build/Debug/WhereAmI.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/WhereAmI/build/Debug/WhereAmI.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NWhereAmI-Info.plist
+c000000004C965021000000000000038D
+t1284919329
+s909
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/WhereAmI/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/WhereAmI/build/Debug/WhereAmI.app/Contents/Info.plist WhereAmI-Info.plist
+r0
+
+CTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/WhereAmI/build/Debug/WhereAmI.app
+r0
+

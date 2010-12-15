@@ -1,0 +1,207 @@
+TPickerTest
+v7
+r0
+t306644716.474094
+cCheck dependencies
+cProcessInfoPlistFile "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/Info.plist" PickerTest-Info.plist
+cCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/MainWindow.xib"
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerTest_Prefix-dfykptxjuauoyuhdrpjuxjhgxshk/PickerTest_Prefix.pch.gch PickerTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/Objects-normal/i386/main.o "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/Objects-normal/i386/PickerTestAppDelegate.o "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/Classes/PickerTestAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/PickerTest" normal i386
+cGenerateDSYMFile "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app.dSYM" "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/PickerTest"
+cTouch "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B6361E000000000000000EE
+t1264804320
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/Classes/PickerTestAppDelegate.h
+c000000004C96C2BD0000000000000217
+t1284948669
+s535
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/Classes/PickerTestAppDelegate.m
+c000000004C96F4850000000000000894
+t1284961413
+s2196
+i"PickerTestAppDelegate.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/MainWindow.xib
+c000000004C96C2320000000000004400
+t1284948530
+s17408
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/PickerTest_Prefix.pch
+c000000004C96BFA300000000000000BD
+t1284947875
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app
+t1284951916
+s204
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app.dSYM
+t1284951916
+s102
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/Info.plist
+t1284947901
+s576
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/MainWindow.nib
+t1284948541
+s1682
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/PickerTest
+t1284951916
+s19664
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/PkgInfo
+t1284947901
+s8
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/Objects-normal/i386/PickerTest.LinkFileList
+c000000004C96BFBD000000000000013B
+t1284947901
+s315
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/Objects-normal/i386/PickerTestAppDelegate.o
+t1284951916
+s22420
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/Objects-normal/i386/main.o
+t1284947902
+s6000
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/main.m
+c000000004C96BFA3000000000000016A
+t1284947875
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerTest_Prefix-dfykptxjuauoyuhdrpjuxjhgxshk/PickerTest_Prefix.pch.gch
+t1284947902
+s13034960
+
+NPickerTest-Info.plist
+c000000004C96BFA3000000000000038D
+t1284947875
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306644716#306644716#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/Objects-normal/i386/PickerTestAppDelegate.o "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/Classes/PickerTestAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s306644716.305496
+e306644716.434059
+r1
+xCompileC
+xbuild/PickerTest.build/Debug-iphonesimulator/PickerTest.build/Objects-normal/i386/PickerTestAppDelegate.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/Classes/PickerTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/Classes/PickerTestAppDelegate.m306644716#306644716#0(0"0(0#0#91"/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/Classes/PickerTestAppDelegate.m4300885448#2214"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/PickerTest-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/PickerTest-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/PickerTest-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/PickerTest-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerTest_Prefix-dfykptxjuauoyuhdrpjuxjhgxshk/PickerTest_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/Classes/PickerTestAppDelegate.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/Objects-normal/i386/PickerTestAppDelegate.o"0#
+
+CCompileC build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/Objects-normal/i386/main.o "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s306640702.338993
+e306640702.398071
+r1
+xCompileC
+xbuild/PickerTest.build/Debug-iphonesimulator/PickerTest.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/main.m306640702#306640702#0(0"0(0#0#66"/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/main.m4300885448#2172"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/PickerTest-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/PickerTest-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/PickerTest-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/PickerTest-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerTest_Prefix-dfykptxjuauoyuhdrpjuxjhgxshk/PickerTest_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/main.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/MainWindow.xib"
+s306641341.386582
+e306641341.666081
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib306641341#306641341#0(0"0(0#0#74"/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/MainWindow.xib4300885448#554"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/MainWindow.nib" "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app.dSYM" "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/PickerTest"
+s306644716.455333
+e306644716.471183
+r1
+xGenerateDSYMFile
+x/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app.dSYM
+x/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/PickerTest
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/PickerTest.app.dSYM build/Debug-iphonesimulator/PickerTest.app/PickerTest306644716#306644716#0(0"0(0#0#113"/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/PickerTest4300885448#461"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/PickerTest" -o "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app.dSYM"0#
+
+CLd "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/PickerTest" normal i386
+s306644716.434153
+e306644716.455150
+r1
+xLd
+x/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/PickerTest
+xnormal
+xi386
+lSLF07#2@118"Link /Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/PickerTest306644716#306644716#0(0"0(0#0#0"4300885448#994"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator" "-F/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator" -filelist "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/Objects-normal/i386/PickerTest.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/PickerTest"0#
+
+CProcessInfoPlistFile "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/Info.plist" PickerTest-Info.plist
+s306640701.394534
+e306640701.398198
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/Info.plist
+xPickerTest-Info.plist
+lSLF07#2@29"Process PickerTest-Info.plist306640701#306640701#0(0"0(0#0#81"/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/PickerTest-Info.plist4300885448#557"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PickerTest-Info.plist -genpkginfo "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app/Info.plist"0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerTest_Prefix-dfykptxjuauoyuhdrpjuxjhgxshk/PickerTest_Prefix.pch.gch PickerTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306640701.679009
+e306640702.338848
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerTest_Prefix-dfykptxjuauoyuhdrpjuxjhgxshk/PickerTest_Prefix.pch.gch
+xPickerTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile PickerTest_Prefix.pch306640701#306640702#0(0"0(0#0#81"/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/PickerTest_Prefix.pch4300885448#2038"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/PickerTest-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/PickerTest-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/PickerTest-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/PickerTest-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/PickerTest.build/Debug-iphonesimulator/PickerTest.build/DerivedSources" -c "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/PickerTest_Prefix.pch" -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerTest_Prefix-dfykptxjuauoyuhdrpjuxjhgxshk/PickerTest_Prefix.pch.gch0#
+
+CTouch "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app"
+s306644716.471274
+e306644716.474056
+r1
+xTouch
+x/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app
+lSLF07#2@108"Touch /Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app306644716#306644716#0(0"0(0#0#0"4300885448#327"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dougc333/Desktop/xcode experiments/cis312/PickerTest/build/Debug-iphonesimulator/PickerTest.app"0#
+

@@ -1,0 +1,253 @@
+TTopTen
+v7
+r0
+t313821936.987973
+cCheck dependencies
+cProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/Info.plist TopTen-Info.plist
+cCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/MainWindow.xib
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TopTen_Prefix-bxpdqnksgqpkcfaqgllzyibzrhds/TopTen_Prefix.pch.gch TopTen_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/TopTenAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/Classes/TopTenAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/TableViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/Classes/../TableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/TopTen normal i386
+cGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/TopTen
+cTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/Classes/../TableViewController.h
+c000000004CE81AE6000000000000023A
+t1290279654
+s570
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/Classes/../TableViewController.m
+c000000004CE8204B00000000000014DC
+t1290281035
+s5340
+i"TableViewController.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/Classes/TopTenAppDelegate.h
+c000000004CE80D2E0000000000000143
+t1290276142
+s323
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/Classes/TopTenAppDelegate.m
+c000000004CE818EB0000000000000A14
+t1290279147
+s2580
+i"TopTenAppDelegate.h"
+i"TableViewController.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/MainWindow.xib
+c000000004CE80D2E0000000000002103
+t1290276142
+s8451
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/TableViewController.h
+c000000004CE81AE6000000000000023A
+t1290279654
+s570
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/TableViewController.m
+c000000004CE80F9100000000000008D1
+t1290276753
+s2257
+i"TableViewController.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/TopTen_Prefix.pch
+c000000004CE80D2E00000000000000B5
+t1290276142
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app
+t1292129136
+s204
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app.dSYM
+t1292129136
+s102
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/Info.plist
+t1290276146
+s587
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/MainWindow.nib
+t1290276147
+s1530
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/PkgInfo
+t1290276146
+s8
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/TopTen
+t1292129136
+s24740
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/TableViewController.o
+t1292129136
+s62508
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/TopTen.LinkFileList
+c000000004CE813C100000000000001B4
+t1290277825
+s436
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/TopTenAppDelegate.o
+t1292129136
+s47948
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/main.o
+t1292129136
+s6336
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/main.m
+c000000004CE80D2E0000000000000167
+t1290276142
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TopTen_Prefix-bxpdqnksgqpkcfaqgllzyibzrhds/TopTen_Prefix.pch.gch
+t1292129136
+s15211536
+
+NTopTen-Info.plist
+c000000004CE80D2E000000000000038D
+t1290276142
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313821935#313821935#0(0"0(0#1#0"8625257824#0"0#
+
+CCompileC build/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/TableViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/Classes/../TableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313821936.805532
+e313821936.902468
+r1
+xCompileC
+xbuild/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/TableViewController.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/Classes/../TableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/Classes/../TableViewController.m313821936#313821936#0(0"0(0#0#87"/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/Classes/../TableViewController.m8625274688#2111"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/TopTen-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/TopTen-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/TopTen-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/TopTen-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TopTen_Prefix-bxpdqnksgqpkcfaqgllzyibzrhds/TopTen_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/Classes/../TableViewController.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/TableViewController.o0#
+
+CCompileC build/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/TableViewController.o /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/TableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/TopTenAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/Classes/TopTenAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313821936.741771
+e313821936.842353
+r1
+xCompileC
+xbuild/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/TopTenAppDelegate.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/Classes/TopTenAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/Classes/TopTenAppDelegate.m313821936#313821936#0(0"0(0#0#82"/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/Classes/TopTenAppDelegate.m8625320768#2104"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/TopTen-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/TopTen-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/TopTen-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/TopTen-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TopTen_Prefix-bxpdqnksgqpkcfaqgllzyibzrhds/TopTen_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/Classes/TopTenAppDelegate.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/TopTenAppDelegate.o0#
+
+CCompileC build/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313821936.740515
+e313821936.805423
+r1
+xCompileC
+xbuild/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/main.m313821936#313821936#0(0"0(0#0#61"/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/main.m8625360608#2070"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/TopTen-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/TopTen-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/TopTen-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/TopTen-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TopTen_Prefix-bxpdqnksgqpkcfaqgllzyibzrhds/TopTen_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/main.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/MainWindow.xib
+s311968946.799393
+e311968947.156550
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311968946#311968947#0(0"0(0#0#69"/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/MainWindow.xib8612671104#617"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/MainWindow.nib /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/TopTen
+s313821936.930832
+e313821936.984399
+r1
+xGenerateDSYMFile
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app.dSYM
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/TopTen
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/TopTen.app.dSYM build/Debug-iphonesimulator/TopTen.app/TopTen313821936#313821936#0(0"0(0#0#100"/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/TopTen8624703392#428"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/TopTen -o /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app.dSYM0#
+
+CLd /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/TopTen normal i386
+s313821936.902561
+e313821936.930724
+r1
+xLd
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/TopTen
+xnormal
+xi386
+lSLF07#2@105"Link /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/TopTen313821936#313821936#0(0"0(0#0#0"8625157216#975"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator -F/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator -filelist /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/Objects-normal/i386/TopTen.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/TopTen0#
+
+CProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/Info.plist TopTen-Info.plist
+s311968946.795838
+e311968946.799326
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/Info.plist
+xTopTen-Info.plist
+lSLF07#2@25"Process TopTen-Info.plist311968946#311968946#0(0"0(0#0#72"/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/TopTen-Info.plist8610658016#524"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TopTen-Info.plist -genpkginfo /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app/Info.plist0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TopTen_Prefix-bxpdqnksgqpkcfaqgllzyibzrhds/TopTen_Prefix.pch.gch TopTen_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313821935.909915
+e313821936.740388
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TopTen_Prefix-bxpdqnksgqpkcfaqgllzyibzrhds/TopTen_Prefix.pch.gch
+xTopTen_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile TopTen_Prefix.pch313821935#313821936#0(0"0(0#0#72"/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/TopTen_Prefix.pch8625154176#1947"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/TopTen-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/TopTen-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/TopTen-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/TopTen-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/TopTen.build/Debug-iphonesimulator/TopTen.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/TopTen_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TopTen_Prefix-bxpdqnksgqpkcfaqgllzyibzrhds/TopTen_Prefix.pch.gch0#
+
+CTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app
+s313821936.984516
+e313821936.987929
+r1
+xTouch
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app
+lSLF07#2@99"Touch /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app313821936#313821936#0(0"0(0#0#0"8624309632#309"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/TopTen/build/Debug-iphonesimulator/TopTen.app0#
+

@@ -1,0 +1,56 @@
+THomepwner
+v7
+r1
+cCheck dependencies
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch12/Classes/ItemDetailViewController.xib
+c000000004CC74CB5000000000000648B
+t1288129717
+s25739
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch12/MainWindow.xib
+c000000004CB0D6B00000000000001F5D
+t1286657712
+s8029
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch12/build/Debug/Homepwner.app
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch12/build/Debug/Homepwner.app/Contents/Info.plist
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch12/build/Debug/Homepwner.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch12/build/Debug/Homepwner.app/Contents/Resources/ItemDetailViewController.nib
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch12/build/Debug/Homepwner.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NHomepwner-Info.plist
+c000000004CB0D6B0000000000000038D
+t1286657712
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310723411#310723411#0(68"[BEROR]error: There is no SDK with the name or path 'iphoneos3.1.2'1(4@60"error: There is no SDK with the name or path 'iphoneos3.1.2'310723411#18446744073709551615#0#0(1@0"0(0#1#0"8630827296#0"0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch12/Classes/ItemDetailViewController.xib
+r0
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch12/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch12/build/Debug/Homepwner.app/Contents/Info.plist Homepwner-Info.plist
+r0
+
+CTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/Homepwnerch12/build/Debug/Homepwner.app
+r0
+

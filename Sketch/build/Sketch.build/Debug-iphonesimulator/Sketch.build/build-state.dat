@@ -1,0 +1,838 @@
+TSketch
+v7
+r0
+t313823707.266461
+cCheck dependencies
+cProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Info.plist Sketch-Info.plist
+cCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/MainWindow.xib
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fsknugsgcstodsaragejgqjhsjut/Sketch_Prefix.pch.gch Sketch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch.pth Sketch_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchView.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Circle.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Line.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m
+cLd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch normal i386
+cAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m
+cAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m
+cAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m
+cAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m
+cGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch
+cTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B6361E000000000000000EE
+t1264804320
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Circle.h
+c000000004CAEB380000000000000015E
+t1286517632
+s350
+i<Foundation/Foundation.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Circle.m
+c000000004CABF3AB00000000000000E8
+t1286337451
+s232
+i"Circle.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/../Circle.m
+c000000004CAEB37200000000000000DA
+t1286517618
+s218
+i"Circle.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/../SketchView.m
+c000000004CAEB47B000000000000088B
+t1286517883
+s2187
+i"SketchView.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/SketchAppDelegate.h
+c000000004CAE6E740000000000000142
+t1286499956
+s322
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/SketchAppDelegate.m
+c000000004CAE6F7E0000000000000199
+t1286500222
+s409
+i"SketchAppDelegate.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Line.h
+c000000004CA837CC00000000000000CB
+t1286092748
+s203
+i<Foundation/Foundation.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Line.m
+c000000004CA837CC00000000000000AF
+t1286092748
+s175
+i"Line.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/MainWindow.xib
+c000000004CAB67FC0000000000004209
+t1286301692
+s16905
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/SketchView.h
+c000000004CAE6F1B0000000000000105
+t1286500123
+s261
+i<UIKit/UIKit.h>
+i"Circle.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/SketchView.m
+c000000004CABF7730000000000000A22
+t1286338419
+s2594
+i"SketchView.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Sketch_Prefix.pch
+c000000004CA8376F00000000000000B5
+t1286092655
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app
+t1286517884
+s204
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app.dSYM
+t1286517884
+s102
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Info.plist
+t1286336153
+s560
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/MainWindow.nib
+t1286336157
+s1546
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/PkgInfo
+t1286336153
+s8
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch
+t1286517884
+s24892
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Circle.o
+t1286517637
+s7376
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Line.o
+t1286336162
+s4892
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Sketch.LinkFileList
+c000000004CAD0F530000000000000239
+t1286410067
+s569
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchAppDelegate.o
+t1286517485
+s17200
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchView.o
+t1286517883
+s19492
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/main.o
+t1286336162
+s5992
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/main.m
+c000000004CA8376F0000000000000166
+t1286092655
+s358
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Circle.h
+c000000004CAEB380000000000000015E
+t1286517632
+s350
+i<Foundation/Foundation.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m
+c000000004CAEB37200000000000000DA
+t1286517618
+s218
+i"Circle.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m
+c000000004CFC0DD0000000000000167C
+t1291587024
+s5756
+i"SketchView.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.h
+c000000004CFADB3B0000000000000141
+t1291508539
+s321
+i<Foundation/Foundation.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m
+c000000004CFB127900000000000000C8
+t1291522681
+s200
+i"Line.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.h
+c000000004CAE6E740000000000000142
+t1286499956
+s322
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m
+c000000004CAE6F7E0000000000000199
+t1286500222
+s409
+i"SketchAppDelegate.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/MainWindow.xib
+c000000004CAB67FC0000000000004209
+t1286301692
+s16905
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/SketchView.h
+c000000004CFB1D02000000000000019F
+t1291525378
+s415
+i<UIKit/UIKit.h>
+i"Circle.h"
+i"Line.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch
+c000000004CA8376F00000000000000B5
+t1286092655
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app
+t1292130907
+s204
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app.dSYM
+t1292130907
+s102
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Info.plist
+t1292130905
+s589
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/MainWindow.nib
+t1286336157
+s1546
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/PkgInfo
+t1292130905
+s8
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch
+t1292130906
+s23964
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Circle.o
+t1292130906
+s7980
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Line.o
+t1292130906
+s7760
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Sketch.LinkFileList
+c000000004CFADE4E00000000000002BD
+t1291509326
+s701
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchAppDelegate.o
+t1292130906
+s43728
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchView.o
+t1292130906
+s54648
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/main.o
+t1292130906
+s6336
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/StaticAnalyzer/normal/i386/Circle.plist
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/StaticAnalyzer/normal/i386/Line.plist
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/StaticAnalyzer/normal/i386/SketchAppDelegate.plist
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/StaticAnalyzer/normal/i386/SketchView.plist
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m
+c000000004CA8376F0000000000000166
+t1286092655
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-abxfssbedktjcvfvecreprhooshc/Sketch_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-arotegjkzbgactetlwqevpijkouz/Sketch_Prefix.pch.gch
+t1286336162
+s13034960
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fgsyzpqnuqtihwdaxftybyrqlopd/Sketch_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fsknugsgcstodsaragejgqjhsjut/Sketch_Prefix.pch.gch
+t1292130906
+s15211536
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fvwmzwkasyvatkasgycevohcqmgt/Sketch_Prefix.pch.pth
+t1291587135
+s2715532
+
+NSketch-Info.plist
+c000000004CFC0E39000000000000038F
+t1291587129
+s911
+
+CAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m
+s313823707.041762
+e313823707.158191
+r1
+xAnalyze
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch' file not found
+o #include "/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@82"Analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m313823707#313823707#0(450"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch' file not found #include "/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors313823707#18446744073709551615#0#1(25@175"'/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch' file not found313823707#18446744073709551615#0#0(6@14"<command line>313823707#1#0#1#0#0"0(6@14"<command line>313823707#0#0#0#0#0"0(0#0#74"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m8620015936#2040"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch --analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/StaticAnalyzer/normal/i386/Circle.plist0#
+
+CAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m
+s313823707.013736
+e313823707.168339
+r1
+xAnalyze
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch' file not found
+o #include "/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@86"Analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313823707#313823707#0(450"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch' file not found #include "/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors313823707#18446744073709551615#0#1(25@175"'/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch' file not found313823707#18446744073709551615#0#0(6@14"<command line>313823707#1#0#1#0#0"0(6@14"<command line>313823707#0#0#0#0#0"0(0#0#78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m8625930976#2048"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch --analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/StaticAnalyzer/normal/i386/SketchView.plist0#
+
+CAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m
+s313823707.158278
+e313823707.263455
+r1
+xAnalyze
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch' file not found
+o #include "/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@77"Analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m313823707#313823707#0(450"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch' file not found #include "/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors313823707#18446744073709551615#0#1(25@175"'/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch' file not found313823707#18446744073709551615#0#0(6@14"<command line>313823707#1#0#1#0#0"0(6@14"<command line>313823707#0#0#0#0#0"0(0#0#69"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m8621141472#2033"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch --analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/StaticAnalyzer/normal/i386/Line.plist0#
+
+CAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m
+s313823706.883813
+e313823707.041668
+r1
+xAnalyze
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch' file not found
+o #include "/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@90"Analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m313823706#313823707#0(450"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch' file not found #include "/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors313823706#18446744073709551615#0#1(25@175"'/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch' file not found313823706#18446744073709551615#0#0(6@14"<command line>313823706#1#0#1#0#0"0(6@14"<command line>313823706#0#0#0#0#0"0(0#0#82"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m8626395392#2059"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch --analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/StaticAnalyzer/normal/i386/SketchAppDelegate.plist0#
+
+CAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m
+s313823706.848655
+e313823707.013650
+r1
+xAnalyze
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch' file not found
+o #include "/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@69"Analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m313823706#313823707#0(450"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch' file not found #include "/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors313823706#18446744073709551615#0#1(25@175"'/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch' file not found313823706#18446744073709551615#0#0(6@14"<command line>313823706#1#0#1#0#0"0(6@14"<command line>313823706#0#0#0#0#0"0(0#0#61"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m8617885344#2025"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch --analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313823705#313823705#0(0"0(0#1#0"8609936160#0"0#
+
+CCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Circle.o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Circle.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308030420.062072
+e308030420.153547
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Circle.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Circle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Circle.m308030420#308030420#0(0"0(0#0#64"/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Circle.m4300885448#2052"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-arotegjkzbgactetlwqevpijkouz/Sketch_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Circle.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Circle.o"0#
+
+CCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Circle.o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/../Circle.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308210436.903873
+e308210437.030380
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Circle.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/../Circle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/../Circle.m308210436#308210437#0(0"0(0#0#75"/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/../Circle.m4300885448#2063"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-arotegjkzbgactetlwqevpijkouz/Sketch_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/../Circle.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Circle.o"0#
+
+CCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Circle.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313823706.643731
+e313823706.708555
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Circle.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m313823706#313823706#0(0"0(0#0#74"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m8625971872#2085"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fsknugsgcstodsaragejgqjhsjut/Sketch_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Circle.o0#
+
+CCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Line.o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Line.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308028962.626735
+e308028962.791864
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Line.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Line.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Line.m308028962#308028962#0(0"0(0#0#62"/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Line.m4300885448#2048"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-arotegjkzbgactetlwqevpijkouz/Sketch_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Line.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Line.o"0#
+
+CCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Line.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313823706.708663
+e313823706.848416
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Line.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m313823706#313823706#0(0"0(0#0#69"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m8620155520#2078"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fsknugsgcstodsaragejgqjhsjut/Sketch_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Line.o0#
+
+CCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchAppDelegate.o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/SketchAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308210285.355821
+e308210285.665111
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchAppDelegate.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/SketchAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/SketchAppDelegate.m308210285#308210285#0(0"0(0#0#83"/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/SketchAppDelegate.m4300885448#2082"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-arotegjkzbgactetlwqevpijkouz/Sketch_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/SketchAppDelegate.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchAppDelegate.o"0#
+
+CCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313823706.494674
+e313823706.643590
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchAppDelegate.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m313823706#313823706#0(0"0(0#0#82"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m8624159136#2104"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fsknugsgcstodsaragejgqjhsjut/Sketch_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchAppDelegate.o0#
+
+CCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchView.o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/../SketchView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308210683.911291
+e308210683.982332
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchView.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/../SketchView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/../SketchView.m308210683#308210683#0(0"0(0#0#79"/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/../SketchView.m4300885448#2071"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-arotegjkzbgactetlwqevpijkouz/Sketch_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Classes/../SketchView.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchView.o"0#
+
+CCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchView.o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/SketchView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308102535.522792
+e308102537.031051
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchView.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/SketchView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/SketchView.m: In function '-[SketchView touchesMoved:withEvent:]':
+o/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/SketchView.m:81: warning: unused variable 't'
+lSLF07#2@76"Compile /Users/dougc333/Desktop/xcode experiments/cis312/Sketch/SketchView.m308102535#308102537#0(225"/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/SketchView.m: In function '-[SketchView touchesMoved:withEvent:]':/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/SketchView.m:81: warning: unused variable 't'1(22@19"Unused variable 't'308102536#123#102#0(6@68"/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/SketchView.m308031219#81#0#81#0#19"unused variable '*'0(0#0#68"/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/SketchView.m4300885448#2060"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-arotegjkzbgactetlwqevpijkouz/Sketch_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/SketchView.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchView.o"0#
+
+CCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchView.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313823706.623437
+e313823706.850300
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchView.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313823706#313823706#0(0"0(0#0#78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m8625924384#2093"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fsknugsgcstodsaragejgqjhsjut/Sketch_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/SketchView.o0#
+
+CCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/main.o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308028962.415746
+e308028962.625313
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/dougc333/Desktop/xcode experiments/cis312/Sketch/main.m308028962#308028962#0(0"0(0#0#62"/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/main.m4300885448#2048"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-arotegjkzbgactetlwqevpijkouz/Sketch_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/main.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313823706.493010
+e313823706.623336
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m313823706#313823706#0(0"0(0#0#61"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m8619220384#2070"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fsknugsgcstodsaragejgqjhsjut/Sketch_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/MainWindow.xib"
+s308028953.844071
+e308028957.981097
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308028953#308028957#0(0"0(0#0#70"/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/MainWindow.xib4300885448#538"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/MainWindow.nib" "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/MainWindow.xib"0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/MainWindow.xib
+r0
+
+CGenerateDSYMFile "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app.dSYM" "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch"
+s308210684.004337
+e308210684.018461
+r1
+xGenerateDSYMFile
+x/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app.dSYM
+x/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Sketch.app.dSYM build/Debug-iphonesimulator/Sketch.app/Sketch308210684#308210684#0(0"0(0#0#101"/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch4300885448#437"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch" -o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app.dSYM"0#
+
+CGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch
+s313823707.168546
+e313823707.188417
+r1
+xGenerateDSYMFile
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app.dSYM
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Sketch.app.dSYM build/Debug-iphonesimulator/Sketch.app/Sketch313823707#313823707#0(0"0(0#0#100"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch8619048000#428"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app.dSYM0#
+
+CLd "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch" normal i386
+s308210683.982424
+e308210684.004233
+r1
+xLd
+x/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch
+xnormal
+xi386
+lSLF07#2@106"Link /Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch308210683#308210684#0(0"0(0#0#0"4300885448#954"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator" "-F/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator" -filelist "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Sketch.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch"0#
+
+CLd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch normal i386
+s313823706.850388
+e313823706.883717
+r1
+xLd
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch
+xnormal
+xi386
+lSLF07#2@105"Link /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch313823706#313823706#0(0"0(0#0#0"8628778528#975"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator -filelist /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Objects-normal/i386/Sketch.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Sketch0#
+
+CProcessInfoPlistFile "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Info.plist" Sketch-Info.plist
+s308028953.820791
+e308028953.843968
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Info.plist
+xSketch-Info.plist
+lSLF07#2@25"Process Sketch-Info.plist308028953#308028953#0(0"0(0#0#73"/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Sketch-Info.plist4300885448#533"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Sketch-Info.plist -genpkginfo "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Info.plist"0#
+
+CProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Info.plist Sketch-Info.plist
+s313823705.660052
+e313823705.664234
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Info.plist
+xSketch-Info.plist
+lSLF07#2@25"Process Sketch-Info.plist313823705#313823705#0(0"0(0#0#72"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch-Info.plist8619843968#524"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Sketch-Info.plist -genpkginfo /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app/Info.plist0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-abxfssbedktjcvfvecreprhooshc/Sketch_Prefix.pch.pth Sketch_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-arotegjkzbgactetlwqevpijkouz/Sketch_Prefix.pch.gch Sketch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308028957.981262
+e308028962.415588
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-arotegjkzbgactetlwqevpijkouz/Sketch_Prefix.pch.gch
+xSketch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Sketch_Prefix.pch308028957#308028962#0(0"0(0#0#73"/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Sketch_Prefix.pch4300885448#1922"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources" -c "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/Sketch_Prefix.pch" -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-arotegjkzbgactetlwqevpijkouz/Sketch_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch.pth Sketch_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s313823705.665492
+e313823705.901657
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch.pth
+xSketch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+oIn file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator
+o   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);
+o                       ^
+oIn file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from:
+o # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING
+o                                ^
+o<scratch space>:82:1: note: instantiated from:
+o __AVAILABILITY_INTERNAL__MAC_10_7
+o ^
+oIn file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type
+o + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                           ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type
+o + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                      ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type
+o + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview
+o                                                                                                                  ^
+oIn file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState'
+o @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                               ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type
+o - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o    ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type
+o - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                            ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type
+o - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o                                             ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type
+o - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o    ^
+oIn file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+oIn file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+o11 errors generated.
+lSLF07#2@28"Precompile Sketch_Prefix.pch313823705#313823705#0(8201"In file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);                       ^In file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from: # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING                                ^<scratch space>:82:1: note: instantiated from: __AVAILABILITY_INTERNAL__MAC_10_7 ^In file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                           ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                      ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview                                                                                                                  ^In file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState' @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                               ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);    ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                            ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);                                             ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);    ^In file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^In file included from /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^11 errors generated.1(25@46"Analyzer skipped this file due to parse errors313823705#18446744073709551615#0#11(25@48"expected function body after function declarator313823705#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#0#60#0#0"0(25@15"expected a type313823705#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#0#250#0#0"0(25@15"expected a type313823705#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#0#256#0#0"0(25@15"expected a type313823705#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#0#258#0#0"0(25@38"unknown type name 'UIApplicationState'313823705#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#187#0#187#0#0"0(25@15"expected a type313823705#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#190#0#190#0#0"0(25@15"expected a type313823705#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#191#0#191#0#0"0(25@15"expected a type313823705#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#202#0#202#0#0"0(25@15"expected a type313823705#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#206#0#206#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'313823705#18446744073709551615#0#0(6@146"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#0#82#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'313823705#18446744073709551615#0#0(6@145"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h303200623#54#0#54#0#0"0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#0#0#0#0#0"0(0#0#72"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch8598718816#1884"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dpjhgwgpwjklaudzeclauafsbvst/Sketch_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fgsyzpqnuqtihwdaxftybyrqlopd/Sketch_Prefix.pch.gch Sketch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fsknugsgcstodsaragejgqjhsjut/Sketch_Prefix.pch.gch Sketch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313823705.664375
+e313823706.492872
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fsknugsgcstodsaragejgqjhsjut/Sketch_Prefix.pch.gch
+xSketch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Sketch_Prefix.pch313823705#313823706#0(0"0(0#0#72"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch8619209312#1947"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fsknugsgcstodsaragejgqjhsjut/Sketch_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fvwmzwkasyvatkasgycevohcqmgt/Sketch_Prefix.pch.pth Sketch_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s313279934.639555
+e313279935.227783
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fvwmzwkasyvatkasgycevohcqmgt/Sketch_Prefix.pch.pth
+xSketch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@28"Precompile Sketch_Prefix.pch313279934#313279935#0(0"0(0#0#72"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch8623098144#1938"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources/i386 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphonesimulator/Sketch.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fvwmzwkasyvatkasgycevohcqmgt/Sketch_Prefix.pch.pth0#
+
+CTouch "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app"
+s308210684.018555
+e308210684.021529
+r1
+xTouch
+x/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app
+lSLF07#2@100"Touch /Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app308210684#308210684#0(0"0(0#0#0"4300885448#315"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dougc333/Desktop/xcode experiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app"0#
+
+CTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app
+s313823707.263550
+e313823707.266424
+r1
+xTouch
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app
+lSLF07#2@99"Touch /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app313823707#313823707#0(0"0(0#0#0"8620698432#309"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphonesimulator/Sketch.app0#
+

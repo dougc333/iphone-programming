@@ -1,0 +1,288 @@
+TColorMatch
+v7
+r0
+t308345300.684276
+cCheck dependencies
+cProcessInfoPlistFile "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/Info.plist" ColorMatch-Info.plist
+cCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/MainWindow.xib"
+cCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/../ColorMatchViewController.xib"
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorMatch_Prefix-axervtctuumvgibpdeoplnbcrxjc/ColorMatch_Prefix.pch.gch ColorMatch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/main.o "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/ColorMatchAppDelegate.o "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/ColorMatchAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/ColorMatchViewController.o "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/../ColorMatchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/ColorMatch" normal i386
+cGenerateDSYMFile "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app.dSYM" "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/ColorMatch"
+cTouch "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B6361E000000000000000EE
+t1264804320
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/../ColorMatchViewController.m
+c000000004CB0C2520000000000000EBD
+t1286652498
+s3773
+i"ColorMatchViewController.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/../ColorMatchViewController.xib
+c000000004CB0BEC6000000000000871D
+t1286651590
+s34589
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/ColorMatchAppDelegate.h
+c000000004CB0A775000000000000014E
+t1286645621
+s334
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/ColorMatchAppDelegate.m
+c000000004CB0BDC70000000000000252
+t1286651335
+s594
+i"ColorMatchAppDelegate.h"
+i"ColorMatchViewController.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/ColorMatchViewController.h
+c000000004CB0BE7100000000000004AE
+t1286651505
+s1198
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/ColorMatchViewController.m
+c000000004CB0B58600000000000008DE
+t1286649222
+s2270
+i"ColorMatchViewController.h"
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/ColorMatchViewController.xib
+c000000004CB0B59300000000000082DF
+t1286649235
+s33503
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/ColorMatch_Prefix.pch
+c000000004CB0A77500000000000000BD
+t1286645621
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/MainWindow.xib
+c000000004CB0A7750000000000001F62
+t1286645621
+s8034
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/ColorMatch.LinkFileList
+c000000004CB0B48500000000000001E4
+t1286648965
+s484
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/ColorMatchAppDelegate.o
+t1286651536
+s38428
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/ColorMatchViewController.o
+t1286652500
+s51048
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/main.o
+t1286648967
+s6000
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app
+t1286652500
+s238
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app.dSYM
+t1286652500
+s102
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/ColorMatch
+t1286652500
+s27544
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/ColorMatchViewController.nib
+t1286651711
+s5015
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/Info.plist
+t1286648965
+s576
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/MainWindow.nib
+t1286648965
+s1348
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/PkgInfo
+t1286648965
+s8
+
+N/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/main.m
+c000000004CB0A775000000000000016A
+t1286645621
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorMatch_Prefix-axervtctuumvgibpdeoplnbcrxjc/ColorMatch_Prefix.pch.gch
+t1286648967
+s13034960
+
+NColorMatch-Info.plist
+c000000004CB0A775000000000000038D
+t1286645621
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308345300#308345300#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/ColorMatchAppDelegate.o "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/ColorMatchAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308344336.257410
+e308344336.349971
+r1
+xCompileC
+xbuild/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/ColorMatchAppDelegate.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/ColorMatchAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/ColorMatchAppDelegate.m308344336#308344336#0(0"0(0#0#91"/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/ColorMatchAppDelegate.m4300885448#2214"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorMatch_Prefix-axervtctuumvgibpdeoplnbcrxjc/ColorMatch_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/ColorMatchAppDelegate.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/ColorMatchAppDelegate.o"0#
+
+CCompileC build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/ColorMatchViewController.o "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/../ColorMatchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308345300.447086
+e308345300.642576
+r1
+xCompileC
+xbuild/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/ColorMatchViewController.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/../ColorMatchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/../ColorMatchViewController.m308345300#308345300#0(0"0(0#0#97"/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/../ColorMatchViewController.m4300885448#2223"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorMatch_Prefix-axervtctuumvgibpdeoplnbcrxjc/ColorMatch_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/../ColorMatchViewController.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/ColorMatchViewController.o"0#
+
+CCompileC build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/ColorMatchViewController.o "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/ColorMatchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308342042.332624
+e308342042.435603
+r1
+xCompileC
+xbuild/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/ColorMatchViewController.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/ColorMatchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/ColorMatchViewController.m308342042#308342042#0(0"0(0#0#86"/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/ColorMatchViewController.m4300885448#2212"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorMatch_Prefix-axervtctuumvgibpdeoplnbcrxjc/ColorMatch_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/ColorMatchViewController.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/ColorMatchViewController.o"0#
+
+CCompileC build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/main.o "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308341767.425978
+e308341767.527305
+r1
+xCompileC
+xbuild/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/main.o
+x/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/main.m308341767#308341767#0(0"0(0#0#66"/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/main.m4300885448#2172"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/DerivedSources" -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorMatch_Prefix-axervtctuumvgibpdeoplnbcrxjc/ColorMatch_Prefix.pch -c "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/main.m" -o "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/../ColorMatchViewController.xib"
+s308344511.142844
+e308344511.930072
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/../ColorMatchViewController.xib
+lSLF07#2@50"CompileXIB Classes/../ColorMatchViewController.xib308344511#308344511#0(0"0(0#0#99"/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/../ColorMatchViewController.xib4300885448#593"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/ColorMatchViewController.nib" "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/Classes/../ColorMatchViewController.xib"0#
+
+CCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/ColorMatchViewController.xib"
+s308342041.861348
+e308342042.332225
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/ColorMatchViewController.xib
+lSLF07#2@39"CompileXIB ColorMatchViewController.xib308342041#308342042#0(0"0(0#0#88"/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/ColorMatchViewController.xib4300885448#582"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/ColorMatchViewController.nib" "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/ColorMatchViewController.xib"0#
+
+CCompileXIB "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/MainWindow.xib"
+s308341765.120147
+e308341765.822067
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308341765#308341765#0(0"0(0#0#74"/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/MainWindow.xib4300885448#554"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/MainWindow.nib" "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app.dSYM" "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/ColorMatch"
+s308345300.664614
+e308345300.681388
+r1
+xGenerateDSYMFile
+x/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app.dSYM
+x/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/ColorMatch
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/ColorMatch.app.dSYM build/Debug-iphonesimulator/ColorMatch.app/ColorMatch308345300#308345300#0(0"0(0#0#113"/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/ColorMatch4300885448#461"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/ColorMatch" -o "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app.dSYM"0#
+
+CLd "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/ColorMatch" normal i386
+s308345300.642673
+e308345300.664511
+r1
+xLd
+x/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/ColorMatch
+xnormal
+xi386
+lSLF07#2@118"Link /Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/ColorMatch308345300#308345300#0(0"0(0#0#0"4300885448#994"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator" "-F/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator" -filelist "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/Objects-normal/i386/ColorMatch.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/ColorMatch"0#
+
+CProcessInfoPlistFile "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/Info.plist" ColorMatch-Info.plist
+s308341765.099465
+e308341765.120053
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/Info.plist
+xColorMatch-Info.plist
+lSLF07#2@29"Process ColorMatch-Info.plist308341765#308341765#0(0"0(0#0#81"/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/ColorMatch-Info.plist8319395793566528512#557"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ColorMatch-Info.plist -genpkginfo "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app/Info.plist"0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorMatch_Prefix-axervtctuumvgibpdeoplnbcrxjc/ColorMatch_Prefix.pch.gch ColorMatch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308341766.032790
+e308341767.425655
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorMatch_Prefix-axervtctuumvgibpdeoplnbcrxjc/ColorMatch_Prefix.pch.gch
+xColorMatch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile ColorMatch_Prefix.pch308341766#308341767#0(0"0(0#0#81"/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/ColorMatch_Prefix.pch4300885448#2038"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-generated-files.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-own-target-headers.hmap" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-all-target-headers.hmap" -iquote "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/ColorMatch-project-headers.hmap" "-F/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/include" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/DerivedSources/i386" "-I/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/ColorMatch.build/Debug-iphonesimulator/ColorMatch.build/DerivedSources" -c "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/ColorMatch_Prefix.pch" -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorMatch_Prefix-axervtctuumvgibpdeoplnbcrxjc/ColorMatch_Prefix.pch.gch0#
+
+CTouch "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app"
+s308345300.681476
+e308345300.684236
+r1
+xTouch
+x/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app
+lSLF07#2@108"Touch /Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app308345300#308345300#0(0"0(0#0#0"4300885448#327"    cd "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dougc333/Desktop/xcode experiments/cis312/ColorMatch/build/Debug-iphonesimulator/ColorMatch.app"0#
+

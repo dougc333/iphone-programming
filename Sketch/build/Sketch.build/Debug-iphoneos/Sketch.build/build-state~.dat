@@ -1,0 +1,638 @@
+TSketch
+v7
+r0
+t313307042.917839
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Sketch.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/Info.plist Sketch-Info.plist
+cCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/MainWindow.xib
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-ckngbyhaisywjvgagoowhjlxlxci/Sketch_Prefix.pch.gch Sketch_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dgvammflowkbzfdqzexwloqdgqde/Sketch_Prefix.pch.gch Sketch_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dioxthddteskuvgttadcjrqgplom/Sketch_Prefix.pch.pth Sketch_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fpyerwvwrawyadfikdbmpgjgymwx/Sketch_Prefix.pch.pth Sketch_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/SketchAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/SketchView.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Circle.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Line.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Sketch normal armv6
+cCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/SketchAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/SketchView.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Circle.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Line.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m
+cAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m
+cLd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Sketch normal armv7
+cAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m
+cCreateUniversalBinary /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/Sketch normal "armv6 armv7"
+cAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m
+cAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m
+cAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m
+cAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m
+cAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m
+cAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m
+cAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m
+cGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/Sketch
+cProcessProductPackaging "/Users/dougc333/Library/MobileDevice/Provisioning Profiles/721EC480-5FD3-47FB-9BB6-75221AAB881D.mobileprovision" /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/embedded.mobileprovision
+cTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch.xcent
+cCodeSign /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Circle.h
+c000000004CAEB380000000000000015E
+t1286517632
+s350
+i<Foundation/Foundation.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m
+c000000004CAEB37200000000000000DA
+t1286517618
+s218
+i"Circle.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m
+c000000004CFC0DD0000000000000167C
+t1291587024
+s5756
+i"SketchView.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.h
+c000000004CFADB3B0000000000000141
+t1291508539
+s321
+i<Foundation/Foundation.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m
+c000000004CFB127900000000000000C8
+t1291522681
+s200
+i"Line.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.h
+c000000004CAE6E740000000000000142
+t1286499956
+s322
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m
+c000000004CAE6F7E0000000000000199
+t1286500222
+s409
+i"SketchAppDelegate.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/MainWindow.xib
+c000000004CAB67FC0000000000004209
+t1286301692
+s16905
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/SketchView.h
+c000000004CFB1D02000000000000019F
+t1291525378
+s415
+i<UIKit/UIKit.h>
+i"Circle.h"
+i"Line.h"
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch
+c000000004CA8376F00000000000000B5
+t1286092655
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app
+t1291614242
+s340
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app.dSYM
+t1291614242
+s102
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/Info.plist
+t1291614238
+s779
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/MainWindow.nib
+t1291614239
+s1109
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/PkgInfo
+t1291614238
+s8
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/ResourceRules.plist
+t1291614239
+s485
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/Sketch
+t1291614242
+s60868
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/embedded.mobileprovision
+t1291614242
+s34235
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Circle.o
+t1291614241
+s8216
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Line.o
+t1291614241
+s8032
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Sketch
+t1291614241
+s28428
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Sketch.LinkFileList
+c000000004CFC781E000000000000029F
+t1291614238
+s671
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/SketchAppDelegate.o
+t1291614241
+s46880
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/SketchView.o
+t1291614241
+s58016
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/main.o
+t1291614241
+s6480
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Circle.o
+t1291614241
+s8184
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Line.o
+t1291614241
+s7996
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Sketch
+t1291614241
+s28100
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Sketch.LinkFileList
+c000000004CFC781E000000000000029F
+t1291614238
+s671
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/SketchAppDelegate.o
+t1291614241
+s46844
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/SketchView.o
+t1291614241
+s56512
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/main.o
+t1291614241
+s6464
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch.xcent
+t1291614242
+s422
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/StaticAnalyzer/normal/armv6/Circle.plist
+t1291614242
+s276
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/StaticAnalyzer/normal/armv6/Line.plist
+t1291614242
+s276
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/StaticAnalyzer/normal/armv6/SketchAppDelegate.plist
+t1291614241
+s276
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/StaticAnalyzer/normal/armv6/SketchView.plist
+t1291614242
+s7635
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/StaticAnalyzer/normal/armv6/main.plist
+t1291614241
+s276
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/StaticAnalyzer/normal/armv7/Circle.plist
+t1291614242
+s276
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/StaticAnalyzer/normal/armv7/Line.plist
+t1291614242
+s276
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/StaticAnalyzer/normal/armv7/SketchAppDelegate.plist
+t1291614242
+s276
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/StaticAnalyzer/normal/armv7/SketchView.plist
+t1291614242
+s7635
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/StaticAnalyzer/normal/armv7/main.plist
+t1291614242
+s276
+
+N/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m
+c000000004CA8376F0000000000000166
+t1286092655
+s358
+i<UIKit/UIKit.h>
+
+N/Users/dougc333/Library/MobileDevice/Provisioning Profiles/721EC480-5FD3-47FB-9BB6-75221AAB881D.mobileprovision
+c000000004CFA96E300000000000085BB
+t1291491043
+s34235
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-ckngbyhaisywjvgagoowhjlxlxci/Sketch_Prefix.pch.gch
+t1291614240
+s9983704
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dgvammflowkbzfdqzexwloqdgqde/Sketch_Prefix.pch.gch
+t1291614240
+s10446552
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dioxthddteskuvgttadcjrqgplom/Sketch_Prefix.pch.pth
+t1291614240
+s2752416
+
+N/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fpyerwvwrawyadfikdbmpgjgymwx/Sketch_Prefix.pch.pth
+t1291614240
+s2752576
+
+NSketch-Info.plist
+c000000004CFC0E39000000000000038F
+t1291587129
+s911
+
+CAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m
+s313307042.150612
+e313307042.228128
+r1
+xAnalyze
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m
+lSLF07#2@82"Analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m313307042#313307042#0(0"0(0#0#74"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m8609108064#1924"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fasm-blocks -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fpyerwvwrawyadfikdbmpgjgymwx/Sketch_Prefix.pch --analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/StaticAnalyzer/normal/armv7/Circle.plist0#
+
+CAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m
+s313307042.105875
+e313307042.188199
+r1
+xAnalyze
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m
+o/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m:76:15: warning: Potential leak of an object allocated on line 76 and stored into 'c'
+o                 Circle *c = [[Circle alloc]init];
+o                             ^
+o1 warning generated.
+lSLF07#2@86"Analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313307042#313307042#0(267"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m:76:15: warning: Potential leak of an object allocated on line 76 and stored into 'c'                 Circle *c = [[Circle alloc]init];                             ^1 warning generated.1(0@68"Potential leak of an object allocated on line 76 and stored into 'c'313307042#18446744073709551615#0#7(17@0"313307042#18446744073709551615#0#0(6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#0#0#0#0#0"0(6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#0#0#0#0#1(3@6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#69#2#69#2#6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#73#2#73#2#17@0"313307042#18446744073709551615#0#0(6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#0#0#0#0#0"0(6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#0#0#0#0#1(3@6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#73#2#73#2#6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#74#3#74#3#17@0"313307042#18446744073709551615#0#0(6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#0#0#0#0#0"0(6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#0#0#0#0#1(3@6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#74#3#74#3#6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#76#3#76#3#17@0"313307042#18446744073709551615#0#0(6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#0#0#0#0#0"0(6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#0#0#0#0#1(3@6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#76#3#76#3#6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#76#15#76#34#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)313307042#18446744073709551615#0#0(6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#76#15#0#0#0"1(6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#76#15#76#34#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"313307042#18446744073709551615#0#0(6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#0#0#0#0#0"0(6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#0#0#0#0#1(3@6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#76#15#76#34#6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#80#3#80#3#21@133"Object allocated on line 76 and stored into 'c' is no longer referenced after this point and has a retain count of +1 (object leaked)313307042#18446744073709551615#0#0(6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#80#3#0#0#0"1(6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#80#3#80#3#133"Object allocated on line 76 and stored into 'c' is no longer referenced after this point and has a retain count of +1 (object leaked)6@78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313279824#80#3#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0#0#78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m8611694016#1932"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fasm-blocks -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fpyerwvwrawyadfikdbmpgjgymwx/Sketch_Prefix.pch --analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/StaticAnalyzer/normal/armv7/SketchView.plist0#
+
+CAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m
+s313307042.188371
+e313307042.236508
+r1
+xAnalyze
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m
+lSLF07#2@77"Analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m313307042#313307042#0(0"0(0#0#69"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m8614561024#1917"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fasm-blocks -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fpyerwvwrawyadfikdbmpgjgymwx/Sketch_Prefix.pch --analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/StaticAnalyzer/normal/armv7/Line.plist0#
+
+CAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m
+s313307042.097773
+e313307042.150524
+r1
+xAnalyze
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m
+lSLF07#2@90"Analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m313307042#313307042#0(0"0(0#0#82"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m8613457984#1943"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fasm-blocks -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fpyerwvwrawyadfikdbmpgjgymwx/Sketch_Prefix.pch --analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/StaticAnalyzer/normal/armv7/SketchAppDelegate.plist0#
+
+CAnalyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m
+s313307042.060776
+e313307042.105785
+r1
+xAnalyze
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m
+lSLF07#2@69"Analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m313307042#313307042#0(0"0(0#0#61"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m8613974720#1909"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fasm-blocks -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fpyerwvwrawyadfikdbmpgjgymwx/Sketch_Prefix.pch --analyze /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/StaticAnalyzer/normal/armv7/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313307038#313307038#0(0"0(0#1#0"8609055072#0"0#
+
+CCodeSign /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app
+s313307042.310293
+e313307042.917793
+r1
+xCodeSign
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app
+lSLF07#2@40"CodeSign build/Debug-iphoneos/Sketch.app313307042#313307042#0(0"0(0#0#86"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app8612136128#705"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: doug chang (TB425T34FS)" --resource-rules=/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/ResourceRules.plist --entitlements /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch.xcent /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app0#
+
+CCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Circle.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313307041.083091
+e313307041.139090
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Circle.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m313307041#313307041#0(0"0(0#0#74"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m8608622912#1895"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-ckngbyhaisywjvgagoowhjlxlxci/Sketch_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Circle.o0#
+
+CCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Line.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313307041.139188
+e313307041.202586
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Line.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m313307041#313307041#0(0"0(0#0#69"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m8615419936#1888"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-ckngbyhaisywjvgagoowhjlxlxci/Sketch_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Line.o0#
+
+CCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/SketchAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313307040.929186
+e313307041.082989
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/SketchAppDelegate.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m313307040#313307041#0(0"0(0#0#82"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m8611561536#1914"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-ckngbyhaisywjvgagoowhjlxlxci/Sketch_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/SketchAppDelegate.o0#
+
+CCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/SketchView.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313307041.070488
+e313307041.218385
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/SketchView.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313307041#313307041#0(0"0(0#0#78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m8611000736#1903"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-ckngbyhaisywjvgagoowhjlxlxci/Sketch_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/SketchView.o0#
+
+CCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313307040.927657
+e313307041.070380
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/main.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m313307040#313307041#0(0"0(0#0#61"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m8600189920#1880"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-ckngbyhaisywjvgagoowhjlxlxci/Sketch_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Circle.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313307041.475063
+e313307041.614883
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Circle.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m313307041#313307041#0(0"0(0#0#74"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m8590277920#1895"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dgvammflowkbzfdqzexwloqdgqde/Sketch_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../Circle.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Circle.o0#
+
+CCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Line.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313307041.613239
+e313307041.678881
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Line.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m313307041#313307041#0(0"0(0#0#69"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m8610886624#1888"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dgvammflowkbzfdqzexwloqdgqde/Sketch_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/Line.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Line.o0#
+
+CCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/SketchAppDelegate.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313307041.282804
+e313307041.372300
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/SketchAppDelegate.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m313307041#313307041#0(0"0(0#0#82"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m8610625120#1914"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dgvammflowkbzfdqzexwloqdgqde/Sketch_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/SketchAppDelegate.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/SketchAppDelegate.o0#
+
+CCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/SketchView.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313307041.372405
+e313307041.474966
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/SketchView.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m313307041#313307041#0(0"0(0#0#78"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m8597228448#1903"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dgvammflowkbzfdqzexwloqdgqde/Sketch_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Classes/../SketchView.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/SketchView.o0#
+
+CCompileC build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/main.o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313307041.202677
+e313307041.282685
+r1
+xCompileC
+xbuild/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/main.o
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m313307041#313307041#0(0"0(0#0#61"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m8614235072#1880"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -include /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dgvammflowkbzfdqzexwloqdgqde/Sketch_Prefix.pch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/main.m -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/MainWindow.xib
+s313307039.006554
+e313307039.488581
+r1
+xCompileXIB
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib313307039#313307039#0(0"0(0#0#69"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/MainWindow.xib8608359616#589"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/MainWindow.nib /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCpResource build/Debug-iphoneos/Sketch.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s313307038.876663
+e313307039.006472
+r1
+xCpResource
+xbuild/Debug-iphoneos/Sketch.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist313307038#313307039#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8614525696#525"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app0#
+
+CCreateUniversalBinary /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/Sketch normal "armv6 armv7"
+s313307042.011669
+e313307042.053059
+r1
+xCreateUniversalBinary
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/Sketch
+xnormal
+xarmv6 armv7
+lSLF07#2@81"CreateUniversalBinary build/Debug-iphoneos/Sketch.app/Sketch normal "armv6 armv7"313307042#313307042#0(0"0(0#0#66"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/armv6 armv78608511488#574"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Sketch /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Sketch -output /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/Sketch0#
+
+CGenerateDSYMFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app.dSYM /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/Sketch
+s313307042.228221
+e313307042.290632
+r1
+xGenerateDSYMFile
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app.dSYM
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/Sketch
+lSLF07#2@92"GenerateDSYMFile build/Debug-iphoneos/Sketch.app.dSYM build/Debug-iphoneos/Sketch.app/Sketch313307042#313307042#0(0"0(0#0#93"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/Sketch8611873312#407"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/Sketch -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app.dSYM0#
+
+CLd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Sketch normal armv6
+s313307041.218476
+e313307041.613048
+r1
+xLd
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Sketch
+xnormal
+xarmv6
+lSLF07#2@134"Link /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Sketch313307041#313307041#0(0"0(0#0#0"8614045120#933"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -filelist /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Sketch.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv6/Sketch0#
+
+CLd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Sketch normal armv7
+s313307041.678971
+e313307042.011430
+r1
+xLd
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Sketch
+xnormal
+xarmv7
+lSLF07#2@134"Link /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Sketch313307041#313307042#0(0"0(0#0#0"8611672256#933"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -filelist /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Sketch.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Objects-normal/armv7/Sketch0#
+
+CProcessInfoPlistFile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/Info.plist Sketch-Info.plist
+s313307038.932031
+e313307038.943698
+r1
+xProcessInfoPlistFile
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/Info.plist
+xSketch-Info.plist
+lSLF07#2@25"Process Sketch-Info.plist313307038#313307038#0(0"0(0#0#72"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch-Info.plist8615498816#622"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Sketch-Info.plist -genpkginfo /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/ResourceRules.plist -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/Info.plist0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-ckngbyhaisywjvgagoowhjlxlxci/Sketch_Prefix.pch.gch Sketch_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s313307039.488702
+e313307040.551983
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-ckngbyhaisywjvgagoowhjlxlxci/Sketch_Prefix.pch.gch
+xSketch_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Sketch_Prefix.pch313307039#313307040#0(0"0(0#0#72"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch8590490912#1763"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-ckngbyhaisywjvgagoowhjlxlxci/Sketch_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dgvammflowkbzfdqzexwloqdgqde/Sketch_Prefix.pch.gch Sketch_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s313307039.489849
+e313307040.479667
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dgvammflowkbzfdqzexwloqdgqde/Sketch_Prefix.pch.gch
+xSketch_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Sketch_Prefix.pch313307039#313307040#0(0"0(0#0#72"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch8613730944#1763"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dgvammflowkbzfdqzexwloqdgqde/Sketch_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dioxthddteskuvgttadcjrqgplom/Sketch_Prefix.pch.pth Sketch_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s313307040.479886
+e313307040.927546
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dioxthddteskuvgttadcjrqgplom/Sketch_Prefix.pch.pth
+xSketch_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@28"Precompile Sketch_Prefix.pch313307040#313307040#0(0"0(0#0#72"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch8613627552#1774"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fasm-blocks -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv6 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-dioxthddteskuvgttadcjrqgplom/Sketch_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fpyerwvwrawyadfikdbmpgjgymwx/Sketch_Prefix.pch.pth Sketch_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s313307040.552105
+e313307040.893027
+r1
+xProcessPCH
+x/var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fpyerwvwrawyadfikdbmpgjgymwx/Sketch_Prefix.pch.pth
+xSketch_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@28"Precompile Sketch_Prefix.pch313307040#313307040#0(0"0(0#0#72"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch8606491936#1774"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fasm-blocks -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.2 -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-generated-files.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-own-target-headers.hmap -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-all-target-headers.hmap -iquote /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch-project-headers.hmap -F/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/include -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources/armv7 -I/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/DerivedSources -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/Sketch_Prefix.pch -o /var/folders/hy/hynEHMUzERu46PtPv9oEDk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sketch_Prefix-fpyerwvwrawyadfikdbmpgjgymwx/Sketch_Prefix.pch.pth0#
+
+CProcessProductPackaging "/Users/dougc333/Library/MobileDevice/Provisioning Profiles/721EC480-5FD3-47FB-9BB6-75221AAB881D.mobileprovision" /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/embedded.mobileprovision
+s313307042.290756
+e313307042.303104
+r1
+xProcessProductPackaging
+x/Users/dougc333/Library/MobileDevice/Provisioning Profiles/721EC480-5FD3-47FB-9BB6-75221AAB881D.mobileprovision
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/embedded.mobileprovision
+lSLF07#2@194"ProcessProductPackaging "/Users/dougc333/Library/MobileDevice/Provisioning Profiles/721EC480-5FD3-47FB-9BB6-75221AAB881D.mobileprovision" build/Debug-iphoneos/Sketch.app/embedded.mobileprovision313307042#313307042#0(0"0(0#0#111"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/embedded.mobileprovision8608797888#457"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/dougc333/Library/MobileDevice/Provisioning Profiles/721EC480-5FD3-47FB-9BB6-75221AAB881D.mobileprovision" -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch.xcent
+s313307042.306989
+e313307042.310223
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch.xcent
+lSLF07#2@172"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch.xcent313307042#313307042#0(0"0(0#0#114"/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch.xcent8590237536#461"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Sketch.build/Debug-iphoneos/Sketch.build/Sketch.xcent0#
+
+CTouch /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app
+s313307042.303180
+e313307042.306892
+r1
+xTouch
+x/Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app
+lSLF07#2@92"Touch /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app313307042#313307042#0(0"0(0#0#0"8607836864#295"    cd /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dougc333/Desktop/xcodeexperiments/cis312/Sketch/build/Debug-iphoneos/Sketch.app0#
+
