@@ -8,6 +8,7 @@
 
 #import "PistolGunVCTemplateAppDelegate.h"
 #import "PistolGunVCTemplateViewController.h"
+#import "PhaserViewController.h"
 
 @implementation PistolGunVCTemplateAppDelegate
 
@@ -20,10 +21,33 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
     
-    // Override point for customization after application launch.
-
     // Add the view controller's view to the window and display.
-    [window addSubview:viewController.view];
+	//test tab controller with a phaserview controller first
+	
+	// Create the tabBarController
+    UITabBarController *tabBarController = [[UITabBarController alloc] init];
+	
+	UIViewController *vc1 = [[PistolGunVCTemplateViewController alloc] init];
+    UIViewController *vc2 = [[PhaserViewController alloc] init];
+	
+    // Make an array containing the two view controllers
+    NSArray *viewControllers = [NSArray arrayWithObjects:vc1, vc2, nil];
+    // The viewControllers array retains vc1 and vc2, we can release
+    // our ownership of them in this method [vc1 release]; [vc2 release];
+    [vc1 release];
+    [vc2 release];
+	
+    // Attach them to the tab bar controller
+    [tabBarController setViewControllers:viewControllers];
+	
+	
+    // Set tabBarController as rootViewController of window
+    [window setRootViewController:tabBarController];
+	
+    // The window retains tabBarController, we can release our reference
+    [tabBarController release];
+	
+    //[window addSubview:pistolGunViewController.view];
     [window makeKeyAndVisible];
 
     return YES;

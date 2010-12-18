@@ -19,4 +19,6 @@
 @property (nonatomic, retain) IBOutlet AVAudioPlayer *audioPlayer;
 @property (nonatomic, retain) NSString * audioPath;
 -(void)playAudioFile:(id)sender;
+-(void) fireGun;
+
 @end

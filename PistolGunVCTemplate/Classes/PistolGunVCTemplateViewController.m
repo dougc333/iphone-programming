@@ -9,46 +9,51 @@
 #import "PistolGunVCTemplateViewController.h"
 
 @implementation PistolGunVCTemplateViewController
-@synthesize index;
+@synthesize index, pistolView;
 
 
-/**
-// The designated initializer. Override to perform setup that is required before the view is loaded.
-- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
-    if ((self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil])) {
-        // Custom initialization
-		// we dont need this data structure
-//		accelSamples = [[NSArray alloc] initWithObjects:[NSNumber numberWithDouble:0.0],[NSNumber numberWithDouble:0.0],
-//						[NSNumber numberWithDouble:0.0],[NSNumber numberWithDouble:0.0],[NSNumber numberWithDouble:0.0],[NSNumber numberWithDouble:0.0],
-//						[NSNumber numberWithDouble:0.0],[NSNumber numberWithDouble:0.0],[NSNumber numberWithDouble:0.0], nil];
-		
-    }
-    return self;
+
+-(id)init
+{
+	NSLog(@"PistolGunVCTemplateViewController init");
+	if(self = [super initWithNibName:nil bundle:nil]){
+		UITabBarItem *tabBarItem = [self tabBarItem];
+		[tabBarItem setTitle:@"PistolGun"];
+	}	
+	return self;
 }
-*/
 
-/*
+
 // Implement loadView to create a view hierarchy programmatically, without using a nib.
 - (void)loadView {
+	CGRect area = CGRectMake(0, 150, 330, 200);
+	PistolView *pv = [[PistolView alloc]initWithFrame:area];
+	[pv setBackgroundColor:[UIColor clearColor]];
+	
+	UIImage *image = [UIImage imageNamed:@"gun.jpg"];
+	UIImageView *gunImage = [[UIImageView alloc] initWithImage:image];
+	[gunImage setFrame:area];
+	[pv addSubview:gunImage];
+	//this isnt clean, you have 2 views here. 
+	[self setView:pv];
+	self.pistolView = pv;
+
+	
 }
-*/
 
 
-/*
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
     [super viewDidLoad];
+	NSLog(@"PistolGunVCTemplateViewController view did load");
+	//[self.pistolView fireGun];
+	
 }
-*/
 
 
 - (void)viewWillAppear:(BOOL)animated {
-	//careful, this is by byte. 
-	//int index = 0;
-	//double xSample[10];
 	[self createTransferFunction];
 	NSLog(@"viewWillAppear %d",sizeof(xSample));
-	//memset(xSample,0.0,sizeof(xSample));
 	[self reset];
 	for (int i=0; i<sizeof(xSample); i++) {
 		NSLog(@"memset xSample:%f",xSample[i]);
@@ -67,6 +72,7 @@
 	[[UIAccelerometer sharedAccelerometer] setDelegate:nil];	
 }
 
+//this is a unit impulse response
 -(void) createTransferFunction
 {
 	h[0]=2.0;
@@ -83,19 +89,6 @@
 
 -(double) computeConvolution
 {
-	//multiply by constant transfer function first
-	/**
-	NSLog(@"h[0]: %f xSample[0]:%f ",h[0],xSample[0]);
-	NSLog(@"h[1]: %f xSample[1]:%f",h[1],xSample[1]);
-	NSLog(@"h[2]: %f xSample[2]:%f",h[2],xSample[2]);
-	NSLog(@"h[3]: %f xSample[3]:%f",h[3],xSample[3]);
-	NSLog(@"h[4]: %f xSample[4]:%f",h[4],xSample[4]);
-	NSLog(@"h[5]: %f xSample[5]:%f",h[5],xSample[5]);
-	NSLog(@"h[6]: %f xSample[6]:%f",h[6],xSample[6]);
-	NSLog(@"h[7]: %f xSample[7]:%f",h[7],xSample[7]);
-	NSLog(@"h[8]: %f xSample[8]:%f",h[8],xSample[8]);
-	NSLog(@"h[9]: %f xSample[9]:%f",h[9],xSample[9]);
-*/
 	double sum = h[0]*xSample[0]+h[1]*xSample[1]+h[2]*xSample[2]+h[3]*xSample[3]+h[4]*xSample[4]+
 	h[5]*xSample[5]+h[6]*xSample[6]+h[7]*xSample[7]+h[8]*xSample[8]+h[9]*xSample[9];
 	NSLog(@"sum:%f",sum);
@@ -108,9 +101,7 @@
 	x = [accel x];
 	y = [accel y];
 	z = [accel z];
-	//HypnosisView *hv = (HypnosisView *)[self view];
-	//[hv setXShift:10.0 * [accel x]];
-	//[hv setNeedsDisplay];
+
 	if([accel x] < 0){
 		x = 0;
 	}
@@ -129,6 +120,7 @@
 	if (sum>1.7) {
 		[self reset];
 		NSLog(@"DETECTED FIRE!!!!!!!!!!!!!++++++++++++++++");
+		[self.pistolView fireGun];
 	}
 	
 }
@@ -139,14 +131,6 @@
 }
 
 
-/* does the acceleration work the same when rotated? probably not, the definition of
- // the x, y, z axis changes. 
-// Override to allow orientations other than the default portrait orientation.
-- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
-    // Return YES for supported orientations
-    return (interfaceOrientation == UIInterfaceOrientationPortrait);
-}
-*/
 
 - (void)didReceiveMemoryWarning {
 	// Releases the view if it doesn't have a superview.

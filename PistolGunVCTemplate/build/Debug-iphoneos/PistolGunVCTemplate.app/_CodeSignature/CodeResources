@@ -8,13 +8,21 @@
 		<data>
 		Y/gGqU3ozY8gua++rTgRDqUggS8=
 		</data>
+		<key>PhaserViewController.nib</key>
+		<data>
+		R/DwGKg1EqYClvKqZp/xbNbBgF0=
+		</data>
 		<key>PistolGunVCTemplateViewController.nib</key>
 		<data>
-		uZMUG2B+O+0clV2L1s8C4Np6TZE=
+		NWrAegnNHAnwVGUqh27yfdvVJFQ=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>README</key>
+		<data>
+		OPXD/DQdkvErm/kw9hAwn6mqyCU=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -27,6 +35,18 @@
 		<key>gunshot.mp3</key>
 		<data>
 		rywfy6Ys6apbujYwf41irFrXles=
+		</data>
+		<key>phaser.jpg</key>
+		<data>
+		BKb05/RzbT1Y/9sz/4yoa6O2XJk=
+		</data>
+		<key>phaser.mp3</key>
+		<data>
+		fKzvSVyU7zwIguP5D9VzXk3kgoo=
+		</data>
+		<key>phaser2.mp3</key>
+		<data>
+		8SEnCBTNz8K1hy17k5s7ikYabt8=
 		</data>
 	</dict>
 	<key>rules</key>

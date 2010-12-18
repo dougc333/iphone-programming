@@ -13,7 +13,7 @@
 @synthesize audioPlayer, audioPath;
 
 - (id)initWithFrame:(CGRect)frame {
-    NSLog(@"initFrame");
+    NSLog(@"PistolView initFrame");
 	if ((self = [super initWithFrame:frame])) {
         // Initialization code
     }
@@ -21,23 +21,41 @@
 }
 
 -(id)initWithCoder:(NSCoder *)aDecoder{
-	NSLog(@"initCoder");
+	NSLog(@"PistolView initCoder");
 	if ((self = [super initWithCoder:aDecoder])) {
         //data structs init here
 		self.multipleTouchEnabled=YES;
 		self.audioPath = [[NSBundle mainBundle] pathForResource:@"gunshot" ofType:@"mp3"];
 	
     }
-	
     return self;
 }
 
-//better to put the audioPlayer init in touchesBegan so we 
+-(void)fireGun
+{
+	NSLog(@"PistolView fireGun!!");
+	audioPath = [[NSBundle mainBundle] pathForResource:@"gunshot" ofType:@"mp3"];
+	if (self.audioPath) {
+		//NSString *audioPath = [[NSBundle mainBundle] pathForResource:@"gunshot" ofType:@"mp3"];
+		NSURL *audioURL = [NSURL fileURLWithPath:audioPath];
+		self.audioPlayer = [[AVAudioPlayer alloc] initWithContentsOfURL:audioURL error:nil];
+		//delegate should be in view
+		self.audioPlayer.delegate = self;
+	}
+	[self playAudioFile:nil];	
+	
+}
+
+
+//better to put t he audioPlayer init in touchesBegan so we 
 //get more rapid gun fire. Lousy programming style but it 
 //makes for a better game
 -(void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
 {
-//	NSString *audioPath = [[NSBundle mainBundle] pathForResource:@"gunshot" ofType:@"mp3"];
+	NSLog(@"PistolView touchesBegan");
+	[self fireGun];
+	/**
+	audioPath = [[NSBundle mainBundle] pathForResource:@"gunshot" ofType:@"mp3"];
 	if (self.audioPath) {
 		NSURL *audioURL = [NSURL fileURLWithPath:audioPath];
 		self.audioPlayer = [[AVAudioPlayer alloc] initWithContentsOfURL:audioURL error:nil];
@@ -45,19 +63,18 @@
 		self.audioPlayer.delegate = self;
 	}
 	NSLog(@"touches began");
-	UITouch *t = [[touches allObjects] objectAtIndex:0];
 	[self playAudioFile:nil];
-	
+	*/
 }
 
 -(void)playAudioFile:(id)sender
 {
-	NSLog(@"play audio file");
+	NSLog(@"PhaserView play audio file");
 	[self.audioPlayer play];
 	//[sender setTitle:@"Stop Audio File"	forState:UIControlStateNormal];
 }
 
-/*
+/* we need to add graphics or a placement of an image here for the score
 // Only override drawRect: if you perform custom drawing.
 // An empty implementation adversely affects performance during animation.
 - (void)drawRect:(CGRect)rect {
