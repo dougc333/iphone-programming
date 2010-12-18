@@ -1,0 +1,21 @@
+Problems:
+1) to get the phaser sound right. I wanted a phaser sound where you would press the screen and keep emitting a phaser sound.
+The accelerometer can't work at the same time as sound. If you leave the accelerometer on the event handler for the touch interface
+is not responsive.
+
+The hand phaser sounds were too wimpy. You didn't get the feel it was a real phaser. Found 
+a MP3 from the old star trek of the Enterprise space ship firing phasers. Downloaded the FLV from youtube and had to figure out 
+how to convert it. Turns out you separate MP3 from FLV, you don't convert. All the internet posts on using ffmpeg to convert
+flash video format to mp3 are wrong. 
+
+2) Gun, the sound from a .45 cal pistol is weak. The real sound doesn't give the feel of a gun. Replaced with a rifle shot with 
+an echo. 
+
+3) BumpAPI: implemented then took it out. Did this to determine who would win in a quickdraw type play with 2 ipods. Problem
+is you have to bump each time you want to play. There is no way to restart the API without connecting to the BumpAPI server.
+They should use bluetooth or the network to sync up. There should be a graceful degradation. Bump doesnt give you that. 
+
+4) The pistol gun has the ability for the user to use a wrist action to fire it. People like it. I added a motion to do the loading
+and reloading but the sound is too weak to make it satisfying. Took it out. 
+
+
