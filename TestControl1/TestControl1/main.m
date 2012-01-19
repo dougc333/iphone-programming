@@ -1,0 +1,17 @@
+//
+//  main.m
+//  TestControl1
+//
+//  Created by d c on 11/30/11.
+//  Copyright 2011 stanford. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+int main(int argc, char *argv[])
+{
+    NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
+    int retVal = UIApplicationMain(argc, argv, nil, nil);
+    [pool release];
+    return retVal;
+}
